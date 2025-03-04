@@ -1,0 +1,253 @@
+tree_root                               
+-                                       procellariiformes                       
+|                                       -                                       diomedeidae                             
+|                                       |                                       -                                       laysan albatross                        
+|                                       |                                       -                                       sooty albatross                         
+|                                       |                                       -                                       black footed albatross                  
+|                                       -                                       procellariidae                          
+|                                       |                                       -                                       northern fulmar                         
+-                                       cuculiformes                            
+|                                       -                                       cuculidae                               
+|                                       |                                       -                                       yellow billed cuckoo                    
+|                                       |                                       -                                       geococcyx                               
+|                                       |                                       -                                       black billed cuckoo                     
+|                                       |                                       -                                       groove billed ani                       
+|                                       |                                       -                                       mangrove cuckoo                         
+-                                       charadriiformes                         
+|                                       -                                       stercorariidae                          
+|                                       |                                       -                                       long tailed jaeger                      
+|                                       |                                       -                                       pomarine jaeger                         
+|                                       -                                       alcidae                                 
+|                                       |                                       -                                       parakeet auklet                         
+|                                       |                                       -                                       pigeon guillemot                        
+|                                       |                                       -                                       crested auklet                          
+|                                       |                                       -                                       rhinoceros auklet                       
+|                                       |                                       -                                       horned puffin                           
+|                                       |                                       -                                       least auklet                            
+|                                       -                                       laridae                                 
+|                                       |                                       -                                       forsters tern                           
+|                                       |                                       -                                       ring billed gull                        
+|                                       |                                       -                                       western gull                            
+|                                       |                                       -                                       black tern                              
+|                                       |                                       -                                       elegant tern                            
+|                                       |                                       -                                       california gull                         
+|                                       |                                       -                                       red legged kittiwake                    
+|                                       |                                       -                                       herring gull                            
+|                                       |                                       -                                       caspian tern                            
+|                                       |                                       -                                       least tern                              
+|                                       |                                       -                                       ivory gull                              
+|                                       |                                       -                                       common tern                             
+|                                       |                                       -                                       glaucous winged gull                    
+|                                       |                                       -                                       slaty backed gull                       
+|                                       |                                       -                                       heermann gull                           
+|                                       |                                       -                                       arctic tern                             
+-                                       passeriformes                           
+|                                       -                                       laniidae                                
+|                                       |                                       -                                       loggerhead shrike                       
+|                                       |                                       -                                       great grey shrike                       
+|                                       -                                       mimidae                                 
+|                                       |                                       -                                       sage thrasher                           
+|                                       |                                       -                                       mockingbird                             
+|                                       |                                       -                                       brown thrasher                          
+|                                       |                                       -                                       gray catbird                            
+|                                       -                                       troglodytidae                           
+|                                       |                                       -                                       marsh wren                              
+|                                       |                                       -                                       rock wren                               
+|                                       |                                       -                                       winter wren                             
+|                                       |                                       -                                       house wren                              
+|                                       |                                       -                                       carolina wren                           
+|                                       |                                       -                                       bewick wren                             
+|                                       |                                       -                                       cactus wren                             
+|                                       -                                       icteriidae                              
+|                                       |                                       -                                       yellow breasted chat                    
+|                                       -                                       bombycillidae                           
+|                                       |                                       -                                       bohemian waxwing                        
+|                                       |                                       -                                       cedar waxwing                           
+|                                       -                                       vireonidae                              
+|                                       |                                       -                                       red eyed vireo                          
+|                                       |                                       -                                       warbling vireo                          
+|                                       |                                       -                                       black capped vireo                      
+|                                       |                                       -                                       blue headed vireo                       
+|                                       |                                       -                                       yellow throated vireo                   
+|                                       |                                       -                                       philadelphia vireo                      
+|                                       |                                       -                                       white eyed vireo                        
+|                                       -                                       icteridae                               
+|                                       |                                       -                                       boat tailed grackle                     
+|                                       |                                       -                                       red winged blackbird                    
+|                                       |                                       -                                       hooded oriole                           
+|                                       |                                       -                                       bobolink                                
+|                                       |                                       -                                       western meadowlark                      
+|                                       |                                       -                                       bronzed cowbird                         
+|                                       |                                       -                                       scott oriole                            
+|                                       |                                       -                                       yellow headed blackbird                 
+|                                       |                                       -                                       brewer blackbird                        
+|                                       |                                       -                                       baltimore oriole                        
+|                                       |                                       -                                       rusty blackbird                         
+|                                       |                                       -                                       orchard oriole                          
+|                                       |                                       -                                       shiny cowbird                           
+|                                       -                                       fringillidae                            
+|                                       |                                       -                                       american goldfinch                      
+|                                       |                                       -                                       european goldfinch                      
+|                                       |                                       -                                       evening grosbeak                        
+|                                       |                                       -                                       gray crowned rosy finch                 
+|                                       |                                       -                                       purple finch                            
+|                                       |                                       -                                       pine grosbeak                           
+|                                       -                                       motacillidae                            
+|                                       |                                       -                                       american pipit                          
+|                                       -                                       emberizidae                             
+|                                       |                                       -                                       dark eyed junco                         
+|                                       -                                       sittidae                                
+|                                       |                                       -                                       white breasted nuthatch                 
+|                                       -                                       hirundinidae                            
+|                                       |                                       -                                       barn swallow                            
+|                                       |                                       -                                       bank swallow                            
+|                                       |                                       -                                       tree swallow                            
+|                                       |                                       -                                       cliff swallow                           
+|                                       -                                       ptilonorhynchidae                       
+|                                       |                                       -                                       spotted catbird                         
+|                                       -                                       alaudidae                               
+|                                       |                                       -                                       horned lark                             
+|                                       -                                       certhiidae                              
+|                                       |                                       -                                       brown creeper                           
+|                                       -                                       passerellidae                           
+|                                       |                                       -                                       grasshopper sparrow                     
+|                                       |                                       -                                       clay colored sparrow                    
+|                                       |                                       -                                       brewer sparrow                          
+|                                       |                                       -                                       white throated sparrow                  
+|                                       |                                       -                                       field sparrow                           
+|                                       |                                       -                                       lincoln sparrow                         
+|                                       |                                       -                                       baird sparrow                           
+|                                       |                                       -                                       green tailed towhee                     
+|                                       |                                       -                                       seaside sparrow                         
+|                                       |                                       -                                       tree sparrow                            
+|                                       |                                       -                                       eastern towhee                          
+|                                       |                                       -                                       chipping sparrow                        
+|                                       |                                       -                                       white crowned sparrow                   
+|                                       |                                       -                                       le conte sparrow                        
+|                                       |                                       -                                       henslow sparrow                         
+|                                       |                                       -                                       song sparrow                            
+|                                       |                                       -                                       nelson sharp tailed sparrow             
+|                                       |                                       -                                       vesper sparrow                          
+|                                       |                                       -                                       fox sparrow                             
+|                                       |                                       -                                       harris sparrow                          
+|                                       |                                       -                                       black throated sparrow                  
+|                                       |                                       -                                       savannah sparrow                        
+|                                       -                                       corvidae                                
+|                                       |                                       -                                       fish crow                               
+|                                       |                                       -                                       white necked raven                      
+|                                       |                                       -                                       clark nutcracker                        
+|                                       |                                       -                                       common raven                            
+|                                       |                                       -                                       blue jay                                
+|                                       |                                       -                                       green jay                               
+|                                       |                                       -                                       florida jay                             
+|                                       |                                       -                                       american crow                           
+|                                       -                                       sturnidae                               
+|                                       |                                       -                                       cape glossy starling                    
+|                                       -                                       parulidae                               
+|                                       |                                       -                                       cape may warbler                        
+|                                       |                                       -                                       magnolia warbler                        
+|                                       |                                       -                                       wilson warbler                          
+|                                       |                                       -                                       american redstart                       
+|                                       |                                       -                                       prothonotary warbler                    
+|                                       |                                       -                                       louisiana waterthrush                   
+|                                       |                                       -                                       prairie warbler                         
+|                                       |                                       -                                       hooded warbler                          
+|                                       |                                       -                                       tennessee warbler                       
+|                                       |                                       -                                       yellow warbler                          
+|                                       |                                       -                                       ovenbird                                
+|                                       |                                       -                                       common yellowthroat                     
+|                                       |                                       -                                       myrtle warbler                          
+|                                       |                                       -                                       canada warbler                          
+|                                       |                                       -                                       mourning warbler                        
+|                                       |                                       -                                       black throated blue warbler             
+|                                       |                                       -                                       black and white warbler                 
+|                                       |                                       -                                       chestnut sided warbler                  
+|                                       |                                       -                                       bay breasted warbler                    
+|                                       |                                       -                                       kentucky warbler                        
+|                                       |                                       -                                       northern waterthrush                    
+|                                       |                                       -                                       golden winged warbler                   
+|                                       |                                       -                                       swainson warbler                        
+|                                       |                                       -                                       worm eating warbler                     
+|                                       |                                       -                                       nashville warbler                       
+|                                       |                                       -                                       orange crowned warbler                  
+|                                       |                                       -                                       cerulean warbler                        
+|                                       |                                       -                                       palm warbler                            
+|                                       |                                       -                                       pine warbler                            
+|                                       |                                       -                                       blue winged warbler                     
+|                                       -                                       tyrannidae                              
+|                                       |                                       -                                       tropical kingbird                       
+|                                       |                                       -                                       yellow bellied flycatcher               
+|                                       |                                       -                                       gray kingbird                           
+|                                       |                                       -                                       least flycatcher                        
+|                                       |                                       -                                       vermilion flycatcher                    
+|                                       |                                       -                                       western wood pewee                      
+|                                       |                                       -                                       acadian flycatcher                      
+|                                       |                                       -                                       great crested flycatcher                
+|                                       |                                       -                                       sayornis                                
+|                                       |                                       -                                       scissor tailed flycatcher               
+|                                       |                                       -                                       olive sided flycatcher                  
+|                                       -                                       cardinalidae                            
+|                                       |                                       -                                       blue grosbeak                           
+|                                       |                                       -                                       summer tanager                          
+|                                       |                                       -                                       scarlet tanager                         
+|                                       |                                       -                                       cardinal                                
+|                                       |                                       -                                       rose breasted grosbeak                  
+|                                       |                                       -                                       indigo bunting                          
+|                                       |                                       -                                       lazuli bunting                          
+|                                       |                                       -                                       painted bunting                         
+|                                       -                                       passeridae                              
+|                                       |                                       -                                       house sparrow                           
+-                                       caprimulgiformes                        
+|                                       -                                       caprimulgidae                           
+|                                       |                                       -                                       chuck will widow                        
+|                                       |                                       -                                       nighthawk                               
+|                                       |                                       -                                       whip poor will                          
+-                                       suliformes                              
+|                                       -                                       fregatidae                              
+|                                       |                                       -                                       frigatebird                             
+|                                       -                                       phalacrocoracidae                       
+|                                       |                                       -                                       brandt cormorant                        
+|                                       |                                       -                                       pelagic cormorant                       
+|                                       |                                       -                                       red faced cormorant                     
+-                                       piciformes                              
+|                                       -                                       picidae                                 
+|                                       |                                       -                                       american three toed woodpecker          
+|                                       |                                       -                                       northern flicker                        
+|                                       |                                       -                                       pileated woodpecker                     
+|                                       |                                       -                                       downy woodpecker                        
+|                                       |                                       -                                       red headed woodpecker                   
+|                                       |                                       -                                       red cockaded woodpecker                 
+|                                       |                                       -                                       red bellied woodpecker                  
+-                                       anseriformes                            
+|                                       -                                       anatidae                                
+|                                       |                                       -                                       red breasted merganser                  
+|                                       |                                       -                                       hooded merganser                        
+|                                       |                                       -                                       gadwall                                 
+|                                       |                                       -                                       mallard                                 
+-                                       podicipediformes                        
+|                                       -                                       podicipedidae                           
+|                                       |                                       -                                       horned grebe                            
+|                                       |                                       -                                       pied billed grebe                       
+|                                       |                                       -                                       eared grebe                             
+|                                       |                                       -                                       western grebe                           
+-                                       apodiformes                             
+|                                       -                                       trochilidae                             
+|                                       |                                       -                                       ruby throated hummingbird               
+|                                       |                                       -                                       anna hummingbird                        
+|                                       |                                       -                                       green violetear                         
+|                                       |                                       -                                       rufous hummingbird                      
+-                                       coraciiformes                           
+|                                       -                                       alcedinidae                             
+|                                       |                                       -                                       pied kingfisher                         
+|                                       |                                       -                                       ringed kingfisher                       
+|                                       |                                       -                                       green kingfisher                        
+|                                       |                                       -                                       white breasted kingfisher               
+|                                       |                                       -                                       belted kingfisher                       
+-                                       gaviiformes                             
+|                                       -                                       gaviidae                                
+|                                       |                                       -                                       pacific loon                            
+-                                       pelecaniformes                          
+|                                       -                                       pelecanidae                             
+|                                       |                                       -                                       white pelican                           
+|                                       |                                       -                                       brown pelican                           
+

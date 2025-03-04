@@ -1,0 +1,3146 @@
+{
+    "abbey": [
+        "abbey, which has large, historic building.",
+        "abbey, which is architectural features such as arches, columns, and spires.",
+        "abbey, which has religious symbols such as crosses or statues.",
+        "abbey, which has surrounding grounds or gardens.",
+        "abbey, which has stained glass windows.",
+        "abbey, which has bell tower or clock tower.",
+        "abbey, which has cloisters or courtyards.",
+        "abbey, which has historical markers or plaques indicating its significance."
+    ],
+    "airplane cabin": [
+        "airplane cabin, which has rows of seats.",
+        "airplane cabin, which has overhead compartments.",
+        "airplane cabin, which has windows.",
+        "airplane cabin, which has overhead lights.",
+        "airplane cabin, which is air vents.",
+        "airplane cabin, which has seat belts.",
+        "airplane cabin, which has tray tables.",
+        "airplane cabin, which has flight attendant call buttons.",
+        "airplane cabin, which has safety information cards.",
+        "airplane cabin, which is aisle down the center of the cabin."
+    ],
+    "airport terminal": [
+        "airport terminal, which has large, open space with high ceilings.",
+        "airport terminal, which has rows of seating.",
+        "airport terminal, which has ticket counters and check-in desks.",
+        "airport terminal, which has security checkpoints.",
+        "airport terminal, which has baggage claim area.",
+        "airport terminal, which has departure and arrival boards.",
+        "airport terminal, which has shops and restaurants.",
+        "airport terminal, which has gates for boarding planes.",
+        "airport terminal, which has signage indicating different areas of the terminal.",
+        "airport terminal, which has large windows for natural light."
+    ],
+    "alley": [
+        "alley, which has narrow pathway between buildings.",
+        "alley, which often dimly lit or shadowed.",
+        "alley, which has lined with dumpsters or trash cans.",
+        "alley, which has graffiti or street art on walls.",
+        "alley, which has fire escapes or ladders on buildings.",
+        "alley, which has potentially littered or dirty ground.",
+        "alley, which has lack of natural light.",
+        "alley, which has potentially lined with doors or windows from adjacent buildings."
+    ],
+    "amphitheater": [
+        "amphitheater, which has circular or semi-circular seating arrangement.",
+        "amphitheater, which has tiered seating levels.",
+        "amphitheater, which is a stage or performance area.",
+        "amphitheater, which has open-air design.",
+        "amphitheater, which has columns or arches.",
+        "amphitheater, which is acoustically designed structure.",
+        "amphitheater, which often located outdoors.",
+        "amphitheater, which may have a roof or canopy for weather protection."
+    ],
+    "amusement arcade": [
+        "amusement arcade, which has bright and colorful signage.",
+        "amusement arcade, which has flashing lights and neon signs.",
+        "amusement arcade, which has rows of arcade machines.",
+        "amusement arcade, which has ticket redemption counters.",
+        "amusement arcade, which has prizes on display.",
+        "amusement arcade, which has people playing games.",
+        "amusement arcade, which has coin-operated machines.",
+        "amusement arcade, which has sounds of games and music."
+    ],
+    "amusement park": [
+        "amusement park, which has colorful rides and attractions.",
+        "amusement park, which has crowds of people.",
+        "amusement park, which has ticket booths or entrance gates.",
+        "amusement park, which has food stands or vendors.",
+        "amusement park, which has signage with the name of the park or specific attractions.",
+        "amusement park, which has roller coasters or other thrill rides.",
+        "amusement park, which has games or carnival-style attractions.",
+        "amusement park, which is a Ferris wheel or carousel."
+    ],
+    "anechoic chamber": [
+        "anechoic chamber, which is a room with walls, ceiling, and floor covered in sound-absorbing materials.",
+        "anechoic chamber, which has no windows or openings to the outside.",
+        "anechoic chamber, which has specialized acoustic panels or wedges on the walls.",
+        "anechoic chamber, which has no echo or reverberation in the room.",
+        "anechoic chamber, which has possibly a door with soundproofing features.",
+        "anechoic chamber, which has possibly equipment or instruments for testing sound or electromagnetic interference."
+    ],
+    "apartment building outdoor": [
+        "apartment building outdoor, which has multiple floors or levels.",
+        "apartment building outdoor, which has balconies or patios.",
+        "apartment building outdoor, which has windows on each floor.",
+        "apartment building outdoor, which is a main entrance with a lobby or foyer.",
+        "apartment building outdoor, which has landscaping or greenery around the building.",
+        "apartment building outdoor, which has parking spaces or a parking lot.",
+        "apartment building outdoor, which has signage or address numbers.",
+        "apartment building outdoor, which has outdoor lighting or security cameras."
+    ],
+    "apse indoor": [
+        "apse indoor, which has curved or semi-circular shape.",
+        "apse indoor, which often located at the end of a church or cathedral.",
+        "apse indoor, which may have stained glass windows.",
+        "apse indoor, which is architectural details such as columns or arches.",
+        "apse indoor, which has religious symbols or artwork.",
+        "apse indoor, which is altar or religious artifacts.",
+        "apse indoor, which has pews or seating for worshippers.",
+        "apse indoor, which has lighting fixtures or candles."
+    ],
+    "aquarium": [
+        "aquarium, which has glass or acrylic tank.",
+        "aquarium, which has water inside the tank.",
+        "aquarium, which is aquatic plants.",
+        "aquarium, which has rocks or gravel at the bottom of the tank.",
+        "aquarium, which has fish or other aquatic animals swimming inside.",
+        "aquarium, which has filter or air pump.",
+        "aquarium, which has lighting system.",
+        "aquarium, which has decorations such as driftwood or artificial plants."
+    ],
+    "arch": [
+        "arch, which has curved or arched shape.",
+        "arch, which has made of stone, brick, or other building materials.",
+        "arch, which may have decorative elements such as carvings or sculptures.",
+        "arch, which may be part of a larger architectural structure such as a building or bridge.",
+        "arch, which may have a keystone at the top of the arch.",
+        "arch, which may have columns or pillars supporting the arch."
+    ],
+    "archive": [
+        "archive, which has shelves or cabinets filled with files or boxes.",
+        "archive, which has labels or tags on the files or boxes indicating contents or dates.",
+        "archive, which has organized and categorized storage system.",
+        "archive, which has possibly a computer or database for digital archives.",
+        "archive, which has possibly a librarian or archivist organizing or retrieving materials.",
+        "archive, which has possibly a reading or research area for accessing archived materials."
+    ],
+    "arrival gate outdoor": [
+        "arrival gate outdoor, which is a large sign indicating \"Arrivals\" or \"Arrival Gate\".",
+        "arrival gate outdoor, which is a covered area with seating for waiting passengers.",
+        "arrival gate outdoor, which is a designated area for taxis or other transportation.",
+        "arrival gate outdoor, which is a flight information display board.",
+        "arrival gate outdoor, which is airport staff assisting passengers.",
+        "arrival gate outdoor, which has luggage carts or baggage claim area.",
+        "arrival gate outdoor, which is a designated area for pick-up or drop-off of passengers."
+    ],
+    "art gallery": [
+        "art gallery, which has white walls.",
+        "art gallery, which has various artworks displayed on walls or pedestals.",
+        "art gallery, which has track lighting or spotlights illuminating the artworks.",
+        "art gallery, which has people viewing the artworks.",
+        "art gallery, which has informational plaques or labels next to the artworks.",
+        "art gallery, which has benches or seating for visitors.",
+        "art gallery, which is a reception desk or entrance area.",
+        "art gallery, which is a sign or banner indicating the name of the gallery."
+    ],
+    "art school": [
+        "art school, which is art supplies such as paintbrushes, easels, canvases, and palettes.",
+        "art school, which is artwork displayed on walls or easels.",
+        "art school, which has students working on art projects.",
+        "art school, which has instructors providing guidance or demonstrations.",
+        "art school, which is a studio or classroom setting with workstations.",
+        "art school, which is art books or reference materials.",
+        "art school, which is a sign or logo indicating the name of the art school."
+    ],
+    "art studio": [
+        "art studio, which has various art supplies such as paintbrushes, paints, canvases, and easels.",
+        "art studio, which is artwork on display or in progress.",
+        "art studio, which has natural light or studio lighting.",
+        "art studio, which has work tables or desks.",
+        "art studio, which has storage for art supplies.",
+        "art studio, which has inspirational posters or artwork on the walls.",
+        "art studio, which has possibly an artist or art student working in the space."
+    ],
+    "assembly line": [
+        "assembly line, which has conveyor belts.",
+        "assembly line, which has machinery and equipment for production.",
+        "assembly line, which has products moving along the line.",
+        "assembly line, which has workers assembling or working on products.",
+        "assembly line, which has overhead lighting.",
+        "assembly line, which has safety barriers or signs.",
+        "assembly line, which has organized and structured layout."
+    ],
+    "athletic field outdoor": [
+        "athletic field outdoor, which has grass or turf surface.",
+        "athletic field outdoor, which has boundary lines marking the field.",
+        "athletic field outdoor, which has goalposts or nets at each end of the field.",
+        "athletic field outdoor, which has bleachers or seating for spectators.",
+        "athletic field outdoor, which has sports equipment such as balls or goal markers.",
+        "athletic field outdoor, which has players or athletes in uniforms.",
+        "athletic field outdoor, which has scoreboard or clock.",
+        "athletic field outdoor, which has surrounding fencing or barriers."
+    ],
+    "atrium public": [
+        "atrium public, which has large, open space with natural light.",
+        "atrium public, which has plants and greenery.",
+        "atrium public, which has seating areas.",
+        "atrium public, which has glass walls or ceilings.",
+        "atrium public, which has modern architecture.",
+        "atrium public, which has people walking or sitting.",
+        "atrium public, which has signage indicating it is a public space."
+    ],
+    "attic": [
+        "attic, which has sloped ceilings.",
+        "attic, which has exposed beams.",
+        "attic, which has insulation.",
+        "attic, which has storage boxes or items.",
+        "attic, which has small windows or skylights.",
+        "attic, which is access stairs or ladder.",
+        "attic, which has dust or cobwebs.",
+        "attic, which has potentially old or vintage items stored in the attic."
+    ],
+    "auditorium": [
+        "auditorium, which has rows of seats or benches.",
+        "auditorium, which is a stage or platform.",
+        "auditorium, which has lighting fixtures.",
+        "auditorium, which has sound equipment.",
+        "auditorium, which is a podium or lectern.",
+        "auditorium, which has curtains or drapes.",
+        "auditorium, which is acoustic panels or soundproofing materials.",
+        "auditorium, which has signage or banners indicating the name of the auditorium."
+    ],
+    "auto factory": [
+        "auto factory, which has large industrial building.",
+        "auto factory, which has smokestacks or exhaust vents.",
+        "auto factory, which is assembly lines or conveyor belts.",
+        "auto factory, which has machinery and equipment for manufacturing vehicles.",
+        "auto factory, which has parking lots filled with cars.",
+        "auto factory, which has workers in uniforms or safety gear.",
+        "auto factory, which has signage or logos indicating the name of the auto factory."
+    ],
+    "badlands": [
+        "badlands, which has rugged, barren landscape.",
+        "badlands, which has eroded rock formations.",
+        "badlands, which has steep slopes and cliffs.",
+        "badlands, which has lack of vegetation.",
+        "badlands, which has unique geological formations such as hoodoos or buttes.",
+        "badlands, which has dry, arid climate.",
+        "badlands, which has distinct layers of sedimentary rock.",
+        "badlands, which canyons or gullies formed by erosion."
+    ],
+    "badminton court indoor": [
+        "badminton court indoor, which has wooden or synthetic flooring.",
+        "badminton court indoor, which has white boundary lines marking the court.",
+        "badminton court indoor, which has net dividing the court into two halves.",
+        "badminton court indoor, which has overhead lighting fixtures.",
+        "badminton court indoor, which has seating for spectators.",
+        "badminton court indoor, which has equipment such as shuttlecocks and rackets.",
+        "badminton court indoor, which has walls or barriers surrounding the court to prevent balls from going out of bounds."
+    ],
+    "baggage claim": [
+        "baggage claim, which has conveyor belts for luggage.",
+        "baggage claim, which has overhead screens displaying flight information.",
+        "baggage claim, which has baggage carts or trolleys.",
+        "baggage claim, which is airport signage directing passengers to baggage claim.",
+        "baggage claim, which is airport staff or passengers waiting for luggage.",
+        "baggage claim, which has luggage tags or labels on the luggage on the conveyor belts."
+    ],
+    "bakery shop": [
+        "bakery shop, which has display cases filled with baked goods.",
+        "bakery shop, which has shelves with bread, pastries, and cakes.",
+        "bakery shop, which is a counter with a cash register.",
+        "bakery shop, which is a sign with the name of the bakery.",
+        "bakery shop, which has employees wearing aprons and hats.",
+        "bakery shop, which has baking equipment such as ovens and mixers.",
+        "bakery shop, which is a warm and inviting atmosphere.",
+        "bakery shop, which has customers browsing and purchasing baked goods."
+    ],
+    "ball pit": [
+        "ball pit, which has colorful plastic balls.",
+        "ball pit, which is a large pit or pool filled with balls.",
+        "ball pit, which has soft padding or cushioning at the bottom of the pit.",
+        "ball pit, which is a net or barrier to contain the balls.",
+        "ball pit, which has children or people playing or jumping in the ball pit.",
+        "ball pit, which has bright, playful colors.",
+        "ball pit, which is a ladder or steps to enter the ball pit."
+    ],
+    "ballroom": [
+        "ballroom, which has large, open space.",
+        "ballroom, which has chandeliers or other elegant lighting fixtures.",
+        "ballroom, which has dance floor.",
+        "ballroom, which has tables and chairs for guests.",
+        "ballroom, which has stage or band area.",
+        "ballroom, which has decorative pillars or columns.",
+        "ballroom, which has ornate decorations or architecture.",
+        "ballroom, which has mirrors on walls.",
+        "ballroom, which has high ceilings."
+    ],
+    "bamboo forest": [
+        "bamboo forest, which has tall, slender green stalks with jointed segments.",
+        "bamboo forest, which has dense, lush foliage.",
+        "bamboo forest, which has light filtering through the canopy.",
+        "bamboo forest, which is a thick undergrowth of bamboo shoots.",
+        "bamboo forest, which is a peaceful and serene atmosphere.",
+        "bamboo forest, which is a variety of wildlife such as birds, insects, and small mammals.",
+        "bamboo forest, which is a rustling sound as the wind moves through the bamboo stalks."
+    ],
+    "banquet hall": [
+        "banquet hall, which has large, open space.",
+        "banquet hall, which has tables and chairs set up for dining.",
+        "banquet hall, which has decorative lighting fixtures.",
+        "banquet hall, which has elegant decor such as chandeliers, drapes, or floral arrangements.",
+        "banquet hall, which is a stage or podium for speeches or performances.",
+        "banquet hall, which is a dance floor.",
+        "banquet hall, which has catering stations or buffet tables.",
+        "banquet hall, which is a bar or beverage station."
+    ],
+    "bar": [
+        "bar, which is a counter or bar top.",
+        "bar, which has stools or chairs for seating.",
+        "bar, which has shelves or cabinets for storing alcohol.",
+        "bar, which has bottles of alcohol or beer taps.",
+        "bar, which has glasses or mugs.",
+        "bar, which is a bartender or server.",
+        "bar, which has signage or decor indicating it is a bar.",
+        "bar, which has lighting or ambiance typical of a bar setting."
+    ],
+    "barndoor": [
+        "barndoor, which has wooden or metal construction.",
+        "barndoor, which has horizontal or vertical slats.",
+        "barndoor, which has hinges for opening and closing.",
+        "barndoor, which has latch or lock mechanism.",
+        "barndoor, which has mounted on a track or rail.",
+        "barndoor, which is used for sliding or swinging open and closed.",
+        "barndoor, which typically found on barns or rustic buildings."
+    ],
+    "baseball field": [
+        "baseball field, which is a large, grassy field with a diamond-shaped layout.",
+        "baseball field, which has bases at each corner of the diamond.",
+        "baseball field, which is a pitcher's mound in the center.",
+        "baseball field, which has outfield fences or walls.",
+        "baseball field, which has dugouts for players.",
+        "baseball field, which is a backstop behind home plate.",
+        "baseball field, which has bleachers or seating for spectators.",
+        "baseball field, which is a scoreboard.",
+        "baseball field, which has lights for night games."
+    ],
+    "basement": [
+        "basement, which has lower level of a building.",
+        "basement, which has concrete or stone walls.",
+        "basement, which has lack of natural light.",
+        "basement, which has storage items such as boxes, tools, or furniture.",
+        "basement, which has possibly a water heater or furnace.",
+        "basement, which has stairs leading down to the basement.",
+        "basement, which has possibly windows at ground level or small windows near the ceiling for light."
+    ],
+    "basilica": [
+        "basilica, which has large, grand architectural structure.",
+        "basilica, which typically has a long nave with side aisles.",
+        "basilica, which often has a dome or spires.",
+        "basilica, which has intricate stained glass windows.",
+        "basilica, which has religious symbols such as crosses or statues.",
+        "basilica, which has ornate decorations and artwork.",
+        "basilica, which may have a bell tower or campanile.",
+        "basilica, which often located in a prominent location in a city or town."
+    ],
+    "basketball court outdoor": [
+        "basketball court outdoor, which has rectangular shape with painted lines for boundaries and key areas.",
+        "basketball court outdoor, which has basketball hoop and backboard.",
+        "basketball court outdoor, which has concrete or asphalt surface.",
+        "basketball court outdoor, which has surrounding fencing or barriers.",
+        "basketball court outdoor, which has benches or seating for spectators.",
+        "basketball court outdoor, which has basketballs and players in action.",
+        "basketball court outdoor, which has outdoor lighting for night games.",
+        "basketball court outdoor, which has trees or other outdoor elements in the background."
+    ],
+    "bathroom": [
+        "bathroom, which has tiled walls and floors.",
+        "bathroom, which is a toilet.",
+        "bathroom, which is a sink.",
+        "bathroom, which is a bathtub or shower.",
+        "bathroom, which has towels or bath mats.",
+        "bathroom, which has toiletries such as soap, shampoo, and toothbrushes.",
+        "bathroom, which is a mirror.",
+        "bathroom, which is a window or ventilation fan."
+    ],
+    "batters box": [
+        "batters box, which has rectangular shape.",
+        "batters box, which typically made of chalk or painted lines on the ground.",
+        "batters box, which has located near home plate on a baseball or softball field.",
+        "batters box, which has usually has a designated area for the batter to stand.",
+        "batters box, which may have markers for the umpire to determine if a pitch is a strike or ball.",
+        "batters box, which often has a designated area for the catcher to crouch behind."
+    ],
+    "bazaar indoor": [
+        "bazaar indoor, which has crowded and bustling atmosphere.",
+        "bazaar indoor, which has colorful and diverse merchandise on display.",
+        "bazaar indoor, which has vendors selling goods such as textiles, spices, jewelry, and handicrafts.",
+        "bazaar indoor, which has narrow aisles and stalls.",
+        "bazaar indoor, which has people haggling and bargaining.",
+        "bazaar indoor, which has traditional architecture and decor.",
+        "bazaar indoor, which has signs and banners advertising products and prices.",
+        "bazaar indoor, which is a mix of smells from food stalls and incense."
+    ],
+    "beach": [
+        "beach, which has sandy shoreline.",
+        "beach, which has blue water.",
+        "beach, which has palm trees or other vegetation.",
+        "beach, which has beach umbrellas or chairs.",
+        "beach, which has people in swimsuits.",
+        "beach, which has seagulls or other birds.",
+        "beach, which has waves crashing on the shore.",
+        "beach, which has boats or surfboards in the water."
+    ],
+    "bedroom": [
+        "bedroom, which is a bed with pillows and blankets.",
+        "bedroom, which has nightstands with lamps.",
+        "bedroom, which has dressers or wardrobes.",
+        "bedroom, which has windows with curtains or blinds.",
+        "bedroom, which is a closet.",
+        "bedroom, which is a rug or carpet.",
+        "bedroom, which has wall decorations such as paintings or photographs.",
+        "bedroom, which is a mirror.",
+        "bedroom, which is a door leading to another room or hallway."
+    ],
+    "berth": [
+        "berth, which is a bed or sleeping area on a boat or train.",
+        "berth, which typically made of wood or metal.",
+        "berth, which may have bedding or cushions.",
+        "berth, which often located in a small, enclosed space.",
+        "berth, which may have storage compartments underneath.",
+        "berth, which may have curtains or partitions for privacy.",
+        "berth, which may have a ladder or steps for access."
+    ],
+    "biology laboratory": [
+        "biology laboratory, which has lab coats and safety goggles.",
+        "biology laboratory, which has lab equipment such as microscopes, test tubes, and petri dishes.",
+        "biology laboratory, which has biological specimens or samples.",
+        "biology laboratory, which has lab benches and workstations.",
+        "biology laboratory, which has chemical reagents and solutions.",
+        "biology laboratory, which has computers or data analysis equipment.",
+        "biology laboratory, which has biological posters or charts on the walls.",
+        "biology laboratory, which has safety signs and emergency equipment."
+    ],
+    "bistro indoor": [
+        "bistro indoor, which has small, cozy seating area.",
+        "bistro indoor, which has tables with chairs or booths.",
+        "bistro indoor, which has dim lighting.",
+        "bistro indoor, which has decorative elements like plants, artwork, or candles.",
+        "bistro indoor, which is a bar area with stools.",
+        "bistro indoor, which is a menu board or chalkboard with specials.",
+        "bistro indoor, which has servers or bartenders in uniform.",
+        "bistro indoor, which has kitchen or food prep area visible in the background."
+    ],
+    "boat deck": [
+        "boat deck, which has wooden or metal surface.",
+        "boat deck, which has railing or barrier around the edge.",
+        "boat deck, which has lifebuoy or life jackets.",
+        "boat deck, which is anchor or ropes.",
+        "boat deck, which has navigation equipment.",
+        "boat deck, which has seating or lounging areas.",
+        "boat deck, which has fishing equipment.",
+        "boat deck, which has water or ocean in the background."
+    ],
+    "bookstore": [
+        "bookstore, which has shelves filled with books.",
+        "bookstore, which has signage indicating genres or sections.",
+        "bookstore, which has book displays.",
+        "bookstore, which has seating areas for reading.",
+        "bookstore, which has cash register or checkout counter.",
+        "bookstore, which has bookcases or bookshelves.",
+        "bookstore, which has posters or promotional materials for books or authors.",
+        "bookstore, which has employees or customers browsing or reading."
+    ],
+    "bow window indoor": [
+        "bow window indoor, which is a curved or angled window that protrudes from the wall.",
+        "bow window indoor, which has multiple window panes.",
+        "bow window indoor, which often with a window seat or bench underneath.",
+        "bow window indoor, which has decorative trim or molding around the window.",
+        "bow window indoor, which has natural light coming through the window.",
+        "bow window indoor, which has view of the outdoors from the window.",
+        "bow window indoor, which has curtains or blinds on the window."
+    ],
+    "bow window outdoor": [
+        "bow window outdoor, which has curved or rounded shape.",
+        "bow window outdoor, which has multiple panes of glass.",
+        "bow window outdoor, which has protrudes from the exterior of the building.",
+        "bow window outdoor, which often has a window seat or ledge.",
+        "bow window outdoor, which may have decorative elements such as trim or molding.",
+        "bow window outdoor, which has provides a panoramic view of the surroundings.",
+        "bow window outdoor, which typically larger than a standard window."
+    ],
+    "bowling alley": [
+        "bowling alley, which has rows of bowling lanes.",
+        "bowling alley, which has bowling balls and pins.",
+        "bowling alley, which has scoring screens or monitors.",
+        "bowling alley, which has seating area for spectators.",
+        "bowling alley, which has shoe rental counter.",
+        "bowling alley, which has snack bar or concession stand.",
+        "bowling alley, which has overhead scoring displays.",
+        "bowling alley, which has bowling shoes on display or in rental area."
+    ],
+    "boxing ring": [
+        "boxing ring, which has square or rectangular shape.",
+        "boxing ring, which has elevated platform with ropes surrounding it.",
+        "boxing ring, which has corner posts with turnbuckles.",
+        "boxing ring, which canvas covering the platform.",
+        "boxing ring, which has seating around the ring.",
+        "boxing ring, which has overhead lighting.",
+        "boxing ring, which has sponsor logos or advertisements on the canvas.",
+        "boxing ring, which has boxing equipment such as gloves, punching bags, or towels nearby."
+    ],
+    "brewery indoor": [
+        "brewery indoor, which has large metal brewing tanks or fermenters.",
+        "brewery indoor, which has pipes and hoses for transferring liquids.",
+        "brewery indoor, which has barrels or kegs for storing and aging beer.",
+        "brewery indoor, which has brewing equipment such as kettles, mash tuns, and fermenters.",
+        "brewery indoor, which is a tasting room or bar area.",
+        "brewery indoor, which has beer taps or draft lines.",
+        "brewery indoor, which has brewing ingredients such as hops, malt, and yeast.",
+        "brewery indoor, which has signage or branding indicating it is a brewery."
+    ],
+    "bridge": [
+        "bridge, which is a structure spanning a body of water or land.",
+        "bridge, which has supports or pillars holding up the bridge.",
+        "bridge, which is a deck or roadway for vehicles or pedestrians to cross.",
+        "bridge, which has railings or barriers for safety.",
+        "bridge, which is arches, trusses, or cables for support.",
+        "bridge, which has lights for visibility at night.",
+        "bridge, which has signs indicating the name or location of the bridge."
+    ],
+    "building facade": [
+        "building facade, which is architectural details such as windows, doors, columns, and decorative elements.",
+        "building facade, which has building materials such as brick, stone, concrete, or glass.",
+        "building facade, which has signage or logos indicating the building's purpose or ownership.",
+        "building facade, which has symmetry or asymmetry in the design.",
+        "building facade, which has color scheme or patterns on the facade.",
+        "building facade, which has presence of balconies, awnings, or other external structures.",
+        "building facade, which has surrounding environment or context of the building, such as other buildings or landscaping.."
+    ],
+    "bullring": [
+        "bullring, which has circular or oval shape.",
+        "bullring, which has seating tiers for spectators.",
+        "bullring, which has central arena for bullfighting.",
+        "bullring, which has barriers or walls to separate the audience from the arena.",
+        "bullring, which has possibly a roof or canopy to provide shade.",
+        "bullring, which has traditional Spanish architecture.",
+        "bullring, which has possibly flags or banners decorating the arena."
+    ],
+    "burial chamber": [
+        "burial chamber, which has stone or brick walls.",
+        "burial chamber, which is artifacts or decorations related to burial rituals.",
+        "burial chamber, which has human remains or coffins.",
+        "burial chamber, which has inscriptions or hieroglyphics.",
+        "burial chamber, which has dim lighting or candles.",
+        "burial chamber, which is a sense of solemnity or reverence.",
+        "burial chamber, which is a sense of enclosure or confinement."
+    ],
+    "bus interior": [
+        "bus interior, which has rows of seats.",
+        "bus interior, which has windows.",
+        "bus interior, which has overhead compartments.",
+        "bus interior, which has handrails or straps for standing passengers.",
+        "bus interior, which is advertisements or informational signs.",
+        "bus interior, which has emergency exits.",
+        "bus interior, which has driver's cabin.",
+        "bus interior, which has poles for stability.",
+        "bus interior, which has lighting fixtures."
+    ],
+    "butchers shop": [
+        "butchers shop, which has display cases with various cuts of meat.",
+        "butchers shop, which has meat hanging from hooks or displayed on shelves.",
+        "butchers shop, which has butcher wearing a white coat and apron.",
+        "butchers shop, which has meat slicer or grinder.",
+        "butchers shop, which has scales for weighing meat.",
+        "butchers shop, which has signage with the name of the shop.",
+        "butchers shop, which has refrigeration units for storing meat.",
+        "butchers shop, which has cutting boards and knives."
+    ],
+    "butte": [
+        "butte, which is a flat-topped hill or mountain with steep sides.",
+        "butte, which typically found in arid or semi-arid regions.",
+        "butte, which has composed of sedimentary rock layers.",
+        "butte, which often has a distinct shape or silhouette.",
+        "butte, which may have visible erosion patterns or layers.",
+        "butte, which can be surrounded by smaller rock formations or mesas.",
+        "butte, which may have vegetation growing on or around it."
+    ],
+    "cabin outdoor": [
+        "cabin outdoor, which has wooden structure.",
+        "cabin outdoor, which has surrounded by trees or nature.",
+        "cabin outdoor, which has chimney or smoke coming from the roof.",
+        "cabin outdoor, which has windows and a door.",
+        "cabin outdoor, which has porch or deck.",
+        "cabin outdoor, which has rustic or cozy appearance.",
+        "cabin outdoor, which has located in a remote or wooded area.",
+        "cabin outdoor, which has possibly a sign or name plaque on the cabin."
+    ],
+    "cafeteria": [
+        "cafeteria, which has tables and chairs for dining.",
+        "cafeteria, which has food service counters or stations.",
+        "cafeteria, which has trays or plates for carrying food.",
+        "cafeteria, which has food display cases or refrigerators.",
+        "cafeteria, which has menus or signs indicating food options.",
+        "cafeteria, which has utensils and condiments on tables.",
+        "cafeteria, which has people eating or waiting in line.",
+        "cafeteria, which has cafeteria staff in uniforms."
+    ],
+    "campsite": [
+        "campsite, which has tents or shelters.",
+        "campsite, which has campfire or fire pit.",
+        "campsite, which has camping chairs or seating.",
+        "campsite, which has camping gear such as backpacks, sleeping bags, and cooking equipment.",
+        "campsite, which has outdoor surroundings such as trees, grass, or mountains.",
+        "campsite, which has camping lanterns or lights.",
+        "campsite, which has picnic table or outdoor cooking area."
+    ],
+    "campus": [
+        "campus, which has multiple buildings, possibly with different architectural styles.",
+        "campus, which has green spaces such as lawns, trees, and gardens.",
+        "campus, which has pathways or sidewalks connecting different buildings.",
+        "campus, which has signs or banners with the name of the institution.",
+        "campus, which has students or people walking around.",
+        "campus, which has sports fields or recreational areas.",
+        "campus, which has parking lots or parking structures.",
+        "campus, which has campus landmarks or statues.",
+        "campus, which has outdoor seating areas or benches."
+    ],
+    "canal natural": [
+        "canal natural, which is a body of water with a slow current.",
+        "canal natural, which has surrounded by natural vegetation such as trees and bushes.",
+        "canal natural, which has possibly inhabited by wildlife such as birds or fish.",
+        "canal natural, which may have a muddy or rocky bottom.",
+        "canal natural, which may have a winding or straight shape.",
+        "canal natural, which may have bridges or walkways crossing over it.",
+        "canal natural, which may have boats or canoes floating on it."
+    ],
+    "canal urban": [
+        "canal urban, which has waterway running through an urban area.",
+        "canal urban, which has lined with buildings or structures.",
+        "canal urban, which has bridges crossing over the canal.",
+        "canal urban, which has boats or gondolas on the water.",
+        "canal urban, which has walkways or paths along the canal.",
+        "canal urban, which has street lamps or other lighting fixtures.",
+        "canal urban, which has vegetation or trees along the banks of the canal."
+    ],
+    "candy store": [
+        "candy store, which has colorful displays of various candies and sweets.",
+        "candy store, which has shelves or bins filled with candy.",
+        "candy store, which has signage or branding indicating it is a candy store.",
+        "candy store, which candy jars or containers.",
+        "candy store, which is a cash register or checkout counter.",
+        "candy store, which is a variety of candy packaging and brands.",
+        "candy store, which is a whimsical or playful decor theme."
+    ],
+    "canyon": [
+        "canyon, which has steep, rocky walls.",
+        "canyon, which has deep crevice or gorge.",
+        "canyon, which has layers of rock formations.",
+        "canyon, which has vegetation growing along the edges or in the bottom.",
+        "canyon, which has possibly a river or stream running through it.",
+        "canyon, which has shadows and light creating depth and contrast.",
+        "canyon, which has scale of surrounding landscape to show the size of the canyon."
+    ],
+    "car interior backseat": [
+        "car interior backseat, which has cushioned seats.",
+        "car interior backseat, which has seat belts.",
+        "car interior backseat, which has headrests.",
+        "car interior backseat, which has rear air vents.",
+        "car interior backseat, which has cup holders.",
+        "car interior backseat, which has seat pockets.",
+        "car interior backseat, which has child safety seat anchors.",
+        "car interior backseat, which is adjustable seat positions."
+    ],
+    "car interior frontseat": [
+        "car interior frontseat, which has steering wheel.",
+        "car interior frontseat, which has dashboard with gauges and controls.",
+        "car interior frontseat, which has front seats with seatbelts.",
+        "car interior frontseat, which has center console with cup holders and storage compartments.",
+        "car interior frontseat, which has gear shift.",
+        "car interior frontseat, which is air vents.",
+        "car interior frontseat, which has radio or infotainment system.",
+        "car interior frontseat, which has rearview mirror.",
+        "car interior frontseat, which has door handles and window controls."
+    ],
+    "carrousel": [
+        "carrousel, which has brightly colored, ornate design.",
+        "carrousel, which has multiple seats or animals for riders.",
+        "carrousel, which has central pole or structure.",
+        "carrousel, which has lights or decorations.",
+        "carrousel, which has rotating mechanism.",
+        "carrousel, which has music or sound system.",
+        "carrousel, which has platform or base for stability."
+    ],
+    "casino indoor": [
+        "casino indoor, which has bright and colorful lighting.",
+        "casino indoor, which has rows of slot machines.",
+        "casino indoor, which has card tables with dealers and players.",
+        "casino indoor, which has roulette wheels.",
+        "casino indoor, which has poker chips and cards.",
+        "casino indoor, which is a bar or lounge area.",
+        "casino indoor, which has security cameras.",
+        "casino indoor, which is a cashier's cage.",
+        "casino indoor, which is a high ceiling with decorative elements.",
+        "casino indoor, which is a distinct casino floor layout with different sections for various games."
+    ],
+    "castle": [
+        "castle, which has large stone or brick structure.",
+        "castle, which has towers or turrets.",
+        "castle, which has battlements or crenellations.",
+        "castle, which has moat or drawbridge.",
+        "castle, which has flags or banners.",
+        "castle, which has windows with decorative features.",
+        "castle, which has surrounding walls or fortifications.",
+        "castle, which is a grand entrance or gatehouse."
+    ],
+    "catacomb": [
+        "catacomb, which has underground burial site.",
+        "catacomb, which has dark, eerie atmosphere.",
+        "catacomb, which has narrow passageways.",
+        "catacomb, which has stone walls and ceilings.",
+        "catacomb, which has human remains or burial niches.",
+        "catacomb, which has religious symbols or inscriptions.",
+        "catacomb, which has low lighting or candles.",
+        "catacomb, which has damp or musty smell."
+    ],
+    "cathedral indoor": [
+        "cathedral indoor, which has high ceilings.",
+        "cathedral indoor, which has stained glass windows.",
+        "cathedral indoor, which has intricate architectural details.",
+        "cathedral indoor, which has pews or seating for worshippers.",
+        "cathedral indoor, which has religious symbols or artwork.",
+        "cathedral indoor, which is altar or pulpit.",
+        "cathedral indoor, which candles or religious decorations.",
+        "cathedral indoor, which has statues or icons of saints or religious figures."
+    ],
+    "cathedral outdoor": [
+        "cathedral outdoor, which has large, ornate architecture.",
+        "cathedral outdoor, which has spires or towers.",
+        "cathedral outdoor, which has stained glass windows.",
+        "cathedral outdoor, which has intricate carvings or sculptures.",
+        "cathedral outdoor, which is a cross or religious symbol on the exterior.",
+        "cathedral outdoor, which is a courtyard or plaza in front of the building.",
+        "cathedral outdoor, which has people entering or exiting the building.",
+        "cathedral outdoor, which has surrounding greenery or landscaping."
+    ],
+    "cavern indoor": [
+        "cavern indoor, which has rocky walls and ceilings.",
+        "cavern indoor, which has dim lighting.",
+        "cavern indoor, which has stalactites and stalagmites.",
+        "cavern indoor, which has natural formations such as columns or draperies.",
+        "cavern indoor, which has damp or humid environment.",
+        "cavern indoor, which has lack of artificial structures or lighting.",
+        "cavern indoor, which has echoes or reverberations in sound.",
+        "cavern indoor, which has potentially narrow or winding passages."
+    ],
+    "cemetery": [
+        "cemetery, which has gravestones or tombstones.",
+        "cemetery, which has grass or landscaping.",
+        "cemetery, which has pathways or roads.",
+        "cemetery, which has trees or shrubs.",
+        "cemetery, which has fences or gates.",
+        "cemetery, which has mausoleums or crypts.",
+        "cemetery, which has flowers or decorations.",
+        "cemetery, which has benches or seating areas."
+    ],
+    "chalet": [
+        "chalet, which has wooden structure.",
+        "chalet, which has sloped roof.",
+        "chalet, which has cozy and rustic appearance.",
+        "chalet, which has windows with shutters.",
+        "chalet, which has chimney.",
+        "chalet, which has surrounded by nature or snow.",
+        "chalet, which has outdoor seating area or balcony.",
+        "chalet, which has located in a mountainous or forested area."
+    ],
+    "cheese factory": [
+        "cheese factory, which has large industrial building.",
+        "cheese factory, which has signage or logo indicating it is a cheese factory.",
+        "cheese factory, which has large vats or tanks for milk processing.",
+        "cheese factory, which has conveyor belts for cheese production.",
+        "cheese factory, which has workers in uniforms or protective gear.",
+        "cheese factory, which has packaging equipment for finished cheese products.",
+        "cheese factory, which has storage areas for aging cheese.",
+        "cheese factory, which has refrigeration units for storing dairy products."
+    ],
+    "chemistry lab": [
+        "chemistry lab, which has lab coats and safety goggles.",
+        "chemistry lab, which has various glassware such as beakers, test tubes, and flasks.",
+        "chemistry lab, which has chemical reagents and solutions.",
+        "chemistry lab, which has lab benches and workstations.",
+        "chemistry lab, which has fume hoods and ventilation systems.",
+        "chemistry lab, which has safety signs and labels.",
+        "chemistry lab, which has scientific equipment such as microscopes, balances, and Bunsen burners.",
+        "chemistry lab, which has computers and data analysis software."
+    ],
+    "chicken coop outdoor": [
+        "chicken coop outdoor, which has wooden structure.",
+        "chicken coop outdoor, which has wire mesh or fencing surrounding the coop.",
+        "chicken coop outdoor, which has nesting boxes.",
+        "chicken coop outdoor, which has roosting bars.",
+        "chicken coop outdoor, which has feeders and waterers.",
+        "chicken coop outdoor, which has chicken wire or netting covering the top to protect from predators.",
+        "chicken coop outdoor, which has outdoor space for chickens to roam and forage.",
+        "chicken coop outdoor, which has possibly a run attached to the coop for additional space."
+    ],
+    "childs room": [
+        "childs room, which has colorful and playful decor.",
+        "childs room, which has toys and stuffed animals.",
+        "childs room, which has children's furniture such as a small bed or desk.",
+        "childs room, which has children's artwork or posters on the walls.",
+        "childs room, which has books or educational materials.",
+        "childs room, which is a play area with toys or games.",
+        "childs room, which is a child-sized chair or table.",
+        "childs room, which is a nightlight or other child-friendly lighting fixtures."
+    ],
+    "church indoor": [
+        "church indoor, which has pews or seating for congregation.",
+        "church indoor, which is altar or pulpit.",
+        "church indoor, which has stained glass windows.",
+        "church indoor, which has religious symbols or icons.",
+        "church indoor, which candles or candelabras.",
+        "church indoor, which has religious artwork or statues.",
+        "church indoor, which has choir loft or organ.",
+        "church indoor, which has religious texts or hymnals.",
+        "church indoor, which has cross or crucifix."
+    ],
+    "church outdoor": [
+        "church outdoor, which has tall spires or towers.",
+        "church outdoor, which has stained glass windows.",
+        "church outdoor, which is a cross or religious symbol on the building.",
+        "church outdoor, which is a large entrance or doorway.",
+        "church outdoor, which is architectural details such as arches or columns.",
+        "church outdoor, which is a bell tower.",
+        "church outdoor, which has landscaping or gardens around the building.",
+        "church outdoor, which is a sign or plaque indicating the name of the church."
+    ],
+    "classroom": [
+        "classroom, which has desks or tables arranged in rows or groups.",
+        "classroom, which has chairs for students.",
+        "classroom, which is a whiteboard or chalkboard.",
+        "classroom, which has educational posters or charts on the walls.",
+        "classroom, which is a teacher's desk or podium.",
+        "classroom, which has textbooks or other educational materials on desks.",
+        "classroom, which has students or teachers present in the room.",
+        "classroom, which has windows or doors for natural light and ventilation."
+    ],
+    "clean room": [
+        "clean room, which has organized and clutter-free space.",
+        "clean room, which has clean and dust-free surfaces.",
+        "clean room, which has neatly arranged furniture.",
+        "clean room, which has no visible stains or dirt.",
+        "clean room, which has fresh and pleasant smell.",
+        "clean room, which has well-lit room with no dark corners.",
+        "clean room, which has minimal personal items or decorations.",
+        "clean room, which has clean windows and mirrors."
+    ],
+    "cliff": [
+        "cliff, which has steep, vertical or near-vertical rock face.",
+        "cliff, which has rugged or jagged edges.",
+        "cliff, which has height difference between the top and bottom.",
+        "cliff, which has lack of vegetation or trees on the face of the cliff.",
+        "cliff, which has presence of rocks or boulders at the base.",
+        "cliff, which has potentially a body of water at the bottom of the cliff.",
+        "cliff, which has potentially a sky or horizon visible above the cliff."
+    ],
+    "cloister indoor": [
+        "cloister indoor, which is arched or vaulted ceilings.",
+        "cloister indoor, which has columns or pillars.",
+        "cloister indoor, which has religious artwork or symbols.",
+        "cloister indoor, which has stained glass windows.",
+        "cloister indoor, which has stone or marble floors.",
+        "cloister indoor, which has wooden pews or benches.",
+        "cloister indoor, which is a central courtyard or garden.",
+        "cloister indoor, which has religious statues or sculptures."
+    ],
+    "closet": [
+        "closet, which is a piece of furniture used for storage.",
+        "closet, which typically made of wood or metal.",
+        "closet, which has doors that open and close.",
+        "closet, which has shelves or hanging rods for organizing clothes.",
+        "closet, which has drawers for storing smaller items.",
+        "closet, which has possibly a mirror on the door.",
+        "closet, which may have a lock for security.",
+        "closet, which may have decorative handles or knobs."
+    ],
+    "clothing store": [
+        "clothing store, which has mannequins displaying clothing.",
+        "clothing store, which has racks or shelves of clothing items.",
+        "clothing store, which has signage or branding indicating it is a clothing store.",
+        "clothing store, which has fitting rooms.",
+        "clothing store, which has mirrors.",
+        "clothing store, which has cash register or checkout counter.",
+        "clothing store, which has clothing accessories such as shoes, hats, or jewelry.",
+        "clothing store, which has sales tags or price signs."
+    ],
+    "coast": [
+        "coast, which has sandy or rocky shoreline.",
+        "coast, which has waves crashing against the shore.",
+        "coast, which has blue or green water.",
+        "coast, which has seagulls or other seabirds.",
+        "coast, which has boats or ships in the water.",
+        "coast, which has beach umbrellas or chairs.",
+        "coast, which has palm trees or other coastal vegetation.",
+        "coast, which has cliffs or bluffs overlooking the water."
+    ],
+    "cockpit": [
+        "cockpit, which is a control panel with various switches, buttons, and dials.",
+        "cockpit, which is a steering wheel or control yoke.",
+        "cockpit, which has seats for the pilot and co-pilot.",
+        "cockpit, which has windows for visibility.",
+        "cockpit, which has communication equipment such as radios and intercoms.",
+        "cockpit, which has navigation instruments such as GPS and altimeters.",
+        "cockpit, which has flight controls such as throttle, rudder pedals, and control column."
+    ],
+    "coffee shop": [
+        "coffee shop, which has signage or logo indicating it is a coffee shop.",
+        "coffee shop, which has outdoor seating area with tables and chairs.",
+        "coffee shop, which has interior decor such as coffee-related artwork or signage.",
+        "coffee shop, which has coffee machines or equipment visible.",
+        "coffee shop, which has display case with pastries or baked goods.",
+        "coffee shop, which has menu board or chalkboard with drink options.",
+        "coffee shop, which has barista or staff behind a counter taking orders.",
+        "coffee shop, which has customers sitting or standing in line to order or waiting for their drinks."
+    ],
+    "computer room": [
+        "computer room, which has multiple computers or laptops.",
+        "computer room, which has desks or tables with monitors, keyboards, and mice.",
+        "computer room, which has office chairs.",
+        "computer room, which has cables and wires connecting the devices.",
+        "computer room, which has shelves or cabinets for storage.",
+        "computer room, which has posters or decorations related to technology.",
+        "computer room, which has overhead lighting or desk lamps.",
+        "computer room, which has possibly a printer or other peripherals."
+    ],
+    "conference center": [
+        "conference center, which has large, spacious room.",
+        "conference center, which has rows of chairs or tables.",
+        "conference center, which has podium or stage.",
+        "conference center, which has projector screens or monitors.",
+        "conference center, which has microphones or sound system.",
+        "conference center, which has signage indicating conference center name or event.",
+        "conference center, which has professional lighting.",
+        "conference center, which has presentation materials such as posters or banners."
+    ],
+    "conference room": [
+        "conference room, which has large table or multiple tables.",
+        "conference room, which has chairs around the table.",
+        "conference room, which has whiteboard or projector screen.",
+        "conference room, which has conference phone or speaker system.",
+        "conference room, which has presentation equipment (projector, screen, etc.).",
+        "conference room, which has windows or artificial lighting.",
+        "conference room, which has wall-mounted clock.",
+        "conference room, which has power outlets and data ports.",
+        "conference room, which has conference room signage or nameplate."
+    ],
+    "construction site": [
+        "construction site, which has heavy machinery such as cranes, bulldozers, or excavators.",
+        "construction site, which has construction materials such as steel beams, concrete blocks, or scaffolding.",
+        "construction site, which has workers wearing hard hats and reflective vests.",
+        "construction site, which has safety signs and barriers.",
+        "construction site, which has piles of dirt, gravel, or sand.",
+        "construction site, which has unfinished structures or buildings.",
+        "construction site, which has tools and equipment scattered around the site."
+    ],
+    "control room": [
+        "control room, which has multiple screens displaying various data or video feeds.",
+        "control room, which has control panels with buttons, switches, and dials.",
+        "control room, which has computer monitors.",
+        "control room, which has communication equipment such as radios or headsets.",
+        "control room, which is a central desk or console where operators are stationed.",
+        "control room, which is a map or layout of the area being monitored.",
+        "control room, which has surveillance cameras.",
+        "control room, which is a large number of wires and cables for connecting equipment."
+    ],
+    "control tower outdoor": [
+        "control tower outdoor, which has tall structure with windows.",
+        "control tower outdoor, which is antennas or communication equipment on the roof.",
+        "control tower outdoor, which is a rotating beacon on top.",
+        "control tower outdoor, which is a control room with multiple screens and equipment inside.",
+        "control tower outdoor, which is a runway or airfield nearby.",
+        "control tower outdoor, which is aviation markings or signage on the building.",
+        "control tower outdoor, which is a fence or security perimeter around the tower."
+    ],
+    "corn field": [
+        "corn field, which has tall, green stalks with ears of corn.",
+        "corn field, which has rows of plants in a grid pattern.",
+        "corn field, which has brown or tilled soil between rows.",
+        "corn field, which has blue sky or clouds in the background.",
+        "corn field, which has farm equipment such as tractors or irrigation systems.",
+        "corn field, which has ears of corn with husks.",
+        "corn field, which has possibly farm buildings or silos in the distance."
+    ],
+    "corridor": [
+        "corridor, which has long, narrow space with walls on either side.",
+        "corridor, which has doors along the walls leading to rooms.",
+        "corridor, which has overhead lighting fixtures.",
+        "corridor, which has flooring such as carpet, tile, or hardwood.",
+        "corridor, which has ceiling with ventilation ducts or light fixtures.",
+        "corridor, which has directional signs or arrows.",
+        "corridor, which has windows or doors at the end of the corridor leading to another area."
+    ],
+    "courthouse": [
+        "courthouse, which has large, imposing building.",
+        "courthouse, which has columns or pillars at the entrance.",
+        "courthouse, which is a dome or clock tower.",
+        "courthouse, which has flags or emblems on the exterior.",
+        "courthouse, which has multiple windows.",
+        "courthouse, which is a sign or plaque indicating it is a courthouse.",
+        "courthouse, which has security cameras or guards.",
+        "courthouse, which has parking lot or area for official vehicles."
+    ],
+    "courtroom": [
+        "courtroom, which has wooden benches for seating.",
+        "courtroom, which is a judge's bench or podium.",
+        "courtroom, which is a witness stand.",
+        "courtroom, which is a jury box.",
+        "courtroom, which has legal documents or books.",
+        "courtroom, which is a court reporter's desk.",
+        "courtroom, which is a flag or emblem representing the court.",
+        "courtroom, which is a bailiff or security officer.",
+        "courtroom, which is a court clerk's desk.",
+        "courtroom, which is a microphone for recording proceedings."
+    ],
+    "covered bridge exterior": [
+        "covered bridge exterior, which has wooden structure.",
+        "covered bridge exterior, which has roof covering the bridge.",
+        "covered bridge exterior, which has trusses or beams supporting the roof.",
+        "covered bridge exterior, which has vertical or diagonal siding.",
+        "covered bridge exterior, which has windows on the sides.",
+        "covered bridge exterior, which has decorative elements such as trim or lattice work.",
+        "covered bridge exterior, which has bridge spanning over a body of water or road.",
+        "covered bridge exterior, which has historical or rustic appearance."
+    ],
+    "creek": [
+        "creek, which has flowing water.",
+        "creek, which has rocky or sandy banks.",
+        "creek, which has vegetation along the edges.",
+        "creek, which has small to medium in size.",
+        "creek, which may have small waterfalls or rapids.",
+        "creek, which may have wildlife such as fish or birds.",
+        "creek, which may have a bridge or stepping stones for crossing."
+    ],
+    "crevasse": [
+        "crevasse, which has deep, narrow crack or fissure in a glacier or ice sheet.",
+        "crevasse, which has jagged edges or walls.",
+        "crevasse, which has icy or snowy bottom.",
+        "crevasse, which has potentially dangerous to cross or navigate.",
+        "crevasse, which can be wide or narrow.",
+        "crevasse, which may have snow bridges or ice formations inside.",
+        "crevasse, which often found in icy or snowy landscapes."
+    ],
+    "cubicle office": [
+        "cubicle office, which has partition walls separating workspaces.",
+        "cubicle office, which has desk with computer and office supplies.",
+        "cubicle office, which has office chair.",
+        "cubicle office, which has overhead lighting.",
+        "cubicle office, which has filing cabinets or shelves.",
+        "cubicle office, which has phone or computer monitor on desk.",
+        "cubicle office, which has personal items or decorations on desk or walls.",
+        "cubicle office, which has carpet or tile flooring."
+    ],
+    "delicatessen": [
+        "delicatessen, which is a variety of meats, cheeses, and other specialty foods on display.",
+        "delicatessen, which is a counter or display case for showcasing products.",
+        "delicatessen, which has signage indicating the name of the delicatessen.",
+        "delicatessen, which has refrigerated cases for storing perishable items.",
+        "delicatessen, which has shelves or racks for displaying non-perishable items.",
+        "delicatessen, which is a cash register or payment area.",
+        "delicatessen, which has employees wearing aprons or uniforms.",
+        "delicatessen, which is a deli slicer for cutting meats and cheeses."
+    ],
+    "dentists office": [
+        "dentists office, which has dental chairs.",
+        "dentists office, which has dental tools and equipment.",
+        "dentists office, which has dental x-ray machine.",
+        "dentists office, which has dental cabinets and storage units.",
+        "dentists office, which has dental exam lights.",
+        "dentists office, which has dental posters or educational materials.",
+        "dentists office, which has dental office staff in scrubs.",
+        "dentists office, which has waiting area with magazines and seating.",
+        "dentists office, which has dental office signage or logo."
+    ],
+    "desert sand": [
+        "desert sand, which has vast expanse of sandy terrain.",
+        "desert sand, which has light beige or tan color.",
+        "desert sand, which has lack of vegetation or water sources.",
+        "desert sand, which has ripples or dunes in the sand.",
+        "desert sand, which has footprints or tracks left behind.",
+        "desert sand, which has clear blue sky or sun in the background.",
+        "desert sand, which has heat distortion or mirages in the distance."
+    ],
+    "desert vegetation": [
+        "desert vegetation, which has sparse, low-lying vegetation.",
+        "desert vegetation, which has plants with thick, waxy leaves to retain water.",
+        "desert vegetation, which has plants with deep root systems to access water underground.",
+        "desert vegetation, which has plants with adaptations to survive in hot, arid conditions such as succulents or cacti.",
+        "desert vegetation, which has sandy or rocky soil.",
+        "desert vegetation, which has lack of tall trees or dense foliage.",
+        "desert vegetation, which has presence of desert-specific plants such as Joshua trees, yuccas, or prickly pear cacti."
+    ],
+    "diner indoor": [
+        "diner indoor, which has booths or tables with chairs.",
+        "diner indoor, which has counter with stools.",
+        "diner indoor, which has menu boards or signs.",
+        "diner indoor, which has kitchen area visible.",
+        "diner indoor, which has servers or waitstaff.",
+        "diner indoor, which has condiments on tables.",
+        "diner indoor, which has retro or vintage decor.",
+        "diner indoor, which has neon signs.",
+        "diner indoor, which has food and drink items on tables or counters."
+    ],
+    "diner outdoor": [
+        "diner outdoor, which has outdoor seating area with tables and chairs.",
+        "diner outdoor, which has umbrellas or awnings for shade.",
+        "diner outdoor, which has signage or menu boards.",
+        "diner outdoor, which has people dining or waiting for a table.",
+        "diner outdoor, which has servers or staff members.",
+        "diner outdoor, which has outdoor lighting.",
+        "diner outdoor, which has plants or landscaping.",
+        "diner outdoor, which has outdoor heaters or fans."
+    ],
+    "dinette home": [
+        "dinette home, which is a dining table and chairs.",
+        "dinette home, which has kitchen appliances such as a stove, refrigerator, and microwave.",
+        "dinette home, which has cabinets and countertops.",
+        "dinette home, which has dishes, utensils, and cookware.",
+        "dinette home, which is a dining area separate from the living room.",
+        "dinette home, which has possibly a window with curtains or blinds.",
+        "dinette home, which has decorative items such as placemats, centerpieces, or wall art."
+    ],
+    "dinette vehicle": [
+        "dinette vehicle, which has large, rectangular shape.",
+        "dinette vehicle, which has wheels or tires.",
+        "dinette vehicle, which has windows for visibility.",
+        "dinette vehicle, which has doors for entry and exit.",
+        "dinette vehicle, which has license plate.",
+        "dinette vehicle, which has headlights and taillights.",
+        "dinette vehicle, which has steering wheel.",
+        "dinette vehicle, which has seats for passengers.",
+        "dinette vehicle, which has storage compartments.",
+        "dinette vehicle, which has rearview mirrors."
+    ],
+    "dining car": [
+        "dining car, which has tables and chairs for dining.",
+        "dining car, which has food and drink items on tables.",
+        "dining car, which has waitstaff serving customers.",
+        "dining car, which has menus or signs indicating food options.",
+        "dining car, which has kitchen area with cooking equipment.",
+        "dining car, which has windows with views of the surrounding area.",
+        "dining car, which has dining car signage or branding.",
+        "dining car, which has passengers seated and eating."
+    ],
+    "dining room": [
+        "dining room, which is a table and chairs for dining.",
+        "dining room, which has place settings or tableware.",
+        "dining room, which has lighting fixtures, such as a chandelier or pendant lights.",
+        "dining room, which is a rug or carpet under the table.",
+        "dining room, which is artwork or decorations on the walls.",
+        "dining room, which has curtains or blinds on windows.",
+        "dining room, which is a buffet or sideboard for storage.",
+        "dining room, which is a door leading to the kitchen or other rooms."
+    ],
+    "dorm room": [
+        "dorm room, which has twin-sized bed.",
+        "dorm room, which has desk and chair.",
+        "dorm room, which has mini-fridge.",
+        "dorm room, which has microwave.",
+        "dorm room, which has posters or decorations on the walls.",
+        "dorm room, which has closet or wardrobe.",
+        "dorm room, which has bookshelf or storage unit.",
+        "dorm room, which has window with curtains or blinds.",
+        "dorm room, which has personal items like photos or books."
+    ],
+    "driveway": [
+        "driveway, which has paved or concrete surface.",
+        "driveway, which has leading up to a garage or house.",
+        "driveway, which has bordered by grass or landscaping.",
+        "driveway, which has tire tracks or tire marks.",
+        "driveway, which has vehicles parked on or near the driveway.",
+        "driveway, which has mailbox or address numbers near the entrance.",
+        "driveway, which has possibly a gate or fence at the entrance."
+    ],
+    "driving range outdoor": [
+        "driving range outdoor, which has open space with multiple hitting bays or stalls.",
+        "driving range outdoor, which has golf balls scattered on the ground.",
+        "driving range outdoor, which has golf clubs and bags visible.",
+        "driving range outdoor, which has distance markers or flags indicating target areas.",
+        "driving range outdoor, which has protective netting or barriers to prevent balls from flying off range.",
+        "driving range outdoor, which has golf carts or players practicing their swings.",
+        "driving range outdoor, which has green grass or artificial turf surface."
+    ],
+    "drugstore": [
+        "drugstore, which has signage with the name of the drugstore.",
+        "drugstore, which has shelves stocked with various medications and health products.",
+        "drugstore, which is a pharmacy counter with a pharmacist or pharmacy technician.",
+        "drugstore, which is aisles labeled with different categories of products (e.g. beauty, personal care, over-the-counter medications).",
+        "drugstore, which is a cash register or checkout area.",
+        "drugstore, which is a logo or branding of the drugstore chain.",
+        "drugstore, which is a drive-thru window for prescription pick-up."
+    ],
+    "electrical substation": [
+        "electrical substation, which has large metal structures or buildings.",
+        "electrical substation, which has transformers.",
+        "electrical substation, which has power lines or cables.",
+        "electrical substation, which has insulators.",
+        "electrical substation, which has switches or breakers.",
+        "electrical substation, which has warning signs or labels.",
+        "electrical substation, which has fencing or barriers.",
+        "electrical substation, which has electrical equipment or machinery."
+    ],
+    "elevator door": [
+        "elevator door, which has rectangular shape.",
+        "elevator door, which has metal or glass material.",
+        "elevator door, which has buttons or indicators for selecting floors.",
+        "elevator door, which has sliding or folding mechanism.",
+        "elevator door, which has safety sensors.",
+        "elevator door, which has signage indicating it is an elevator door.",
+        "elevator door, which has proximity to a hallway or lobby area."
+    ],
+    "elevator interior": [
+        "elevator interior, which has metal walls or doors.",
+        "elevator interior, which has buttons for selecting floors.",
+        "elevator interior, which is a floor indicator display.",
+        "elevator interior, which has handrails or bars for support.",
+        "elevator interior, which is a ceiling with lights.",
+        "elevator interior, which is a mirror.",
+        "elevator interior, which is a speaker for announcements.",
+        "elevator interior, which is a emergency button or phone."
+    ],
+    "elevator shaft": [
+        "elevator shaft, which has tall, vertical structure.",
+        "elevator shaft, which has metal or concrete walls.",
+        "elevator shaft, which has doors or gates at each floor level.",
+        "elevator shaft, which has cables or pulleys for the elevator car.",
+        "elevator shaft, which has buttons or controls for selecting floors.",
+        "elevator shaft, which has overhead lighting.",
+        "elevator shaft, which has safety signs or markings.",
+        "elevator shaft, which has emergency phone or communication device."
+    ],
+    "excavation": [
+        "excavation, which is a large hole or pit in the ground.",
+        "excavation, which has dirt or soil piled up around the edges.",
+        "excavation, which has tools such as shovels, pickaxes, or bulldozers nearby.",
+        "excavation, which has layers of soil or rock exposed in the walls of the excavation.",
+        "excavation, which has possibly artifacts or fossils visible in the exposed layers.",
+        "excavation, which has safety barriers or caution signs around the perimeter of the excavation.."
+    ],
+    "factory indoor": [
+        "factory indoor, which has large industrial building.",
+        "factory indoor, which has machinery and equipment.",
+        "factory indoor, which has conveyor belts.",
+        "factory indoor, which has pipes and ducts.",
+        "factory indoor, which has overhead cranes.",
+        "factory indoor, which has workers in uniforms.",
+        "factory indoor, which has safety signs and equipment.",
+        "factory indoor, which has storage containers.",
+        "factory indoor, which has production lines.",
+        "factory indoor, which has industrial lighting."
+    ],
+    "fastfood restaurant": [
+        "fastfood restaurant, which has bright and colorful signage with the restaurant's logo.",
+        "fastfood restaurant, which has drive-thru window.",
+        "fastfood restaurant, which has outdoor seating area.",
+        "fastfood restaurant, which has menu board displaying food items and prices.",
+        "fastfood restaurant, which has employees wearing uniforms with the restaurant's logo.",
+        "fastfood restaurant, which has food packaging with the restaurant's branding.",
+        "fastfood restaurant, which has fast food items such as burgers, fries, and drinks visible in the photo."
+    ],
+    "field wild": [
+        "field wild, which has open, grassy or wooded area.",
+        "field wild, which has no visible structures or buildings.",
+        "field wild, which has trees, bushes, or other vegetation.",
+        "field wild, which has wildlife such as birds, insects, or small animals.",
+        "field wild, which has natural lighting.",
+        "field wild, which has no signs of human activity or development."
+    ],
+    "fire escape": [
+        "fire escape, which has metal structure attached to a building.",
+        "fire escape, which has stairs or ladders leading down to the ground.",
+        "fire escape, which often painted in a bright color for visibility.",
+        "fire escape, which has emergency exit signs or markings.",
+        "fire escape, which typically located on the exterior of a building.",
+        "fire escape, which may have a railing or handrail for safety.",
+        "fire escape, which may have a landing or platform at each level for access and safety.."
+    ],
+    "fire station": [
+        "fire station, which has red or white building with a large garage door.",
+        "fire station, which has fire trucks or emergency vehicles parked outside.",
+        "fire station, which has fire station sign or emblem.",
+        "fire station, which has flagpole with a flag.",
+        "fire station, which has fire hydrant nearby.",
+        "fire station, which has emergency lights or sirens on the building.",
+        "fire station, which has firefighters in uniform.",
+        "fire station, which has equipment such as hoses, ladders, and axes visible."
+    ],
+    "firing range indoor": [
+        "firing range indoor, which has bulletproof walls or barriers.",
+        "firing range indoor, which has target stands or paper targets.",
+        "firing range indoor, which has bullet casings on the ground.",
+        "firing range indoor, which has ear protection equipment.",
+        "firing range indoor, which has shooting lanes or booths.",
+        "firing range indoor, which has firearms or rifles.",
+        "firing range indoor, which has safety signs or instructions.",
+        "firing range indoor, which has ventilation systems for smoke and fumes."
+    ],
+    "florist shop indoor": [
+        "florist shop indoor, which has colorful and varied assortment of flowers and plants.",
+        "florist shop indoor, which has vases, pots, and other containers for displaying flowers.",
+        "florist shop indoor, which has floral arrangements and bouquets.",
+        "florist shop indoor, which has shelves or displays showcasing different types of flowers.",
+        "florist shop indoor, which is a counter or checkout area.",
+        "florist shop indoor, which is a cash register.",
+        "florist shop indoor, which is a floral design work area with tools such as scissors and wire.",
+        "florist shop indoor, which is a refrigerator or cooler for storing flowers.",
+        "florist shop indoor, which has signage or branding indicating it is a florist shop."
+    ],
+    "food court": [
+        "food court, which has multiple food vendors or stalls.",
+        "food court, which has tables and chairs for dining.",
+        "food court, which has signage or menus displaying food options.",
+        "food court, which has people eating or waiting in line.",
+        "food court, which has trays or plates of food.",
+        "food court, which has food court layout with different sections for various types of cuisine.",
+        "food court, which has food court branding or logos.",
+        "food court, which has food court seating area with plants or decorations."
+    ],
+    "forest broadleaf": [
+        "forest broadleaf, which has large, broad leaves.",
+        "forest broadleaf, which has tall, woody trunk.",
+        "forest broadleaf, which has dense canopy of leaves.",
+        "forest broadleaf, which has branches extending outward.",
+        "forest broadleaf, which has green foliage.",
+        "forest broadleaf, which has presence of other plants and wildlife around.",
+        "forest broadleaf, which has rough bark texture.",
+        "forest broadleaf, which has roots visible above ground."
+    ],
+    "forest needleleaf": [
+        "forest needleleaf, which has tall, straight trunk.",
+        "forest needleleaf, which has needle-like leaves.",
+        "forest needleleaf, which has cone-bearing.",
+        "forest needleleaf, which has dense canopy.",
+        "forest needleleaf, which has rough bark.",
+        "forest needleleaf, which has evergreen.",
+        "forest needleleaf, which has coniferous.",
+        "forest needleleaf, which typically found in colder climates."
+    ],
+    "forest path": [
+        "forest path, which has dirt or gravel path.",
+        "forest path, which has surrounded by trees and vegetation.",
+        "forest path, which has dappled sunlight filtering through the trees.",
+        "forest path, which has fallen leaves or branches on the path.",
+        "forest path, which has roots or rocks protruding from the ground.",
+        "forest path, which has signs or markers indicating a designated path.",
+        "forest path, which has wildlife or birds visible along the path."
+    ],
+    "fountain": [
+        "fountain, which has flowing water.",
+        "fountain, which is a basin or pool to collect the water.",
+        "fountain, which is a pump or mechanism to circulate the water.",
+        "fountain, which has decorative elements such as statues, sculptures, or spouts.",
+        "fountain, which often found in outdoor settings or public spaces.",
+        "fountain, which may have lighting features for nighttime display."
+    ],
+    "galley": [
+        "galley, which is a kitchen area on a boat or aircraft.",
+        "galley, which has compact and efficient layout.",
+        "galley, which has stainless steel appliances.",
+        "galley, which has storage cabinets and drawers.",
+        "galley, which has sink with faucet.",
+        "galley, which has stove or cooktop.",
+        "galley, which has microwave or oven.",
+        "galley, which has small refrigerator or freezer.",
+        "galley, which has overhead lighting.",
+        "galley, which has possibly a small dining area or seating area."
+    ],
+    "game room": [
+        "game room, which has gaming consoles or PCs.",
+        "game room, which has gaming controllers.",
+        "game room, which has gaming chairs or seating.",
+        "game room, which has gaming accessories such as headsets, keyboards, and mice.",
+        "game room, which has gaming posters or decorations.",
+        "game room, which has multiple screens or monitors.",
+        "game room, which has shelves or storage for games and accessories.",
+        "game room, which has gaming-themed decor or furniture."
+    ],
+    "garage indoor": [
+        "garage indoor, which has concrete or tiled flooring.",
+        "garage indoor, which has storage shelves or cabinets.",
+        "garage indoor, which has tools or equipment hanging on walls.",
+        "garage indoor, which has vehicles parked inside.",
+        "garage indoor, which has garage door or entrance.",
+        "garage indoor, which has lighting fixtures.",
+        "garage indoor, which has workbench or work area.",
+        "garage indoor, which has windows or ventilation openings."
+    ],
+    "garbage dump": [
+        "garbage dump, which has piles of trash and debris.",
+        "garbage dump, which has various types of waste materials such as plastic, paper, metal, and organic matter.",
+        "garbage dump, which has scavenging animals such as birds, rodents, or insects.",
+        "garbage dump, which has foul odor.",
+        "garbage dump, which has lack of organization or structure.",
+        "garbage dump, which has presence of garbage trucks or machinery for waste disposal.",
+        "garbage dump, which has environmental pollution and degradation in the surrounding area."
+    ],
+    "gazebo exterior": [
+        "gazebo exterior, which has open-sided structure.",
+        "gazebo exterior, which has roof supported by columns or pillars.",
+        "gazebo exterior, which has decorative or ornate design.",
+        "gazebo exterior, which often made of wood or metal.",
+        "gazebo exterior, which may have lattice or trellis walls.",
+        "gazebo exterior, which may have a cupola or dome on the roof.",
+        "gazebo exterior, which may have seating or benches inside.",
+        "gazebo exterior, which may have plants or vines growing on or around it."
+    ],
+    "general store indoor": [
+        "general store indoor, which has shelves stocked with various products.",
+        "general store indoor, which is aisles with different categories of items.",
+        "general store indoor, which has cash register or checkout counter.",
+        "general store indoor, which has signage indicating different sections or products.",
+        "general store indoor, which has display cases or racks for showcasing merchandise.",
+        "general store indoor, which has shopping carts or baskets for customers.",
+        "general store indoor, which has employees or customers browsing or shopping.",
+        "general store indoor, which has store logo or branding visible."
+    ],
+    "general store outdoor": [
+        "general store outdoor, which is a sign or banner with the store's name or logo.",
+        "general store outdoor, which is a variety of products displayed outside, such as fruits, vegetables, or household items.",
+        "general store outdoor, which is a storefront with large windows or an open entrance.",
+        "general store outdoor, which is a sidewalk or outdoor seating area.",
+        "general store outdoor, which is a canopy or awning over the entrance.",
+        "general store outdoor, which is a hanging sign indicating hours of operation.",
+        "general store outdoor, which has customers or employees visible outside the store."
+    ],
+    "gift shop": [
+        "gift shop, which has shelves or displays with various items for sale.",
+        "gift shop, which has signage or banners indicating it is a gift shop.",
+        "gift shop, which has cash register or checkout counter.",
+        "gift shop, which has gift wrapping station.",
+        "gift shop, which has colorful and decorative items on display.",
+        "gift shop, which has customers browsing or shopping.",
+        "gift shop, which has gift bags or wrapping paper visible.",
+        "gift shop, which has price tags or labels on items."
+    ],
+    "greenhouse indoor": [
+        "greenhouse indoor, which has glass or plastic walls and roof to let in sunlight.",
+        "greenhouse indoor, which has rows of plants or flowers.",
+        "greenhouse indoor, which has shelves or tables for displaying plants.",
+        "greenhouse indoor, which has watering cans or hoses.",
+        "greenhouse indoor, which has temperature and humidity control systems.",
+        "greenhouse indoor, which has pots or planters.",
+        "greenhouse indoor, which has gardening tools.",
+        "greenhouse indoor, which has possibly a small seating area for relaxation or observation."
+    ],
+    "greenhouse outdoor": [
+        "greenhouse outdoor, which has glass or plastic walls and roof.",
+        "greenhouse outdoor, which has plants visible inside.",
+        "greenhouse outdoor, which has metal or wooden frame.",
+        "greenhouse outdoor, which has ventilation windows or vents.",
+        "greenhouse outdoor, which has irrigation system.",
+        "greenhouse outdoor, which has shelves or tables for plants.",
+        "greenhouse outdoor, which has possibly a door or entrance.",
+        "greenhouse outdoor, which has located in a garden or agricultural setting."
+    ],
+    "gymnasium indoor": [
+        "gymnasium indoor, which has basketball hoops.",
+        "gymnasium indoor, which has volleyball nets.",
+        "gymnasium indoor, which has gymnastics equipment (bars, beams, mats).",
+        "gymnasium indoor, which has bleachers or seating for spectators.",
+        "gymnasium indoor, which has scoreboard.",
+        "gymnasium indoor, which has lines and markings for various sports (basketball court, volleyball court, etc.).",
+        "gymnasium indoor, which has exercise equipment (treadmills, weights, etc.).",
+        "gymnasium indoor, which has mirrors.",
+        "gymnasium indoor, which has water fountains.",
+        "gymnasium indoor, which has sports balls (basketballs, volleyballs, etc.)."
+    ],
+    "hangar indoor": [
+        "hangar indoor, which has large, open space.",
+        "hangar indoor, which has high ceilings.",
+        "hangar indoor, which has metal framework.",
+        "hangar indoor, which has large doors for aircraft entry/exit.",
+        "hangar indoor, which is aircraft or aviation equipment present.",
+        "hangar indoor, which has lighting fixtures.",
+        "hangar indoor, which has concrete or metal flooring.",
+        "hangar indoor, which has signage indicating it is a hangar."
+    ],
+    "hangar outdoor": [
+        "hangar outdoor, which has large, open structure.",
+        "hangar outdoor, which has metal or steel construction.",
+        "hangar outdoor, which typically located near an airport or military base.",
+        "hangar outdoor, which may have large doors for aircraft to enter and exit.",
+        "hangar outdoor, which may have runway or tarmac nearby.",
+        "hangar outdoor, which may have signage indicating its purpose.",
+        "hangar outdoor, which may have security fencing or gates around it."
+    ],
+    "harbor": [
+        "harbor, which has water body with boats or ships.",
+        "harbor, which has docks or piers for boats to dock.",
+        "harbor, which has cranes for loading and unloading cargo.",
+        "harbor, which has storage facilities for goods.",
+        "harbor, which has buildings or structures for administrative purposes.",
+        "harbor, which has signs or markers indicating the name of the harbor.",
+        "harbor, which has presence of marine equipment such as buoys or navigation lights."
+    ],
+    "heliport": [
+        "heliport, which is a flat, open area for helicopters to land and take off.",
+        "heliport, which has helipad markings or H markings on the ground.",
+        "heliport, which has lighting for night operations.",
+        "heliport, which has windsock or wind indicator.",
+        "heliport, which has perimeter fencing or barriers.",
+        "heliport, which has nearby hangars or buildings for helicopter storage and maintenance.",
+        "heliport, which has fueling station.",
+        "heliport, which has control tower or communication equipment."
+    ],
+    "hill": [
+        "hill, which has sloping or elevated land.",
+        "hill, which has grassy or rocky terrain.",
+        "hill, which has trees or vegetation growing on the slope.",
+        "hill, which is a gradual incline or steep slope.",
+        "hill, which may have a peak or summit.",
+        "hill, which may have a winding path or trail.",
+        "hill, which may have a skyline or horizon in the background."
+    ],
+    "home office": [
+        "home office, which has desk or table with a computer or laptop.",
+        "home office, which has office chair.",
+        "home office, which has shelves or bookcases.",
+        "home office, which has office supplies such as pens, paper, and notebooks.",
+        "home office, which is a lamp or overhead lighting.",
+        "home office, which is a calendar or planner.",
+        "home office, which is a printer or scanner.",
+        "home office, which is a bulletin board or whiteboard."
+    ],
+    "hospital": [
+        "hospital, which has large building with multiple floors.",
+        "hospital, which has signage indicating it is a hospital.",
+        "hospital, which is ambulance bay or emergency entrance.",
+        "hospital, which has parking lot or garage for staff and visitors.",
+        "hospital, which has medical equipment visible through windows.",
+        "hospital, which has people in scrubs or medical uniforms entering or exiting.",
+        "hospital, which has wheelchair ramps or accessible entrances.",
+        "hospital, which has signage for different departments or services offered."
+    ],
+    "hospital room": [
+        "hospital room, which has medical equipment such as IV poles, monitors, and hospital beds.",
+        "hospital room, which has white walls and ceilings.",
+        "hospital room, which has medical supplies such as gloves, masks, and syringes.",
+        "hospital room, which has call buttons for patients to use.",
+        "hospital room, which has hand sanitizer dispensers.",
+        "hospital room, which has privacy curtains around beds.",
+        "hospital room, which has medical charts or whiteboards with patient information.",
+        "hospital room, which has overhead lights and possibly a window with blinds."
+    ],
+    "hot spring": [
+        "hot spring, which has steam rising from the water.",
+        "hot spring, which has natural surroundings such as rocks or vegetation.",
+        "hot spring, which is a pool of water with a temperature higher than the surrounding environment.",
+        "hot spring, which has bubbling or boiling water.",
+        "hot spring, which is a distinct smell of sulfur or minerals.",
+        "hot spring, which is a wooden or stone structure for bathing or soaking.",
+        "hot spring, which has people or animals enjoying the hot spring."
+    ],
+    "hot tub outdoor": [
+        "hot tub outdoor, which has large, round or rectangular tub.",
+        "hot tub outdoor, which has bubbling water.",
+        "hot tub outdoor, which has outdoor setting, such as a backyard or patio.",
+        "hot tub outdoor, which has wooden or synthetic surround.",
+        "hot tub outdoor, which has steps or ladder for entry.",
+        "hot tub outdoor, which has jets for massaging.",
+        "hot tub outdoor, which has cover or lid.",
+        "hot tub outdoor, which has seating inside the tub."
+    ],
+    "hotel outdoor": [
+        "hotel outdoor, which is a building with multiple floors and windows.",
+        "hotel outdoor, which is a sign or logo indicating it is a hotel.",
+        "hotel outdoor, which has outdoor seating or lounging areas.",
+        "hotel outdoor, which has landscaping such as plants, trees, or flowers.",
+        "hotel outdoor, which is a parking lot or valet area.",
+        "hotel outdoor, which is a swimming pool or hot tub.",
+        "hotel outdoor, which has umbrellas or cabanas for shade.",
+        "hotel outdoor, which has outdoor lighting for nighttime ambiance."
+    ],
+    "hotel room": [
+        "hotel room, which is a bed with pillows and sheets.",
+        "hotel room, which is a nightstand with a lamp.",
+        "hotel room, which is a dresser or wardrobe for clothes storage.",
+        "hotel room, which is a desk or table with a chair.",
+        "hotel room, which is a television.",
+        "hotel room, which is a mini-fridge or minibar.",
+        "hotel room, which is a coffee maker or kettle.",
+        "hotel room, which is a window with curtains or blinds.",
+        "hotel room, which is a bathroom with a sink, toilet, and shower or bathtub."
+    ],
+    "house": [
+        "house, which is a structure with walls and a roof.",
+        "house, which has windows and doors.",
+        "house, which is a chimney.",
+        "house, which is a driveway or pathway leading to the house.",
+        "house, which has landscaping such as trees, bushes, or flowers.",
+        "house, which is a mailbox.",
+        "house, which is a porch or patio.",
+        "house, which is a garage or carport."
+    ],
+    "hunting lodge outdoor": [
+        "hunting lodge outdoor, which has rustic wooden exterior.",
+        "hunting lodge outdoor, which has surrounded by trees or forest.",
+        "hunting lodge outdoor, which is animal antlers or hunting trophies displayed outside.",
+        "hunting lodge outdoor, which has outdoor seating or fire pit.",
+        "hunting lodge outdoor, which has hunting gear or weapons visible.",
+        "hunting lodge outdoor, which has camouflage or outdoor clothing hanging outside.",
+        "hunting lodge outdoor, which has hunting dogs or vehicles parked nearby."
+    ],
+    "ice cream parlor": [
+        "ice cream parlor, which has colorful signage or branding indicating it is an ice cream parlor.",
+        "ice cream parlor, which has display cases or freezers with various flavors of ice cream.",
+        "ice cream parlor, which has seating area for customers.",
+        "ice cream parlor, which has ice cream cones or cups on display.",
+        "ice cream parlor, which has employees wearing uniforms or aprons.",
+        "ice cream parlor, which has toppings bar or display.",
+        "ice cream parlor, which has ice cream scoops or machines.",
+        "ice cream parlor, which has menu boards or signs listing flavors and prices."
+    ],
+    "ice floe": [
+        "ice floe, which has large, flat sheet of ice floating on water.",
+        "ice floe, which has white or light blue in color.",
+        "ice floe, which has irregular shape.",
+        "ice floe, which may have cracks or ridges.",
+        "ice floe, which may have snow or ice formations on top.",
+        "ice floe, which has surrounded by water or other ice floes."
+    ],
+    "ice shelf": [
+        "ice shelf, which has large, flat expanse of ice.",
+        "ice shelf, which has jagged or smooth edges.",
+        "ice shelf, which has surrounded by water.",
+        "ice shelf, which may have cracks or crevasses.",
+        "ice shelf, which may have snow or ice formations on top.",
+        "ice shelf, which may have visible layers or bands of ice.",
+        "ice shelf, which may have visible meltwater or icebergs nearby."
+    ],
+    "ice skating rink indoor": [
+        "ice skating rink indoor, which has smooth, flat surface made of ice.",
+        "ice skating rink indoor, which has surrounded by walls or barriers.",
+        "ice skating rink indoor, which has overhead lighting.",
+        "ice skating rink indoor, which has benches or seating areas for spectators.",
+        "ice skating rink indoor, which has rental counter for ice skates.",
+        "ice skating rink indoor, which has signage indicating rules or safety information.",
+        "ice skating rink indoor, which has skaters wearing ice skates."
+    ],
+    "ice skating rink outdoor": [
+        "ice skating rink outdoor, which is a smooth, flat surface covered in ice.",
+        "ice skating rink outdoor, which has surrounded by barriers or boards to contain the ice.",
+        "ice skating rink outdoor, which has people wearing ice skates.",
+        "ice skating rink outdoor, which has benches or seating areas for spectators.",
+        "ice skating rink outdoor, which has lights for nighttime skating.",
+        "ice skating rink outdoor, which has outdoor setting with trees or buildings in the background."
+    ],
+    "iceberg": [
+        "iceberg, which has large mass of ice floating in water.",
+        "iceberg, which has white or blue color.",
+        "iceberg, which has jagged or smooth edges.",
+        "iceberg, which has visible above and below the waterline.",
+        "iceberg, which has potentially with snow or ice on top.",
+        "iceberg, which can be partially or fully submerged.",
+        "iceberg, which can have cracks or crevices.",
+        "iceberg, which can have visible layers or striations."
+    ],
+    "industrial area": [
+        "industrial area, which has large buildings or structures.",
+        "industrial area, which has smokestacks or chimneys.",
+        "industrial area, which has machinery or equipment.",
+        "industrial area, which has storage tanks or silos.",
+        "industrial area, which has industrial vehicles or trucks.",
+        "industrial area, which has pipes or pipelines.",
+        "industrial area, which has fences or barriers.",
+        "industrial area, which has signs or labels indicating industrial activity."
+    ],
+    "inn outdoor": [
+        "inn outdoor, which is a building with multiple rooms for lodging.",
+        "inn outdoor, which is a sign or banner indicating it is an inn.",
+        "inn outdoor, which has outdoor seating or dining area.",
+        "inn outdoor, which has parking lot or designated parking spaces.",
+        "inn outdoor, which has landscaping or gardens around the property.",
+        "inn outdoor, which has windows or doors with curtains or blinds.",
+        "inn outdoor, which is a front desk or reception area.",
+        "inn outdoor, which is a sign with the name of the inn or logo."
+    ],
+    "islet": [
+        "islet, which has small landmass surrounded by water.",
+        "islet, which has rocky or sandy terrain.",
+        "islet, which has vegetation such as trees or shrubs.",
+        "islet, which has birds or other wildlife.",
+        "islet, which has located near a larger island or coastline.",
+        "islet, which may have a lighthouse or other structures.",
+        "islet, which has visible waves or water surrounding the islet."
+    ],
+    "jacuzzi indoor": [
+        "jacuzzi indoor, which has large, rectangular or circular tub.",
+        "jacuzzi indoor, which has jets for water massage.",
+        "jacuzzi indoor, which has temperature controls.",
+        "jacuzzi indoor, which has seating for multiple people.",
+        "jacuzzi indoor, which has indoor setting with tiled or wooden flooring.",
+        "jacuzzi indoor, which has surrounding walls or partitions for privacy.",
+        "jacuzzi indoor, which has lighting fixtures.",
+        "jacuzzi indoor, which has possibly a cover or lid for when not in use."
+    ],
+    "jail cell": [
+        "jail cell, which has bars on the windows or doors.",
+        "jail cell, which is a metal bed or cot.",
+        "jail cell, which is a toilet and sink combination.",
+        "jail cell, which has limited space.",
+        "jail cell, which has lack of personal belongings or decorations.",
+        "jail cell, which has concrete walls and floors.",
+        "jail cell, which is a locked door.",
+        "jail cell, which has surveillance cameras."
+    ],
+    "jail indoor": [
+        "jail indoor, which has bars on windows or doors.",
+        "jail indoor, which has metal bunk beds.",
+        "jail indoor, which has concrete walls and floors.",
+        "jail indoor, which has surveillance cameras.",
+        "jail indoor, which has prison uniforms on inmates.",
+        "jail indoor, which has guards or security personnel.",
+        "jail indoor, which has restricted access points.",
+        "jail indoor, which has signs or labels indicating it is a jail or prison."
+    ],
+    "jewelry shop": [
+        "jewelry shop, which has display cases with jewelry.",
+        "jewelry shop, which has jewelry pieces such as rings, necklaces, bracelets, and earrings.",
+        "jewelry shop, which has signage or branding indicating it is a jewelry store.",
+        "jewelry shop, which has lighting to highlight the jewelry.",
+        "jewelry shop, which is a counter or desk for customer service.",
+        "jewelry shop, which has security features such as cameras or alarms.",
+        "jewelry shop, which is a variety of jewelry styles and materials on display."
+    ],
+    "kasbah": [
+        "kasbah, which has traditional Moroccan or North African architecture.",
+        "kasbah, which has mud-brick or stone construction.",
+        "kasbah, which has flat roofs with parapets.",
+        "kasbah, which has narrow streets and alleyways.",
+        "kasbah, which has decorative geometric patterns or carvings.",
+        "kasbah, which is arched doorways and windows.",
+        "kasbah, which has interior courtyard.",
+        "kasbah, which has surrounded by high walls for protection."
+    ],
+    "kennel outdoor": [
+        "kennel outdoor, which is a fenced-in area.",
+        "kennel outdoor, which is a shelter or structure for animals to rest in.",
+        "kennel outdoor, which has food and water bowls.",
+        "kennel outdoor, which has toys or bedding for comfort.",
+        "kennel outdoor, which has outdoor elements such as grass, trees, or dirt.",
+        "kennel outdoor, which has leashes or collars hanging nearby.",
+        "kennel outdoor, which has signs indicating it is a kennel or pet area."
+    ],
+    "kindergarden classroom": [
+        "kindergarden classroom, which has small chairs and tables.",
+        "kindergarden classroom, which has colorful decorations on the walls.",
+        "kindergarden classroom, which has educational posters or charts.",
+        "kindergarden classroom, which has toys and learning materials.",
+        "kindergarden classroom, which has cubbies or storage bins for children's belongings.",
+        "kindergarden classroom, which is a teacher's desk.",
+        "kindergarden classroom, which is a whiteboard or chalkboard.",
+        "kindergarden classroom, which has children's artwork displayed."
+    ],
+    "kitchen": [
+        "kitchen, which is appliances such as a stove, refrigerator, microwave, and dishwasher.",
+        "kitchen, which has countertops.",
+        "kitchen, which has cabinets.",
+        "kitchen, which has sink.",
+        "kitchen, which has kitchen utensils and cookware.",
+        "kitchen, which has dining table and chairs.",
+        "kitchen, which has food items.",
+        "kitchen, which has kitchen decor such as curtains or rugs."
+    ],
+    "kitchenette": [
+        "kitchenette, which has small kitchen area.",
+        "kitchenette, which has compact appliances (such as a mini fridge, microwave, and sink).",
+        "kitchenette, which has limited counter space.",
+        "kitchenette, which has possibly a small dining table or bar stools.",
+        "kitchenette, which has cabinets or shelves for storage.",
+        "kitchenette, which has basic cooking utensils and dishes.",
+        "kitchenette, which has possibly a small stove or hot plate."
+    ],
+    "lake natural": [
+        "lake natural, which has body of water surrounded by land.",
+        "lake natural, which has usually freshwater.",
+        "lake natural, which can be large or small in size.",
+        "lake natural, which may have vegetation or trees along the shore.",
+        "lake natural, which may have wildlife such as birds or fish.",
+        "lake natural, which may have boats or docks.",
+        "lake natural, which may have reflections of the sky or surrounding landscape on the surface."
+    ],
+    "landfill": [
+        "landfill, which has large mounds of trash or waste.",
+        "landfill, which has seagulls or other scavenger birds circling overhead.",
+        "landfill, which has heavy machinery such as bulldozers or compactors.",
+        "landfill, which has plastic bags, bottles, and other litter scattered around.",
+        "landfill, which has foul odor or visible fumes.",
+        "landfill, which has signs or fences indicating restricted access.",
+        "landfill, which has trucks or vehicles transporting waste to the site."
+    ],
+    "landing deck": [
+        "landing deck, which has flat surface for aircraft to land on.",
+        "landing deck, which typically made of concrete or metal.",
+        "landing deck, which may have markings or lights for guidance.",
+        "landing deck, which may have safety barriers or fences.",
+        "landing deck, which may have equipment for refueling or maintenance.",
+        "landing deck, which may have a control tower or other structures nearby.",
+        "landing deck, which may have signs or markings indicating its purpose."
+    ],
+    "lecture room": [
+        "lecture room, which has rows of chairs or desks facing the front of the room.",
+        "lecture room, which is a podium or lectern for the speaker.",
+        "lecture room, which is a projector screen or whiteboard.",
+        "lecture room, which is audiovisual equipment such as microphones or speakers.",
+        "lecture room, which is a clock or timer.",
+        "lecture room, which is a whiteboard or chalkboard.",
+        "lecture room, which has windows or artificial lighting.",
+        "lecture room, which has educational materials such as textbooks or notebooks."
+    ],
+    "library indoor": [
+        "library indoor, which has rows of bookshelves filled with books.",
+        "library indoor, which has tables and chairs for reading or studying.",
+        "library indoor, which has computers for research or internet access.",
+        "library indoor, which has librarians or staff members assisting patrons.",
+        "library indoor, which has signage indicating different sections or genres of books.",
+        "library indoor, which has reading lamps or overhead lighting.",
+        "library indoor, which has quiet atmosphere.",
+        "library indoor, which has book carts for shelving or transporting books."
+    ],
+    "library outdoor": [
+        "library outdoor, which is a building with a sign indicating it is a library.",
+        "library outdoor, which has outdoor seating areas.",
+        "library outdoor, which has book drop-off boxes.",
+        "library outdoor, which has large windows.",
+        "library outdoor, which has landscaping or greenery around the building.",
+        "library outdoor, which has bike racks.",
+        "library outdoor, which has outdoor book displays.",
+        "library outdoor, which is a designated entrance or walkway leading to the building."
+    ],
+    "lift bridge": [
+        "lift bridge, which has large, metal structure.",
+        "lift bridge, which has raised platform or roadway that can be lifted vertically.",
+        "lift bridge, which has counterweights or hydraulic systems for lifting the bridge.",
+        "lift bridge, which has support towers or columns.",
+        "lift bridge, which has cables or chains for raising and lowering the bridge.",
+        "lift bridge, which has warning lights or signals for approaching vehicles.",
+        "lift bridge, which has water or a body of water underneath the bridge."
+    ],
+    "lighthouse": [
+        "lighthouse, which has tall structure with a light at the top.",
+        "lighthouse, which typically painted white with colored stripes or patterns for visibility.",
+        "lighthouse, which has located near a body of water.",
+        "lighthouse, which may have a surrounding fence or railing.",
+        "lighthouse, which may have a small building or house attached for the lighthouse keeper.",
+        "lighthouse, which may have a foghorn or bell for signaling ships.",
+        "lighthouse, which may have a rotating or flashing light for navigation."
+    ],
+    "limousine interior": [
+        "limousine interior, which has luxurious and spacious seating.",
+        "limousine interior, which has leather upholstery.",
+        "limousine interior, which has mood lighting.",
+        "limousine interior, which has entertainment system (TV, sound system).",
+        "limousine interior, which has mini bar.",
+        "limousine interior, which has privacy partition.",
+        "limousine interior, which has wood or metal accents.",
+        "limousine interior, which has plush carpeting.",
+        "limousine interior, which has climate control features."
+    ],
+    "living room": [
+        "living room, which has comfortable seating such as sofas, chairs, or recliners.",
+        "living room, which has coffee table or end tables.",
+        "living room, which has rugs or carpeting.",
+        "living room, which has wall decorations such as paintings or photographs.",
+        "living room, which has curtains or blinds on windows.",
+        "living room, which has lighting fixtures such as lamps or overhead lights.",
+        "living room, which has electronics such as a television or stereo system.",
+        "living room, which has plants or other decorative items.",
+        "living room, which has bookshelves or storage units."
+    ],
+    "lobby": [
+        "lobby, which is a large open space.",
+        "lobby, which has seating areas.",
+        "lobby, which has reception desk or front desk.",
+        "lobby, which has decorative elements such as plants, artwork, or lighting fixtures.",
+        "lobby, which has signage indicating the name of the building or business.",
+        "lobby, which has doors leading to other areas of the building.",
+        "lobby, which has people waiting or moving through the space."
+    ],
+    "lock chamber": [
+        "lock chamber, which has large metal doors or gates.",
+        "lock chamber, which has water-filled chamber.",
+        "lock chamber, which has walls or sides of the chamber made of concrete or metal.",
+        "lock chamber, which has water level indicators or markers.",
+        "lock chamber, which has machinery or equipment for controlling water flow and levels.",
+        "lock chamber, which has lock gates or valves for regulating water flow.",
+        "lock chamber, which has signage indicating it is a lock chamber."
+    ],
+    "locker room": [
+        "locker room, which has rows of lockers.",
+        "locker room, which has benches or seating areas.",
+        "locker room, which has hooks or shelves for hanging clothes.",
+        "locker room, which has mirrors.",
+        "locker room, which has showers or changing stalls.",
+        "locker room, which has personal belongings such as bags or shoes.",
+        "locker room, which has signs indicating gender or specific areas (e.g. showers, changing rooms).",
+        "locker room, which has lockers with locks or combination locks."
+    ],
+    "mansion": [
+        "mansion, which has large size and grandeur.",
+        "mansion, which has multiple stories.",
+        "mansion, which is architectural details such as columns, arches, or balconies.",
+        "mansion, which has expansive grounds or landscaping.",
+        "mansion, which has gated entrance or fence.",
+        "mansion, which has multiple windows and doors.",
+        "mansion, which has luxurious materials such as marble, stone, or wood.",
+        "mansion, which has possibly a pool or tennis court.",
+        "mansion, which has upscale vehicles or landscaping features in the vicinity."
+    ],
+    "manufactured home": [
+        "manufactured home, which has rectangular shape.",
+        "manufactured home, which typically one-story.",
+        "manufactured home, which often has vinyl siding.",
+        "manufactured home, which may have a pitched roof.",
+        "manufactured home, which has windows and doors with trim.",
+        "manufactured home, which has skirting around the bottom.",
+        "manufactured home, which may have a porch or deck.",
+        "manufactured home, which has wheels or axles visible underneath."
+    ],
+    "market indoor": [
+        "market indoor, which has bustling crowd of people.",
+        "market indoor, which has stalls or booths selling various goods.",
+        "market indoor, which has colorful displays of fruits, vegetables, and other products.",
+        "market indoor, which has signs or banners advertising products or prices.",
+        "market indoor, which has cash registers or payment counters.",
+        "market indoor, which has overhead lighting or skylights.",
+        "market indoor, which is aisles or pathways for customers to navigate.",
+        "market indoor, which has shelves or displays for products to be showcased."
+    ],
+    "market outdoor": [
+        "market outdoor, which has stalls or booths selling various goods.",
+        "market outdoor, which has people shopping or browsing.",
+        "market outdoor, which has outdoor setting with tents or awnings.",
+        "market outdoor, which has signs or banners advertising products or prices.",
+        "market outdoor, which has tables or displays with merchandise.",
+        "market outdoor, which has fruits, vegetables, or other food items on display.",
+        "market outdoor, which has vendors or sellers interacting with customers."
+    ],
+    "martial arts gym": [
+        "martial arts gym, which has mats or padded flooring.",
+        "martial arts gym, which has punching bags or other training equipment.",
+        "martial arts gym, which has mirrors on the walls.",
+        "martial arts gym, which has martial arts uniforms or gear.",
+        "martial arts gym, which has instructors or students practicing martial arts techniques.",
+        "martial arts gym, which has posters or signage related to martial arts styles or classes offered.",
+        "martial arts gym, which is a reception or front desk area.",
+        "martial arts gym, which has water cooler or hydration station."
+    ],
+    "mausoleum": [
+        "mausoleum, which has large, elaborate structure.",
+        "mausoleum, which typically made of stone or marble.",
+        "mausoleum, which often adorned with columns, statues, or other decorative elements.",
+        "mausoleum, which may have a dome or other distinctive architectural features.",
+        "mausoleum, which has usually located in a cemetery or burial ground.",
+        "mausoleum, which may have inscriptions or engravings indicating the names of those interred within.",
+        "mausoleum, which often has a door or entrance for visitors to enter and pay respects to the deceased."
+    ],
+    "moat water": [
+        "moat water, which has body of water surrounding a structure.",
+        "moat water, which typically man-made.",
+        "moat water, which often filled with water plants or algae.",
+        "moat water, which may have a stone or brick wall lining the edges.",
+        "moat water, which may have a bridge or drawbridge crossing over it.",
+        "moat water, which may have aquatic animals such as fish or turtles visible."
+    ],
+    "monastery outdoor": [
+        "monastery outdoor, which has large, ornate buildings with architectural details.",
+        "monastery outdoor, which has religious symbols such as crosses or statues.",
+        "monastery outdoor, which has surrounding natural landscape such as mountains or forests.",
+        "monastery outdoor, which has monks or nuns in traditional robes.",
+        "monastery outdoor, which has prayer flags or banners.",
+        "monastery outdoor, which is a peaceful and serene atmosphere.",
+        "monastery outdoor, which is a courtyard or garden area.",
+        "monastery outdoor, which has religious artifacts or decorations."
+    ],
+    "mosque indoor": [
+        "mosque indoor, which has intricate geometric patterns or calligraphy on the walls or ceilings.",
+        "mosque indoor, which has prayer rugs or mats on the floor.",
+        "mosque indoor, which is a mihrab (prayer niche) indicating the direction of Mecca.",
+        "mosque indoor, which is a minbar (pulpit) for the Imam to deliver sermons.",
+        "mosque indoor, which has chandeliers or hanging lights.",
+        "mosque indoor, which has shelves for storing Qurans or other religious texts.",
+        "mosque indoor, which is a dome or arches in the architecture.",
+        "mosque indoor, which has people praying or engaged in religious activities."
+    ],
+    "mosque outdoor": [
+        "mosque outdoor, which has domes or minarets.",
+        "mosque outdoor, which has intricate architectural details.",
+        "mosque outdoor, which has open courtyard.",
+        "mosque outdoor, which has prayer rugs or mats.",
+        "mosque outdoor, which has people in traditional Islamic clothing.",
+        "mosque outdoor, which has calligraphy or geometric patterns.",
+        "mosque outdoor, which has crescent moon symbol.",
+        "mosque outdoor, which has outdoor ablution area for ritual washing before prayer."
+    ],
+    "motel": [
+        "motel, which has multiple rooms with individual entrances.",
+        "motel, which has parking spaces in front of each room.",
+        "motel, which has signage indicating the name of the motel.",
+        "motel, which is a front office or reception area.",
+        "motel, which has exterior corridors or walkways connecting the rooms.",
+        "motel, which has outdoor amenities such as a swimming pool or picnic area.",
+        "motel, which is a two-story building with rooms accessible from the outside."
+    ],
+    "mountain": [
+        "mountain, which has large, natural landform.",
+        "mountain, which has rocky or snow-covered peaks.",
+        "mountain, which has steep slopes.",
+        "mountain, which has rugged terrain.",
+        "mountain, which has vegetation at lower elevations.",
+        "mountain, which often surrounded by clouds or mist.",
+        "mountain, which may have glaciers or snowfields.",
+        "mountain, which can be part of a mountain range or stand alone."
+    ],
+    "movie theater indoor": [
+        "movie theater indoor, which has rows of seats facing a large screen.",
+        "movie theater indoor, which has dim lighting.",
+        "movie theater indoor, which has movie posters or advertisements on the walls.",
+        "movie theater indoor, which is a concession stand or snack bar.",
+        "movie theater indoor, which has soundproof walls or curtains.",
+        "movie theater indoor, which is a projector or digital screen.",
+        "movie theater indoor, which has exit signs and emergency lighting.",
+        "movie theater indoor, which is a stage or platform for live performances before or after screenings."
+    ],
+    "museum indoor": [
+        "museum indoor, which is art or artifacts displayed on walls or pedestals.",
+        "museum indoor, which has informational plaques or labels next to exhibits.",
+        "museum indoor, which has visitors observing or interacting with exhibits.",
+        "museum indoor, which has museum staff or security personnel.",
+        "museum indoor, which is architectural details such as columns, arches, or high ceilings.",
+        "museum indoor, which has directional signs or maps.",
+        "museum indoor, which has display cases or cabinets containing objects.",
+        "museum indoor, which has lighting fixtures designed to highlight exhibits."
+    ],
+    "music studio": [
+        "music studio, which has soundproofing materials on the walls and ceiling.",
+        "music studio, which has musical instruments such as guitars, keyboards, drums, etc..",
+        "music studio, which has recording equipment such as microphones, mixing boards, and headphones.",
+        "music studio, which has computer monitors or screens for editing and recording software.",
+        "music studio, which has cables and wires for connecting equipment.",
+        "music studio, which is acoustic panels or diffusers.",
+        "music studio, which is a comfortable seating area for musicians and producers.",
+        "music studio, which has posters or artwork related to music or bands."
+    ],
+    "nuclear power plant outdoor": [
+        "nuclear power plant outdoor, which has large cooling towers.",
+        "nuclear power plant outdoor, which has tall smokestacks.",
+        "nuclear power plant outdoor, which has fenced-off area with warning signs.",
+        "nuclear power plant outdoor, which has large buildings with industrial equipment.",
+        "nuclear power plant outdoor, which has steam or smoke coming from the towers.",
+        "nuclear power plant outdoor, which has security cameras or guards.",
+        "nuclear power plant outdoor, which has radiation warning signs.",
+        "nuclear power plant outdoor, which has power lines or transformers."
+    ],
+    "nursery": [
+        "nursery, which has brightly colored walls or decor.",
+        "nursery, which has cribs or bassinets.",
+        "nursery, which has toys and stuffed animals.",
+        "nursery, which has changing table.",
+        "nursery, which has rocking chair or glider.",
+        "nursery, which has mobiles or wall decorations.",
+        "nursery, which has baby monitor.",
+        "nursery, which has diaper pail.",
+        "nursery, which has baby clothes or blankets."
+    ],
+    "oast house": [
+        "oast house, which has cylindrical or conical shape.",
+        "oast house, which typically made of brick or stone.",
+        "oast house, which has distinctive roof with a cowl or ventilator on top.",
+        "oast house, which often surrounded by hop fields or gardens.",
+        "oast house, which has small windows.",
+        "oast house, which has chimney for smoke ventilation.",
+        "oast house, which has wooden or metal doors.",
+        "oast house, which has sometimes converted into homes or businesses."
+    ],
+    "observatory outdoor": [
+        "observatory outdoor, which has large dome or telescope structure.",
+        "observatory outdoor, which has open sky or starry background.",
+        "observatory outdoor, which has surrounding landscape or mountains.",
+        "observatory outdoor, which has telescope or other astronomical equipment visible.",
+        "observatory outdoor, which has people or astronomers present.",
+        "observatory outdoor, which has signs or informational plaques.",
+        "observatory outdoor, which has observatory name or logo visible."
+    ],
+    "ocean": [
+        "ocean, which has vast expanse of water.",
+        "ocean, which has shades of blue or green.",
+        "ocean, which has waves or ripples on the surface.",
+        "ocean, which has horizon line where the water meets the sky.",
+        "ocean, which has presence of marine life such as fish or dolphins.",
+        "ocean, which has sandy beaches or rocky cliffs along the shore.",
+        "ocean, which has boats or ships on the water.",
+        "ocean, which has seagulls or other seabirds flying overhead."
+    ],
+    "office": [
+        "office, which has desks and chairs.",
+        "office, which has computers or laptops.",
+        "office, which has office supplies such as pens, paper, and folders.",
+        "office, which has filing cabinets.",
+        "office, which has telephones or communication devices.",
+        "office, which has office decor such as plants, artwork, or motivational posters.",
+        "office, which has office equipment such as printers, scanners, or copiers.",
+        "office, which has office lighting fixtures."
+    ],
+    "office building": [
+        "office building, which has tall structure with multiple floors.",
+        "office building, which has windows on each floor.",
+        "office building, which has entrance with doors.",
+        "office building, which has signage indicating the name of the building or company.",
+        "office building, which has parking lot or garage nearby.",
+        "office building, which has landscaping or greenery around the building.",
+        "office building, which has office furniture visible through windows.",
+        "office building, which has people entering or exiting the building."
+    ],
+    "oil refinery outdoor": [
+        "oil refinery outdoor, which has large industrial structures such as towers, tanks, and pipes.",
+        "oil refinery outdoor, which has smokestacks emitting smoke or steam.",
+        "oil refinery outdoor, which has large storage tanks for oil or other chemicals.",
+        "oil refinery outdoor, which has pipelines connecting different parts of the refinery.",
+        "oil refinery outdoor, which has trucks or other vehicles transporting materials.",
+        "oil refinery outdoor, which has workers in safety gear.",
+        "oil refinery outdoor, which has signs or labels indicating the type of facility."
+    ],
+    "oilrig": [
+        "oilrig, which has tall structure with multiple levels.",
+        "oilrig, which has large platform or deck.",
+        "oilrig, which has cranes and other heavy machinery.",
+        "oilrig, which has pipes and tanks for extracting and storing oil.",
+        "oilrig, which has surrounding water or ocean.",
+        "oilrig, which has smoke or steam coming from the rig.",
+        "oilrig, which has workers in safety gear.",
+        "oilrig, which has safety barriers and signs."
+    ],
+    "operating room": [
+        "operating room, which has surgical equipment such as scalpels, forceps, and surgical lights.",
+        "operating room, which has sterile environment with white walls and floors.",
+        "operating room, which has medical monitors and equipment.",
+        "operating room, which has surgical table or bed.",
+        "operating room, which has scrub sinks and hand sanitizer dispensers.",
+        "operating room, which is anesthesia machine.",
+        "operating room, which has surgical drapes and gowns.",
+        "operating room, which has medical waste bins and sharps containers."
+    ],
+    "orchard": [
+        "orchard, which has rows of trees planted closely together.",
+        "orchard, which has various types of fruit trees such as apple, pear, cherry, peach, etc..",
+        "orchard, which has fruit hanging from the trees.",
+        "orchard, which has green foliage.",
+        "orchard, which has possibly a farmer or worker tending to the trees.",
+        "orchard, which has irrigation system or water source.",
+        "orchard, which has surrounding landscape of fields or other agricultural land."
+    ],
+    "pagoda": [
+        "pagoda, which has traditional Asian architectural style.",
+        "pagoda, which has multiple tiers or levels.",
+        "pagoda, which has curved or sloping roofs.",
+        "pagoda, which has ornate decorations such as carvings, statues, or paintings.",
+        "pagoda, which typically found in Buddhist or Hindu religious settings.",
+        "pagoda, which often located in a garden or natural setting.",
+        "pagoda, which may have bells or chimes.",
+        "pagoda, which may have a central spire or stupa."
+    ],
+    "palace": [
+        "palace, which has grand and ornate architecture.",
+        "palace, which has large size.",
+        "palace, which has multiple stories.",
+        "palace, which has domes, spires, or towers.",
+        "palace, which has intricate detailing such as carvings, columns, or arches.",
+        "palace, which has expansive grounds or gardens.",
+        "palace, which has flags or banners.",
+        "palace, which has statues or fountains.",
+        "palace, which is a sense of grandeur and opulence."
+    ],
+    "pantry": [
+        "pantry, which has shelves or cabinets for storing food items.",
+        "pantry, which has various food items such as canned goods, boxes, jars, and bags.",
+        "pantry, which has organization tools such as baskets, bins, or labels.",
+        "pantry, which has spices and condiments.",
+        "pantry, which has cooking utensils or appliances.",
+        "pantry, which has possibly a door or curtain to conceal the pantry area."
+    ],
+    "parking garage indoor": [
+        "parking garage indoor, which has concrete floors and walls.",
+        "parking garage indoor, which has overhead lighting.",
+        "parking garage indoor, which has parking spaces with painted lines.",
+        "parking garage indoor, which has ramps or elevators for accessing different levels.",
+        "parking garage indoor, which has signage indicating directions, levels, and exits.",
+        "parking garage indoor, which has security cameras or attendants.",
+        "parking garage indoor, which has vehicles parked in the spaces.",
+        "parking garage indoor, which has ticket machines or payment kiosks."
+    ],
+    "parking lot": [
+        "parking lot, which has flat, paved surface.",
+        "parking lot, which has parking spaces marked with lines.",
+        "parking lot, which has cars parked in the spaces.",
+        "parking lot, which has lighting fixtures.",
+        "parking lot, which has signs indicating parking rules or restrictions.",
+        "parking lot, which has surrounding buildings or structures.",
+        "parking lot, which has entrance and exit points.",
+        "parking lot, which has landscaping features such as trees or shrubs."
+    ],
+    "parlor": [
+        "parlor, which has comfortable seating such as sofas, armchairs, or recliners.",
+        "parlor, which has coffee table or side tables.",
+        "parlor, which has decorative items such as lamps, vases, or artwork.",
+        "parlor, which has curtains or blinds on windows.",
+        "parlor, which has rugs or carpeting on the floor.",
+        "parlor, which has possibly a fireplace or entertainment center.",
+        "parlor, which has plants or flowers.",
+        "parlor, which has cozy lighting.",
+        "parlor, which has possibly a television or stereo system."
+    ],
+    "pasture": [
+        "pasture, which has open grassy area.",
+        "pasture, which has fenced or unfenced.",
+        "pasture, which has grazing animals such as cows, sheep, or horses.",
+        "pasture, which has trees or shrubs scattered throughout.",
+        "pasture, which has rolling hills or flat terrain.",
+        "pasture, which has possibly a barn or farmhouse in the background.",
+        "pasture, which has clear blue sky or clouds overhead."
+    ],
+    "patio": [
+        "patio, which has outdoor space.",
+        "patio, which typically made of concrete, stone, or wood.",
+        "patio, which often has furniture such as tables, chairs, and umbrellas.",
+        "patio, which may have a grill or outdoor kitchen area.",
+        "patio, which has surrounded by plants or landscaping.",
+        "patio, which may have a roof or pergola for shade.",
+        "patio, which may have outdoor lighting fixtures."
+    ],
+    "pavilion": [
+        "pavilion, which has open-sided structure.",
+        "pavilion, which has roof supported by columns or pillars.",
+        "pavilion, which often located in a park or garden.",
+        "pavilion, which has decorative or ornate design.",
+        "pavilion, which has seating or gathering area.",
+        "pavilion, which may have a stage or performance area.",
+        "pavilion, which may have a water feature or landscaping around it."
+    ],
+    "pharmacy": [
+        "pharmacy, which has signage with the word \"pharmacy\" or a symbol such as a mortar and pestle.",
+        "pharmacy, which has shelves stocked with medication and health products.",
+        "pharmacy, which is a counter with a pharmacist or pharmacy technician.",
+        "pharmacy, which has prescription drop-off and pick-up area.",
+        "pharmacy, which has medical equipment such as blood pressure monitors or thermometers.",
+        "pharmacy, which is a cash register.",
+        "pharmacy, which has informational brochures or posters about health topics."
+    ],
+    "phone booth": [
+        "phone booth, which is a small, enclosed structure.",
+        "phone booth, which typically red in color.",
+        "phone booth, which is a payphone inside the booth.",
+        "phone booth, which is a glass or plastic door.",
+        "phone booth, which is a sign indicating it is a phone booth.",
+        "phone booth, which is a roof or canopy over the booth.",
+        "phone booth, which is a slot for coins or a card reader for payment.",
+        "phone booth, which is a phone number or instructions for use displayed on the booth."
+    ],
+    "physics laboratory": [
+        "physics laboratory, which has scientific equipment such as microscopes, beakers, test tubes, and scales.",
+        "physics laboratory, which has lab benches or tables.",
+        "physics laboratory, which has safety equipment such as goggles and gloves.",
+        "physics laboratory, which has whiteboards or chalkboards with equations or diagrams.",
+        "physics laboratory, which has computers or laptops for data analysis.",
+        "physics laboratory, which has electrical outlets and power cords.",
+        "physics laboratory, which has posters or charts related to physics concepts.",
+        "physics laboratory, which has lab coats or protective clothing."
+    ],
+    "pilothouse indoor": [
+        "pilothouse indoor, which is a control panel with various switches and buttons.",
+        "pilothouse indoor, which has navigation equipment such as radar, GPS, and compass.",
+        "pilothouse indoor, which has steering wheel or joystick.",
+        "pilothouse indoor, which has windows for visibility.",
+        "pilothouse indoor, which has seating for the pilot and crew.",
+        "pilothouse indoor, which has communication equipment such as radios.",
+        "pilothouse indoor, which has safety equipment such as life jackets and fire extinguishers."
+    ],
+    "planetarium outdoor": [
+        "planetarium outdoor, which is a dome-shaped structure.",
+        "planetarium outdoor, which has telescopes or other astronomical equipment.",
+        "planetarium outdoor, which has outdoor seating or viewing area.",
+        "planetarium outdoor, which has star or constellation decorations.",
+        "planetarium outdoor, which has signage indicating it is a planetarium.",
+        "planetarium outdoor, which has surrounding landscape or cityscape.",
+        "planetarium outdoor, which has possibly a clear night sky with stars visible."
+    ],
+    "playroom": [
+        "playroom, which has colorful toys and games.",
+        "playroom, which has child-sized furniture.",
+        "playroom, which has bright and playful decor.",
+        "playroom, which has storage bins or shelves for organizing toys.",
+        "playroom, which has play mats or rugs.",
+        "playroom, which is art supplies or craft materials.",
+        "playroom, which has books or educational materials.",
+        "playroom, which is a designated play area for children to engage in activities."
+    ],
+    "podium indoor": [
+        "podium indoor, which has elevated platform.",
+        "podium indoor, which typically made of wood or metal.",
+        "podium indoor, which has flat surface for holding notes or a speaker's materials.",
+        "podium indoor, which has microphone attached.",
+        "podium indoor, which often has a logo or nameplate on the front.",
+        "podium indoor, which may have a built-in light or sound system.",
+        "podium indoor, which may have a glass or acrylic front panel."
+    ],
+    "pond": [
+        "pond, which has body of water.",
+        "pond, which has surrounded by vegetation or rocks.",
+        "pond, which has possibly containing aquatic plants or animals.",
+        "pond, which has reflection of the sky or surrounding landscape on the surface.",
+        "pond, which has possibly a fountain or water feature.",
+        "pond, which has shoreline or bank with plants or rocks.",
+        "pond, which has possibly a dock or pier."
+    ],
+    "poolroom establishment": [
+        "poolroom establishment, which has pool tables.",
+        "poolroom establishment, which has cue sticks.",
+        "poolroom establishment, which has chalk.",
+        "poolroom establishment, which has racks for organizing balls.",
+        "poolroom establishment, which has overhead lights.",
+        "poolroom establishment, which has seating areas.",
+        "poolroom establishment, which has bar area.",
+        "poolroom establishment, which has pool cues mounted on walls.",
+        "poolroom establishment, which has pool-themed decor.",
+        "poolroom establishment, which has scoreboard."
+    ],
+    "poolroom home": [
+        "poolroom home, which is a pool table.",
+        "poolroom home, which has cue sticks and balls.",
+        "poolroom home, which has overhead lighting.",
+        "poolroom home, which has seating area for spectators.",
+        "poolroom home, which has wall racks for storing cues.",
+        "poolroom home, which has chalk for cue tips.",
+        "poolroom home, which has scoreboard or scoring system.",
+        "poolroom home, which has pool cues resting against the table."
+    ],
+    "power plant outdoor": [
+        "power plant outdoor, which has large industrial buildings or structures.",
+        "power plant outdoor, which has smokestacks or cooling towers.",
+        "power plant outdoor, which has electrical transmission lines or towers.",
+        "power plant outdoor, which has large machinery or equipment.",
+        "power plant outdoor, which has fences or security measures.",
+        "power plant outdoor, which has signs or labels indicating the presence of a power plant.",
+        "power plant outdoor, which has steam or smoke emissions.",
+        "power plant outdoor, which has large fuel storage tanks or pipelines."
+    ],
+    "pub indoor": [
+        "pub indoor, which has wooden bar counter.",
+        "pub indoor, which has bar stools.",
+        "pub indoor, which has shelves with bottles of alcohol.",
+        "pub indoor, which has beer taps.",
+        "pub indoor, which has tables and chairs.",
+        "pub indoor, which has bar signs or decorations.",
+        "pub indoor, which has dim lighting.",
+        "pub indoor, which has people drinking or socializing.",
+        "pub indoor, which has bartender or staff members."
+    ],
+    "pulpit": [
+        "pulpit, which has elevated platform or stand.",
+        "pulpit, which typically made of wood or metal.",
+        "pulpit, which may have a slanted top surface for holding notes or a Bible.",
+        "pulpit, which may have a microphone or speaker system.",
+        "pulpit, which often located in a church or religious setting.",
+        "pulpit, which may have decorative carvings or designs.",
+        "pulpit, which may have steps or stairs leading up to it."
+    ],
+    "racecourse": [
+        "racecourse, which is a track with lanes for racing.",
+        "racecourse, which has starting gates or boxes.",
+        "racecourse, which is a finish line.",
+        "racecourse, which has grandstands or seating for spectators.",
+        "racecourse, which has signage or banners indicating the name of the racecourse.",
+        "racecourse, which has barriers or fences along the track.",
+        "racecourse, which has lighting for night races.",
+        "racecourse, which has facilities for horses and jockeys such as stables and changing rooms."
+    ],
+    "raceway": [
+        "raceway, which has oval or circular track.",
+        "raceway, which has barriers or walls along the track.",
+        "raceway, which has cars or vehicles on the track.",
+        "raceway, which has spectators or audience in the stands.",
+        "raceway, which has flags or banners indicating the race event.",
+        "raceway, which has pit lane or pit crew area.",
+        "raceway, which has timing and scoring equipment.",
+        "raceway, which has race officials or marshals."
+    ],
+    "railroad track": [
+        "railroad track, which has two parallel steel rails.",
+        "railroad track, which has wooden or concrete ties supporting the rails.",
+        "railroad track, which has gravel or ballast between the ties.",
+        "railroad track, which has cross ties perpendicular to the rails.",
+        "railroad track, which has railroad spikes securing the rails to the ties.",
+        "railroad track, which has signal lights or signs along the track.",
+        "railroad track, which has overhead wires for electrified tracks.",
+        "railroad track, which has train tracks disappearing into the distance."
+    ],
+    "rainforest": [
+        "rainforest, which has dense vegetation with tall trees.",
+        "rainforest, which has lush greenery.",
+        "rainforest, which has diverse plant and animal species.",
+        "rainforest, which has high humidity.",
+        "rainforest, which has presence of vines and epiphytes.",
+        "rainforest, which canopy layer with thick foliage.",
+        "rainforest, which has sounds of wildlife.",
+        "rainforest, which has presence of streams or rivers.",
+        "rainforest, which has mist or fog in the air."
+    ],
+    "reception": [
+        "reception, which is a desk or counter.",
+        "reception, which is a receptionist or staff member.",
+        "reception, which is a computer or phone for communication.",
+        "reception, which is a sign or logo indicating the reception area.",
+        "reception, which has seating for visitors.",
+        "reception, which is a waiting area.",
+        "reception, which has brochures or informational materials.",
+        "reception, which is a clock or calendar for scheduling purposes."
+    ],
+    "recreation room": [
+        "recreation room, which has comfortable seating such as couches or chairs.",
+        "recreation room, which has entertainment equipment such as a television, gaming console, or pool table.",
+        "recreation room, which has decorations such as posters, artwork, or sports memorabilia.",
+        "recreation room, which has storage for games, movies, or other recreational items.",
+        "recreation room, which is a bar area or mini-fridge for drinks.",
+        "recreation room, which has good lighting for activities.",
+        "recreation room, which is a cozy and inviting atmosphere."
+    ],
+    "restaurant": [
+        "restaurant, which has tables and chairs for dining.",
+        "restaurant, which has menus or signs displaying food and drink options.",
+        "restaurant, which has kitchen equipment such as stoves, ovens, and refrigerators.",
+        "restaurant, which has waitstaff or chefs in uniform.",
+        "restaurant, which has food and drinks on tables or being prepared.",
+        "restaurant, which has decor such as lighting, artwork, or plants.",
+        "restaurant, which has signage or branding indicating the name of the restaurant."
+    ],
+    "restaurant patio": [
+        "restaurant patio, which has outdoor seating area.",
+        "restaurant patio, which has tables and chairs.",
+        "restaurant patio, which has umbrellas or awnings for shade.",
+        "restaurant patio, which has plants or flowers.",
+        "restaurant patio, which has string lights or other outdoor lighting.",
+        "restaurant patio, which is a view of the surrounding area or cityscape.",
+        "restaurant patio, which is a menu board or sign indicating the restaurant's name.",
+        "restaurant patio, which has servers or customers dining at the tables."
+    ],
+    "riding arena": [
+        "riding arena, which is a large, flat area with sand or dirt footing.",
+        "riding arena, which has fencing or barriers around the perimeter.",
+        "riding arena, which has jumps or obstacles for training.",
+        "riding arena, which has seating for spectators.",
+        "riding arena, which has lighting for night riding.",
+        "riding arena, which has grooming and storage areas for equipment.",
+        "riding arena, which has signage indicating rules or regulations.",
+        "riding arena, which has horses and riders in the arena."
+    ],
+    "river": [
+        "river, which has flowing water.",
+        "river, which has banks or shores on either side.",
+        "river, which has vegetation along the banks.",
+        "river, which has rocks or boulders in the water.",
+        "river, which has reflections of the sky or surrounding landscape.",
+        "river, which has wildlife such as birds or fish.",
+        "river, which has bridges or boats crossing or on the river.",
+        "river, which has water movement or ripples."
+    ],
+    "rock arch": [
+        "rock arch, which has natural rock formation.",
+        "rock arch, which has curved or arched shape.",
+        "rock arch, which typically made of sandstone or limestone.",
+        "rock arch, which has located in a desert or rocky landscape.",
+        "rock arch, which may have visible layers or striations in the rock.",
+        "rock arch, which may have vegetation growing on or around it.",
+        "rock arch, which may have a visible opening or tunnel underneath the arch."
+    ],
+    "runway": [
+        "runway, which has long, straight strip of pavement or concrete.",
+        "runway, which typically marked with white lines or lights.",
+        "runway, which has surrounded by grass or pavement.",
+        "runway, which may have runway lights or signage.",
+        "runway, which may have aircraft parked nearby.",
+        "runway, which may have control tower or other airport infrastructure visible."
+    ],
+    "sandbar": [
+        "sandbar, which is a long, narrow strip of sand.",
+        "sandbar, which has located in the water, typically in a river or ocean.",
+        "sandbar, which may have vegetation or debris washed up on it.",
+        "sandbar, which may have footprints or animal tracks.",
+        "sandbar, which may have shells or rocks scattered on it.",
+        "sandbar, which may be partially submerged at high tide.",
+        "sandbar, which may have a distinct shape or pattern from above."
+    ],
+    "sandbox": [
+        "sandbox, which is a rectangular or square shape.",
+        "sandbox, which has filled with sand.",
+        "sandbox, which has surrounded by a border or frame.",
+        "sandbox, which has toys or tools for playing in the sand (buckets, shovels, etc.).",
+        "sandbox, which has possibly a cover or lid.",
+        "sandbox, which has located in a playground or outdoor area."
+    ],
+    "sauna": [
+        "sauna, which has wooden walls and benches.",
+        "sauna, which is a heater or stove.",
+        "sauna, which has rocks for heat distribution.",
+        "sauna, which is a bucket and ladle for water.",
+        "sauna, which is a thermometer.",
+        "sauna, which is a door with a glass window.",
+        "sauna, which is a ventilation system.",
+        "sauna, which is a timer or control panel."
+    ],
+    "schoolhouse": [
+        "schoolhouse, which is a building with a distinct architectural style, such as a bell tower or multiple classrooms.",
+        "schoolhouse, which is a sign or plaque indicating it is a school.",
+        "schoolhouse, which has windows with curtains or blinds.",
+        "schoolhouse, which is a playground or schoolyard with equipment like swings or slides.",
+        "schoolhouse, which is a flagpole with a flag.",
+        "schoolhouse, which is a parking lot or area for buses.",
+        "schoolhouse, which is a school bus parked nearby.",
+        "schoolhouse, which has children or adults entering or exiting the building."
+    ],
+    "sea cliff": [
+        "sea cliff, which has steep, vertical rock face.",
+        "sea cliff, which has located along a body of water, such as an ocean or sea.",
+        "sea cliff, which has erosion patterns on the rock face.",
+        "sea cliff, which has presence of seabirds or other marine life nesting or perching on the cliff.",
+        "sea cliff, which has crashing waves at the base of the cliff.",
+        "sea cliff, which has vegetation growing on or near the cliff.",
+        "sea cliff, which has geological layers or formations visible in the rock face."
+    ],
+    "server room": [
+        "server room, which has racks of servers and networking equipment.",
+        "server room, which has cables and wires running along the floor or ceiling.",
+        "server room, which has cooling systems such as air conditioning units or fans.",
+        "server room, which has raised floors for cable management.",
+        "server room, which has security measures such as keycard access or surveillance cameras.",
+        "server room, which has labeling on equipment and cables.",
+        "server room, which has power distribution units.",
+        "server room, which has server racks with blinking lights indicating activity."
+    ],
+    "shed": [
+        "shed, which has small, standalone structure.",
+        "shed, which typically made of wood or metal.",
+        "shed, which has sloped roof.",
+        "shed, which has windows or vents.",
+        "shed, which has door for entry.",
+        "shed, which often used for storage or as a workspace.",
+        "shed, which may have a lock or padlock for security."
+    ],
+    "shoe shop": [
+        "shoe shop, which has display shelves or racks filled with shoes.",
+        "shoe shop, which has signage or branding indicating it is a shoe store.",
+        "shoe shop, which has seating areas for trying on shoes.",
+        "shoe shop, which has shoe boxes or packaging visible.",
+        "shoe shop, which has shoe displays or mannequins wearing shoes.",
+        "shoe shop, which has shoe sizing charts or measuring tools.",
+        "shoe shop, which has employees wearing uniforms or name tags.",
+        "shoe shop, which has shoe accessories such as laces, insoles, or shoe care products."
+    ],
+    "shopfront": [
+        "shopfront, which has signage with the name of the shop.",
+        "shopfront, which has display windows showcasing products.",
+        "shopfront, which has entrance door.",
+        "shopfront, which is awning or canopy.",
+        "shopfront, which has outdoor seating or displays.",
+        "shopfront, which has branding or logos.",
+        "shopfront, which has lighting fixtures.",
+        "shopfront, which has merchandise or products visible through the windows."
+    ],
+    "shopping mall indoor": [
+        "shopping mall indoor, which has large open space with multiple levels.",
+        "shopping mall indoor, which has shops and stores with signage.",
+        "shopping mall indoor, which has escalators or elevators.",
+        "shopping mall indoor, which has seating areas.",
+        "shopping mall indoor, which has people shopping or walking around.",
+        "shopping mall indoor, which has indoor lighting fixtures.",
+        "shopping mall indoor, which has planters or decorative elements.",
+        "shopping mall indoor, which has glass storefronts.",
+        "shopping mall indoor, which has shopping bags or carts."
+    ],
+    "shower": [
+        "shower, which has tiled walls and floor.",
+        "shower, which has showerhead.",
+        "shower, which has faucet handles or knobs.",
+        "shower, which has shower curtain or glass door.",
+        "shower, which has soap dish or shelf.",
+        "shower, which has drainage hole.",
+        "shower, which has shampoo and conditioner bottles.",
+        "shower, which has towel rack or hooks."
+    ],
+    "skatepark": [
+        "skatepark, which has ramps, rails, and other obstacles for skating.",
+        "skatepark, which has concrete or wooden surfaces.",
+        "skatepark, which has graffiti or artwork on the ramps or walls.",
+        "skatepark, which has skaters or skateboarders in action.",
+        "skatepark, which has safety equipment such as helmets and pads.",
+        "skatepark, which has signage indicating it is a skatepark.",
+        "skatepark, which has seating or viewing areas for spectators."
+    ],
+    "ski lodge": [
+        "ski lodge, which has A large wooden building.",
+        "ski lodge, which has Snow-covered surroundings.",
+        "ski lodge, which has Ski racks or equipment outside.",
+        "ski lodge, which has Large windows.",
+        "ski lodge, which has A fireplace or chimney.",
+        "ski lodge, which has Ski lifts or slopes nearby.",
+        "ski lodge, which has Outdoor seating or apres-ski area."
+    ],
+    "ski resort": [
+        "ski resort, which has snow-covered mountains.",
+        "ski resort, which has ski lifts and gondolas.",
+        "ski resort, which has ski slopes and trails.",
+        "ski resort, which has ski rental shops.",
+        "ski resort, which has ski lodges and chalets.",
+        "ski resort, which has snow-making machines.",
+        "ski resort, which has skiers and snowboarders.",
+        "ski resort, which has snow grooming equipment.",
+        "ski resort, which has signage indicating ski resort amenities and services."
+    ],
+    "sky": [
+        "sky, which has blue or grey color.",
+        "sky, which has clouds.",
+        "sky, which has sun or moon.",
+        "sky, which has birds or airplanes.",
+        "sky, which has stars at night.",
+        "sky, which has trees or buildings on the horizon.",
+        "sky, which has weather phenomena such as rainbows or lightning."
+    ],
+    "skyscraper": [
+        "skyscraper, which has tall and towering structure.",
+        "skyscraper, which has multiple floors or levels.",
+        "skyscraper, which has glass windows or reflective surfaces.",
+        "skyscraper, which has modern architectural design.",
+        "skyscraper, which has located in a city or urban area.",
+        "skyscraper, which has surrounded by other buildings.",
+        "skyscraper, which may have a distinctive shape or design.",
+        "skyscraper, which may have a rooftop or observation deck."
+    ],
+    "slum": [
+        "slum, which has overcrowded and makeshift housing structures.",
+        "slum, which has poor infrastructure and sanitation.",
+        "slum, which has lack of basic amenities such as clean water and electricity.",
+        "slum, which has visible poverty and lack of resources.",
+        "slum, which has narrow and unpaved streets.",
+        "slum, which has presence of garbage and debris.",
+        "slum, which has makeshift shelters made from scrap materials."
+    ],
+    "snowfield": [
+        "snowfield, which has white or light blue color.",
+        "snowfield, which has flat or gently sloping surface.",
+        "snowfield, which has covered in snow or ice.",
+        "snowfield, which may have visible snowflakes or ice crystals.",
+        "snowfield, which may have footprints or tracks in the snow.",
+        "snowfield, which may have surrounding mountains or trees covered in snow.",
+        "snowfield, which may have a clear blue sky or overcast sky above."
+    ],
+    "squash court": [
+        "squash court, which is a rectangular court with four walls.",
+        "squash court, which is a front wall with a tin or glass panel.",
+        "squash court, which is a back wall.",
+        "squash court, which has side walls.",
+        "squash court, which has floor markings for boundaries and service boxes.",
+        "squash court, which is a door for entry and exit.",
+        "squash court, which has lighting fixtures.",
+        "squash court, which has seating for spectators.",
+        "squash court, which has squash rackets and balls visible."
+    ],
+    "stadium baseball": [
+        "stadium baseball, which has round shape.",
+        "stadium baseball, which has white with red stitching.",
+        "stadium baseball, which has raised seams.",
+        "stadium baseball, which has slightly textured surface.",
+        "stadium baseball, which is approximately 9 inches in circumference.",
+        "stadium baseball, which typically used in baseball games.",
+        "stadium baseball, which may have logos or markings from specific teams or events."
+    ],
+    "stadium football": [
+        "stadium football, which has large, open-air structure with seating for spectators.",
+        "stadium football, which has grass or turf playing field.",
+        "stadium football, which has goalposts at each end of the field.",
+        "stadium football, which has scoreboard.",
+        "stadium football, which has team logos or colors displayed.",
+        "stadium football, which has players in uniforms on the field.",
+        "stadium football, which has referees or officials on the field.",
+        "stadium football, which has crowd of spectators in the stands."
+    ],
+    "stage indoor": [
+        "stage indoor, which has elevated platform.",
+        "stage indoor, which has curtains or backdrop.",
+        "stage indoor, which has lighting fixtures.",
+        "stage indoor, which has microphones or other audio equipment.",
+        "stage indoor, which has seating for an audience.",
+        "stage indoor, which has props or set pieces.",
+        "stage indoor, which has performers or speakers on stage.",
+        "stage indoor, which has sound equipment such as speakers or amplifiers."
+    ],
+    "street": [
+        "street, which has paved surface.",
+        "street, which has lined with buildings or houses.",
+        "street, which has sidewalks or pedestrian walkways.",
+        "street, which has street signs or traffic signals.",
+        "street, which has parked cars or vehicles.",
+        "street, which has street lights.",
+        "street, which has trees or greenery along the sides.",
+        "street, which has people walking or biking.",
+        "street, which has road markings such as lanes or crosswalks."
+    ],
+    "subway interior": [
+        "subway interior, which has metal or plastic seats.",
+        "subway interior, which has overhead handrails or straps.",
+        "subway interior, which is advertisements or maps on the walls.",
+        "subway interior, which has electronic display showing the next stop.",
+        "subway interior, which has doors with handles or buttons to open/close.",
+        "subway interior, which has poles for passengers to hold onto.",
+        "subway interior, which has overhead lighting.",
+        "subway interior, which has windows with views of tunnels or stations."
+    ],
+    "subway station platform": [
+        "subway station platform, which has underground or elevated location.",
+        "subway station platform, which has tracks for trains.",
+        "subway station platform, which has platform edge.",
+        "subway station platform, which has signage indicating the station name or direction of trains.",
+        "subway station platform, which has benches or seating for waiting passengers.",
+        "subway station platform, which has overhead lighting.",
+        "subway station platform, which has pillars or columns supporting the structure.",
+        "subway station platform, which has electronic display boards showing train arrival times."
+    ],
+    "supermarket": [
+        "supermarket, which has large building with a parking lot.",
+        "supermarket, which has signage with the supermarket's name/logo.",
+        "supermarket, which has shopping carts or baskets.",
+        "supermarket, which is aisles of shelves stocked with products.",
+        "supermarket, which has checkout counters.",
+        "supermarket, which has refrigerated and frozen sections.",
+        "supermarket, which has produce section with fruits and vegetables.",
+        "supermarket, which has signage indicating different departments (e.g. bakery, deli, pharmacy)."
+    ],
+    "sushi bar": [
+        "sushi bar, which has sushi chefs behind a counter preparing sushi.",
+        "sushi bar, which has sushi display case with various types of sushi rolls and sashimi.",
+        "sushi bar, which has sushi bar seating with stools or chairs.",
+        "sushi bar, which has soy sauce, wasabi, and ginger on the counter.",
+        "sushi bar, which has chopsticks and napkins on the tables.",
+        "sushi bar, which has Japanese decor or signage.",
+        "sushi bar, which has customers enjoying sushi at the bar."
+    ],
+    "swimming pool indoor": [
+        "swimming pool indoor, which is a large body of water.",
+        "swimming pool indoor, which has tiled or concrete walls and floor.",
+        "swimming pool indoor, which has possibly a roof or enclosure overhead.",
+        "swimming pool indoor, which has pool accessories such as ladders, diving boards, or pool floats.",
+        "swimming pool indoor, which has indoor lighting fixtures.",
+        "swimming pool indoor, which has windows or skylights for natural light.",
+        "swimming pool indoor, which has possibly seating or lounging areas around the pool."
+    ],
+    "swimming pool outdoor": [
+        "swimming pool outdoor, which has blue or clear water.",
+        "swimming pool outdoor, which has tiled or concrete surface surrounding the pool.",
+        "swimming pool outdoor, which has pool ladder or steps.",
+        "swimming pool outdoor, which has pool toys or floats.",
+        "swimming pool outdoor, which has pool skimmer or cleaning equipment.",
+        "swimming pool outdoor, which has pool deck chairs or loungers.",
+        "swimming pool outdoor, which has pool umbrella or shade structure.",
+        "swimming pool outdoor, which has outdoor landscaping or fencing around the pool area."
+    ],
+    "synagogue indoor": [
+        "synagogue indoor, which has religious symbols such as the Star of David or menorah.",
+        "synagogue indoor, which has Torah scrolls.",
+        "synagogue indoor, which has prayer books or prayer shawls.",
+        "synagogue indoor, which is a bimah (raised platform) for reading the Torah.",
+        "synagogue indoor, which is a ner tamid (eternal light).",
+        "synagogue indoor, which has pews or seating for congregants.",
+        "synagogue indoor, which has stained glass windows with religious imagery.",
+        "synagogue indoor, which is a ark or cabinet to hold the Torah scrolls.",
+        "synagogue indoor, which is a podium or lectern for the rabbi or cantor."
+    ],
+    "synagogue outdoor": [
+        "synagogue outdoor, which is architectural features such as domes, arches, and columns.",
+        "synagogue outdoor, which has religious symbols such as the Star of David or menorah.",
+        "synagogue outdoor, which is a courtyard or outdoor space for gatherings or ceremonies.",
+        "synagogue outdoor, which is a sign or plaque indicating it is a synagogue.",
+        "synagogue outdoor, which has landscaping or greenery surrounding the building.",
+        "synagogue outdoor, which has people dressed in traditional religious attire entering or exiting the building."
+    ],
+    "television studio": [
+        "television studio, which has multiple cameras and tripods.",
+        "television studio, which has lighting equipment such as softboxes and spotlights.",
+        "television studio, which has microphones and audio equipment.",
+        "television studio, which is a backdrop or set design.",
+        "television studio, which has monitors and screens for viewing footage.",
+        "television studio, which has production equipment such as switchers and mixers.",
+        "television studio, which is a control room with computers and monitors for editing and broadcasting.",
+        "television studio, which is a director's chair or other seating for crew members."
+    ],
+    "temple east asia": [
+        "temple east asia, which has traditional East Asian architecture, such as curved roofs and intricate carvings.",
+        "temple east asia, which has pagoda-style structures.",
+        "temple east asia, which has statues of deities or religious figures.",
+        "temple east asia, which has incense burners or offerings.",
+        "temple east asia, which has gardens or courtyards.",
+        "temple east asia, which has red and gold color scheme.",
+        "temple east asia, which has prayer flags or banners.",
+        "temple east asia, which has people in traditional clothing or performing rituals."
+    ],
+    "temple south asia": [
+        "temple south asia, which has intricate architectural details such as carvings, sculptures, and ornate decorations.",
+        "temple south asia, which has domes or spires.",
+        "temple south asia, which has religious symbols or iconography.",
+        "temple south asia, which has statues of deities or religious figures.",
+        "temple south asia, which has colorful paint or tiles.",
+        "temple south asia, which has open courtyards or prayer halls.",
+        "temple south asia, which has surrounding gardens or water features.",
+        "temple south asia, which has presence of worshippers or priests."
+    ],
+    "tennis court indoor": [
+        "tennis court indoor, which is a flat, smooth surface.",
+        "tennis court indoor, which has net dividing the court in half.",
+        "tennis court indoor, which has white lines marking boundaries and service areas.",
+        "tennis court indoor, which has walls or barriers surrounding the court.",
+        "tennis court indoor, which has lighting fixtures overhead.",
+        "tennis court indoor, which has seating for spectators.",
+        "tennis court indoor, which has indoor climate control features such as air conditioning or heating.",
+        "tennis court indoor, which has possibly a scoreboard or electronic display for scores."
+    ],
+    "tennis court outdoor": [
+        "tennis court outdoor, which has rectangular shape.",
+        "tennis court outdoor, which has net in the middle.",
+        "tennis court outdoor, which has white lines marking boundaries and service areas.",
+        "tennis court outdoor, which has green or red clay surface, or green artificial turf.",
+        "tennis court outdoor, which has surrounding fence or barrier.",
+        "tennis court outdoor, which has benches or seating for spectators.",
+        "tennis court outdoor, which has tennis balls and rackets on the court."
+    ],
+    "theater indoor procenium": [
+        "theater indoor procenium, which has large stage with a raised platform.",
+        "theater indoor procenium, which has decorative arch or frame surrounding the stage.",
+        "theater indoor procenium, which has curtains or drapes that can be opened and closed.",
+        "theater indoor procenium, which has lighting fixtures above the stage.",
+        "theater indoor procenium, which has seating for the audience.",
+        "theater indoor procenium, which has possibly a orchestra pit in front of the stage.",
+        "theater indoor procenium, which has possibly a balcony or mezzanine level for additional seating."
+    ],
+    "theater indoor seats": [
+        "theater indoor seats, which has rows of cushioned seats.",
+        "theater indoor seats, which is armrests between seats.",
+        "theater indoor seats, which has cup holders.",
+        "theater indoor seats, which is aisle space for walking.",
+        "theater indoor seats, which has seat numbers or labels.",
+        "theater indoor seats, which has lighting fixtures above or beside seats.",
+        "theater indoor seats, which is a stage or screen in front of the seats."
+    ],
+    "thriftshop": [
+        "thriftshop, which has secondhand items for sale.",
+        "thriftshop, which has racks or shelves of clothing, accessories, and household items.",
+        "thriftshop, which has eclectic mix of styles and brands.",
+        "thriftshop, which has signs or banners indicating sales or discounts.",
+        "thriftshop, which has cash register or checkout counter.",
+        "thriftshop, which has unique or vintage items on display.",
+        "thriftshop, which is a variety of sizes and colors of items for sale."
+    ],
+    "throne room": [
+        "throne room, which has ornate and luxurious decor.",
+        "throne room, which is a large, elaborate throne.",
+        "throne room, which has high ceilings.",
+        "throne room, which has grand chandeliers or lighting fixtures.",
+        "throne room, which has tapestries or banners hanging on the walls.",
+        "throne room, which is a red or purple color scheme.",
+        "throne room, which is a carpet or rug on the floor.",
+        "throne room, which has statues or sculptures.",
+        "throne room, which is a sense of grandeur and opulence."
+    ],
+    "toll plaza": [
+        "toll plaza, which has booths or lanes for vehicles to pass through.",
+        "toll plaza, which has signs indicating toll prices and payment methods.",
+        "toll plaza, which has barriers or gates to control traffic flow.",
+        "toll plaza, which has overhead structures for toll collection equipment.",
+        "toll plaza, which has cameras for monitoring vehicles.",
+        "toll plaza, which has toll attendants or automated payment systems.",
+        "toll plaza, which has signage indicating the name of the toll plaza and any specific instructions for drivers."
+    ],
+    "tower": [
+        "tower, which has tall structure.",
+        "tower, which has vertical or slightly slanted shape.",
+        "tower, which may have windows or observation decks.",
+        "tower, which may have antennas or satellite dishes on top.",
+        "tower, which may be made of metal, concrete, or other materials.",
+        "tower, which may have a base or foundation.",
+        "tower, which may be surrounded by other buildings or structures."
+    ],
+    "toyshop": [
+        "toyshop, which has brightly colored signage or awnings.",
+        "toyshop, which has shelves or displays filled with toys.",
+        "toyshop, which has various types of toys such as dolls, action figures, board games, etc..",
+        "toyshop, which is a cash register or checkout counter.",
+        "toyshop, which has child-sized furniture or play areas.",
+        "toyshop, which has signage indicating the name of the toyshop.",
+        "toyshop, which has employees wearing uniforms or name tags.",
+        "toyshop, which is a playful or whimsical atmosphere."
+    ],
+    "track outdoor": [
+        "track outdoor, which has dirt or gravel surface.",
+        "track outdoor, which has lane markings.",
+        "track outdoor, which has starting blocks.",
+        "track outdoor, which has hurdles or obstacles.",
+        "track outdoor, which has track numbers or signs.",
+        "track outdoor, which has bleachers or seating areas.",
+        "track outdoor, which has surrounding trees or landscape.",
+        "track outdoor, which has people running or exercising."
+    ],
+    "train railway": [
+        "train railway, which has parallel metal tracks.",
+        "train railway, which has wooden or concrete sleepers supporting the tracks.",
+        "train railway, which has overhead wires or poles for electric trains.",
+        "train railway, which has signals and signs along the tracks.",
+        "train railway, which has train stations or platforms.",
+        "train railway, which has surrounding landscape or buildings.",
+        "train railway, which has trains or train cars on the tracks."
+    ],
+    "train station platform": [
+        "train station platform, which has elevated platform with tracks running alongside.",
+        "train station platform, which has overhead canopy or shelter.",
+        "train station platform, which has benches or seating for waiting passengers.",
+        "train station platform, which has signage indicating train schedules and destinations.",
+        "train station platform, which has ticket machines or booths.",
+        "train station platform, which has overhead lighting.",
+        "train station platform, which has train tracks with rails.",
+        "train station platform, which has train arrival and departure boards."
+    ],
+    "tree farm": [
+        "tree farm, which has rows of evenly spaced trees.",
+        "tree farm, which has signs or markers indicating the type of trees being grown.",
+        "tree farm, which has workers tending to the trees.",
+        "tree farm, which has irrigation systems or hoses for watering the trees.",
+        "tree farm, which has fencing or barriers around the perimeter of the farm.",
+        "tree farm, which has equipment such as tractors or trucks used for maintenance.",
+        "tree farm, which is a farmhouse or office building for managing the farm operations."
+    ],
+    "underwater coral reef": [
+        "underwater coral reef, which has colorful coral formations.",
+        "underwater coral reef, which has various marine life such as fish, sea turtles, and sea anemones.",
+        "underwater coral reef, which has clear blue water.",
+        "underwater coral reef, which has sandy ocean floor.",
+        "underwater coral reef, which has sunlight filtering through the water.",
+        "underwater coral reef, which has diverse shapes and sizes of coral structures.",
+        "underwater coral reef, which is algae and other plant life growing on the coral.",
+        "underwater coral reef, which has small crevices and hiding spots for marine animals."
+    ],
+    "utility room": [
+        "utility room, which has washer and dryer.",
+        "utility room, which has shelves or cabinets for storage.",
+        "utility room, which has cleaning supplies.",
+        "utility room, which is a sink or utility tub.",
+        "utility room, which is a broom or mop.",
+        "utility room, which is a vacuum cleaner.",
+        "utility room, which is a trash can.",
+        "utility room, which has possibly a water heater or furnace."
+    ],
+    "valley": [
+        "valley, which is a low-lying area between mountains or hills.",
+        "valley, which is a river or stream running through it.",
+        "valley, which has green vegetation or trees.",
+        "valley, which has steep sides or cliffs.",
+        "valley, which is a wide, open space between the mountains.",
+        "valley, which has possibly a road or trail running through it.",
+        "valley, which is a clear sky or clouds above."
+    ],
+    "van interior": [
+        "van interior, which has seats for passengers.",
+        "van interior, which has steering wheel.",
+        "van interior, which has dashboard with controls and gauges.",
+        "van interior, which has windows.",
+        "van interior, which has storage compartments.",
+        "van interior, which has cup holders.",
+        "van interior, which has rearview mirror.",
+        "van interior, which has seat belts.",
+        "van interior, which is air vents.",
+        "van interior, which has radio or entertainment system."
+    ],
+    "veranda": [
+        "veranda, which has outdoor space attached to a building.",
+        "veranda, which typically has a roof or awning.",
+        "veranda, which often has railings or balustrades.",
+        "veranda, which may have outdoor furniture such as chairs or tables.",
+        "veranda, which may have plants or flowers.",
+        "veranda, which may have a view of the surrounding area.",
+        "veranda, which may have steps or stairs leading to the ground."
+    ],
+    "veterinarians office": [
+        "veterinarians office, which has examination table.",
+        "veterinarians office, which has medical equipment such as stethoscope, thermometer, and syringes.",
+        "veterinarians office, which is animal cages or carriers.",
+        "veterinarians office, which has pet food and treats.",
+        "veterinarians office, which has veterinary staff in scrubs or lab coats.",
+        "veterinarians office, which has posters or signs related to animal health and care.",
+        "veterinarians office, which has waiting area with chairs or benches.",
+        "veterinarians office, which has pet toys or grooming supplies."
+    ],
+    "videostore": [
+        "videostore, which has rows of shelves filled with DVDs or Blu-rays.",
+        "videostore, which has movie posters or displays.",
+        "videostore, which is a checkout counter.",
+        "videostore, which has signage indicating the store's name or logo.",
+        "videostore, which has employees or customers browsing or checking out movies.",
+        "videostore, which is a display of new releases or popular titles.",
+        "videostore, which is a section for different genres or categories of movies."
+    ],
+    "village": [
+        "village, which has clustered buildings or houses.",
+        "village, which has small size compared to a town or city.",
+        "village, which has lack of tall buildings or skyscrapers.",
+        "village, which has presence of a central square or marketplace.",
+        "village, which has narrow streets or pathways.",
+        "village, which has surrounding natural landscape such as trees, fields, or mountains.",
+        "village, which has possibly a church or community center.",
+        "village, which has signs of human activity such as people, vehicles, or animals."
+    ],
+    "volcano": [
+        "volcano, which has tall, conical shape.",
+        "volcano, which has smoke or ash coming out of the top.",
+        "volcano, which has lava flowing down the sides.",
+        "volcano, which has rocky or ash-covered terrain surrounding the volcano.",
+        "volcano, which has potentially a crater at the summit.",
+        "volcano, which has steam or gas emissions.",
+        "volcano, which has potentially nearby buildings or structures for scale."
+    ],
+    "volleyball court indoor": [
+        "volleyball court indoor, which has wooden or synthetic flooring.",
+        "volleyball court indoor, which has boundary lines marking the court.",
+        "volleyball court indoor, which has net dividing the court into two sides.",
+        "volleyball court indoor, which has poles supporting the net.",
+        "volleyball court indoor, which has volleyball posts at each end of the net.",
+        "volleyball court indoor, which has seating for spectators.",
+        "volleyball court indoor, which has volleyball equipment such as balls and knee pads.",
+        "volleyball court indoor, which has overhead lighting for visibility."
+    ],
+    "volleyball court outdoor": [
+        "volleyball court outdoor, which has sand or grass surface.",
+        "volleyball court outdoor, which has net in the middle of the court.",
+        "volleyball court outdoor, which has boundary lines marking the court.",
+        "volleyball court outdoor, which has poles supporting the net.",
+        "volleyball court outdoor, which has players wearing athletic clothing and sneakers.",
+        "volleyball court outdoor, which has volleyball equipment such as balls and knee pads.",
+        "volleyball court outdoor, which has spectators or other players watching or participating in the game."
+    ],
+    "waiting room": [
+        "waiting room, which has comfortable seating such as chairs or couches.",
+        "waiting room, which has magazines or reading material.",
+        "waiting room, which is a reception desk or check-in area.",
+        "waiting room, which is a water cooler or refreshment station.",
+        "waiting room, which has plants or artwork on the walls.",
+        "waiting room, which is a television or entertainment system.",
+        "waiting room, which is a clock or digital display showing the time.",
+        "waiting room, which is a sign or poster indicating the purpose of the room (e.g. waiting room)."
+    ],
+    "warehouse indoor": [
+        "warehouse indoor, which has large open space with high ceilings.",
+        "warehouse indoor, which has shelves or racks for storage.",
+        "warehouse indoor, which has pallets or crates.",
+        "warehouse indoor, which has forklifts or other machinery.",
+        "warehouse indoor, which has overhead lighting.",
+        "warehouse indoor, which has concrete floors.",
+        "warehouse indoor, which has loading docks.",
+        "warehouse indoor, which has signage or labels for organization.",
+        "warehouse indoor, which has inventory or products stacked or stored on shelves."
+    ],
+    "water tower": [
+        "water tower, which has tall, cylindrical structure.",
+        "water tower, which has elevated on a platform or legs.",
+        "water tower, which has large tank or reservoir on top.",
+        "water tower, which typically made of metal or concrete.",
+        "water tower, which has ladder or stairs for access.",
+        "water tower, which has pipes or valves for water distribution.",
+        "water tower, which often painted with the name of the town or city.",
+        "water tower, which may have a conical or spherical top."
+    ],
+    "waterfall block": [
+        "waterfall block, which is a large, cascading flow of water.",
+        "waterfall block, which has rocks or cliffs surrounding the waterfall.",
+        "waterfall block, which has mist or spray coming off the water.",
+        "waterfall block, which has vegetation or trees nearby.",
+        "waterfall block, which is a pool or body of water at the base of the waterfall.",
+        "waterfall block, which is a natural setting, such as a forest or mountainous area."
+    ],
+    "waterfall fan": [
+        "waterfall fan, which is a fan blade assembly.",
+        "waterfall fan, which is a water reservoir or tank.",
+        "waterfall fan, which is a pump to circulate water.",
+        "waterfall fan, which has LED lights for added visual effect.",
+        "waterfall fan, which is a remote control for adjusting settings.",
+        "waterfall fan, which is a stand or mount for stability.",
+        "waterfall fan, which is a power cord for operation."
+    ],
+    "waterfall plunge": [
+        "waterfall plunge, which has flowing water cascading down a steep drop.",
+        "waterfall plunge, which has mist or spray rising from the base of the waterfall.",
+        "waterfall plunge, which has surrounding rocks or cliffs.",
+        "waterfall plunge, which has vegetation or trees near the waterfall.",
+        "waterfall plunge, which is a pool or body of water at the base of the waterfall.",
+        "waterfall plunge, which has the sound of rushing water.",
+        "waterfall plunge, which is a rainbow or sunlight reflecting off the water."
+    ],
+    "watering hole": [
+        "watering hole, which is a body of water, such as a pond, lake, or river.",
+        "watering hole, which has surrounding vegetation or trees.",
+        "watering hole, which is animals drinking or bathing in the water.",
+        "watering hole, which has rocks or mud around the edges of the water.",
+        "watering hole, which is a watering source, such as a pump or trough.",
+        "watering hole, which has footprints or tracks leading to the water.",
+        "watering hole, which has reflections of the surrounding landscape in the water."
+    ],
+    "wave": [
+        "wave, which has water in motion.",
+        "wave, which has curved shape.",
+        "wave, which has white foam or spray at the top of the wave.",
+        "wave, which has visible movement or energy in the water.",
+        "wave, which typically found in a body of water such as the ocean or a lake.",
+        "wave, which may be breaking or crashing onto a shore or rocks."
+    ],
+    "wet bar": [
+        "wet bar, which is a countertop with a sink.",
+        "wet bar, which has shelves or cabinets for storing glasses and bottles.",
+        "wet bar, which is a faucet for the sink.",
+        "wet bar, which is a refrigerator or cooler for chilling drinks.",
+        "wet bar, which has bar stools or chairs.",
+        "wet bar, which is a mirror or backsplash.",
+        "wet bar, which is a variety of alcohol bottles and glassware.",
+        "wet bar, which has possibly a small bar area with stools for seating."
+    ],
+    "wheat field": [
+        "wheat field, which has tall, slender stalks with golden or brown heads.",
+        "wheat field, which has rows or patterns of crops.",
+        "wheat field, which has open, flat landscape.",
+        "wheat field, which has blue sky or clouds in the background.",
+        "wheat field, which has possibly farm equipment or workers in the field.",
+        "wheat field, which has surrounding vegetation or trees.",
+        "wheat field, which has possibly a barn or farmhouse in the distance."
+    ],
+    "wrestling ring indoor": [
+        "wrestling ring indoor, which is a square or rectangular elevated platform surrounded by ropes.",
+        "wrestling ring indoor, which has padded mat covering the platform.",
+        "wrestling ring indoor, which has turnbuckles at each corner of the ring.",
+        "wrestling ring indoor, which is audience seating around the ring.",
+        "wrestling ring indoor, which has overhead lighting.",
+        "wrestling ring indoor, which has wrestling props such as chairs, ladders, or tables.",
+        "wrestling ring indoor, which has wrestlers in action or preparing for a match."
+    ],
+    "youth hostel": [
+        "youth hostel, which is a building with multiple floors and rooms.",
+        "youth hostel, which has dormitory-style accommodations with bunk beds.",
+        "youth hostel, which has communal areas such as a kitchen, lounge, or dining area.",
+        "youth hostel, which has signage indicating it is a hostel.",
+        "youth hostel, which has backpackers or travelers in the photo.",
+        "youth hostel, which has shared bathrooms.",
+        "youth hostel, which has lockers for storing personal belongings.",
+        "youth hostel, which is a reception desk or check-in area."
+    ]
+}

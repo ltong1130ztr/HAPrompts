@@ -1,0 +1,116 @@
+root                                    
+-                                       human-object interaction                
+|                                       -                                       daily personal care                     
+|                                       |                                       -                                       apply eye makeup                        
+|                                       |                                       -                                       apply lipstick                          
+|                                       |                                       -                                       blow dry hair                           
+|                                       |                                       -                                       brushing teeth                          
+|                                       |                                       -                                       shaving beard                           
+|                                       -                                       playing musical instrument              
+|                                       |                                       -                                       drumming                                
+|                                       |                                       -                                       playing guitar                          
+|                                       |                                       -                                       playing piano                           
+|                                       |                                       -                                       playing tabla                           
+|                                       |                                       -                                       playing violin                          
+|                                       |                                       -                                       playing cello                           
+|                                       |                                       -                                       playing daf                             
+|                                       |                                       -                                       playing dhol                            
+|                                       |                                       -                                       playing flute                           
+|                                       |                                       -                                       playing sitar                           
+|                                       -                                       hula hoop                               
+|                                       -                                       juggling balls                          
+|                                       -                                       jump rope                               
+|                                       -                                       mixing                                  
+|                                       -                                       nunchucks                               
+|                                       -                                       pizza tossing                           
+|                                       -                                       skate boarding                          
+|                                       -                                       soccer juggling                         
+|                                       -                                       yo yo                                   
+|                                       -                                       cutting in kitchen                      
+|                                       -                                       hammering                               
+|                                       -                                       knitting                                
+|                                       -                                       mopping floor                           
+|                                       -                                       typing                                  
+|                                       -                                       writing on board                        
+-                                       body-motion only                        
+|                                       -                                       fitness exercise                        
+|                                       |                                       -                                       jumping jack                            
+|                                       |                                       -                                       lunges                                  
+|                                       |                                       -                                       pull ups                                
+|                                       |                                       -                                       push ups                                
+|                                       |                                       -                                       rock climbing indoor                    
+|                                       |                                       -                                       rope climbing                           
+|                                       |                                       -                                       body weight squats                      
+|                                       |                                       -                                       hand stand pushups                      
+|                                       |                                       -                                       handstand walking                       
+|                                       |                                       -                                       wall pushups                            
+|                                       |                                       -                                       tai chi                                 
+|                                       |                                       -                                       trampoline jumping                      
+|                                       -                                       swing                                   
+|                                       -                                       walking with dog                        
+|                                       -                                       baby crawling                           
+|                                       -                                       blowing candles                         
+-                                       human-human interaction                 
+|                                       -                                       military parade                         
+|                                       -                                       salsa spin                              
+|                                       -                                       band marching                           
+|                                       -                                       haircut                                 
+|                                       -                                       head massage                            
+-                                       sports                                  
+|                                       -                                       ball games                              
+|                                       |                                       -                                       baseball pitch                          
+|                                       |                                       -                                       basketball                              
+|                                       |                                       -                                       billiards                               
+|                                       |                                       -                                       golf swing                              
+|                                       |                                       -                                       volleyball spiking                      
+|                                       |                                       -                                       basketball dunk                         
+|                                       |                                       -                                       tennis swing                            
+|                                       |                                       -                                       bowling                                 
+|                                       |                                       -                                       cricket bowling                         
+|                                       |                                       -                                       cricket shot                            
+|                                       |                                       -                                       soccer penalty                          
+|                                       |                                       -                                       table tennis shot                       
+|                                       -                                       gymnastics                              
+|                                       |                                       -                                       pommel horse                            
+|                                       |                                       -                                       balance beam                            
+|                                       |                                       -                                       floor gymnastics                        
+|                                       |                                       -                                       parallel bars                           
+|                                       |                                       -                                       still rings                             
+|                                       |                                       -                                       uneven bars                             
+|                                       -                                       water sports                            
+|                                       |                                       -                                       breast stroke                           
+|                                       |                                       -                                       diving                                  
+|                                       |                                       -                                       kayaking                                
+|                                       |                                       -                                       rowing                                  
+|                                       |                                       -                                       skijet                                  
+|                                       |                                       -                                       cliff diving                            
+|                                       |                                       -                                       front crawl                             
+|                                       |                                       -                                       rafting                                 
+|                                       |                                       -                                       surfing                                 
+|                                       -                                       combat sports                           
+|                                       |                                       -                                       punch                                   
+|                                       |                                       -                                       boxing punching bag                     
+|                                       |                                       -                                       boxing speed bag                        
+|                                       |                                       -                                       sumo wrestling                          
+|                                       -                                       track and field events                  
+|                                       |                                       -                                       throw discus                            
+|                                       |                                       -                                       high jump                               
+|                                       |                                       -                                       javelin throw                           
+|                                       |                                       -                                       pole vault                              
+|                                       |                                       -                                       hammer throw                            
+|                                       |                                       -                                       long jump                               
+|                                       |                                       -                                       shotput                                 
+|                                       -                                       winter sports                           
+|                                       |                                       -                                       skiing                                  
+|                                       |                                       -                                       ice dancing                             
+|                                       -                                       bench press                             
+|                                       -                                       biking                                  
+|                                       -                                       clean and jerk                          
+|                                       -                                       fencing                                 
+|                                       -                                       horse race                              
+|                                       -                                       horse riding                            
+|                                       -                                       archery                                 
+|                                       -                                       field hockey penalty                    
+|                                       -                                       frisbee catch                           
+|                                       -                                       sky diving                              
+

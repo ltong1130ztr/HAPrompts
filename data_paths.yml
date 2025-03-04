@@ -1,0 +1,110 @@
+# root directory of the scripts: '/path/to/code' replace with your root directory with main.py resides
+
+# api keys for each LLM service ---
+# replace '/path/to/keys' to the directory where your local text files storing the api-keys 
+openai-key: '/path/to/keys/openai.txt'
+anthropic-key: '/path/to/keys/anthropic.txt'
+google-key: '/path/to/keys/googleaistudio.txt'
+
+# original dataset download path
+# change '/path/to/dataset/original/' to a directory you will use to store downloaded original datasets (need ~138GB)
+dataset-home-dir: '/path/to/dataset/original/'
+
+# my dataset paths --- 
+# change '/path/to/my/datasets' to a directory you will use to store val/test partitioned datatsets (need ~27GB)
+food-101: 'path/to/my/datasets/food-101'
+ucf-101: 'path/to/my/datasets/ucf-101'
+cub-200: 'path/to/my/datasets/cub-200'
+sun-324: 'path/to/my/datasets/sun-324'
+imagenet: 'path/to/my/datasets/imagenet'
+
+
+# my label hierarchy (tree) paths ---
+food-101-tree: '/path/to/code/trees/food-101/food101_tree_from_ChatGPT.pkl'
+ucf-101-tree: '/path/to/code/trees/ucf-101/UCF101_tree_from_chatgpt_and_manual.pkl'
+cub-200-tree: '/path/to/code/trees/cub-200/CUB200_tree_from_flamingo.pkl'
+sun-324-tree: '/path/to/code/trees/sun-324/SUN324_tree.pkl'
+imagenet-tree: '/path/to/code/trees/imagenet/imagenet_tree_cupl_vcd.pkl'
+
+
+# my hierarchical distance matrix paths ---
+food-101-hdist: '/path/to/code/trees/food-101/food101_hdist_from_ChatGPT.pkl'
+ucf-101-hdist: '/path/to/code/trees/ucf-101/UCF101_hdist_from_chatgpt_and_manual.pkl'
+cub-200-hdist: '/path/to/code/trees/cub-200/CUB200_hdist_from_flamingo.pkl'
+sun-324-hdist: '/path/to/code/trees/sun-324/SUN324_hdist.pkl'
+imagenet-hdist: '/path/to/code/trees/imagenet/imagenet_hdist_cupl_vcd.pkl'
+
+
+# chatgpt-generated image prompts ---
+# CuPL
+food-101-cupl-prompts: '/path/to/code/image_prompts/CuPL/food-101-cupl-0.99-temp-50-mtokens.json'
+ucf-101-cupl-prompts: '/path/to/code/image_prompts/CuPL/ucf-101-cupl-0.99-temp-50-mtokens.json'
+cub-200-cupl-prompts: '/path/to/code/image_prompts/CuPL/cub-200-cupl-0.99-temp-50-mtokens.json'
+sun-324-cupl-prompts: '/path/to/code/image_prompts/CuPL/sun-324-cupl-0.99-temp-50-mtokens.json'
+imagenet-cupl-prompts: '/path/to/code/image_prompts/CuPL/imagenet-cupl-0.99-temp-50-mtokens.json'
+
+# VCD
+food-101-vcd-prompts: '/path/to/code/image_prompts/VCD/food-101-vcd-0.00-temp-100-mtokens.json'
+ucf-101-vcd-prompts: '/path/to/code/image_prompts/VCD/ucf-101-vcd-0.00-temp-100-mtokens.json'
+cub-200-vcd-prompts: '/path/to/code/image_prompts/VCD/cub-200-vcd-0.00-temp-100-mtokens.json'
+sun-324-vcd-prompts: '/path/to/code/image_prompts/VCD/sun-324-vcd-0.00-temp-100-mtokens.json'
+imagenet-vcd-prompts: '/path/to/code/image_prompts/VCD/imagenet-vcd-0.00-temp-100-mtokens.json'
+
+# HieC (HIE with clustering)
+food-101-hiec-prompts: '/path/to/code/image_prompts/HIE_cluster/food-101-hiec-1.00-temp.json'
+ucf-101-hiec-prompts: '/path/to/code/image_prompts/HIE_cluster/ucf-101-hiec-1.00-temp.json'
+cub-200-hiec-prompts: '/path/to/code/image_prompts/HIE_cluster/cub-200-hiec-1.00-temp.json'
+sun-324-hiec-prompts: '/path/to/code/image_prompts/HIE_cluster/sun-324-hiec-1.00-temp.json'
+imagenet-hiec-prompts: '/path/to/code/image_prompts/HIE_cluster/imagenet-hiec-1.00-temp.json'
+
+# HieT (HIE with tree)
+food-101-hiet-prompts: '/path/to/code/image_prompts/HIE_tree/food-101-hiet-1.00-temp.json'
+ucf-101-hiet-prompts: '/path/to/code/image_prompts/HIE_tree/ucf-101-hiet-1.00-temp.json'
+cub-200-hiet-prompts: '/path/to/code/image_prompts/HIE_tree/cub-200-hiet-1.00-temp.json'
+sun-324-hiet-prompts: '/path/to/code/image_prompts/HIE_tree/sun-324-hiet-1.00-temp.json'
+imagenet-hiet-prompts: '/path/to/code/image_prompts/HIE_tree/imagenet-hiet-1.00-temp.json'
+
+# variants of our approach: chatgpt/leaf-level peers
+food-101-ours-LP-prompts: '/path/to/code/image_prompts/Ours/chatgpt/ours_LP/food-101-ours-LP-1.00-temp-150-mtokens.json'
+ucf-101-ours-LP-prompts: '/path/to/code/image_prompts/Ours/chatgpt/ours_LP/ucf-101-ours-LP-1.00-temp-150-mtokens.json'
+cub-200-ours-LP-prompts: '/path/to/code/image_prompts/Ours/chatgpt/ours_LP/cub-200-ours-LP-1.00-temp-150-mtokens.json'
+sun-324-ours-LP-prompts: '/path/to/code/image_prompts/Ours/chatgpt/ours_LP/sun-324-ours-LP-1.00-temp-150-mtokens.json'
+imagenet-ours-LP-prompts: '/path/to/code/image_prompts/Ours/chatgpt/ours_LP/imagenet-ours-LP-1.00-temp-150-mtokens.json'
+
+# variants of our approach: chatgpt/ancestor-level peers
+food-101-ours-AP-prompts: '/path/to/code/image_prompts/Ours/chatgpt/ours_AP/food-101-ours-AP-1.00-temp-150-mtokens.json'
+ucf-101-ours-AP-prompts: '/path/to/code/image_prompts/Ours/chatgpt/ours_AP/ucf-101-ours-AP-1.00-temp-150-mtokens.json'
+cub-200-ours-AP-prompts: '/path/to/code/image_prompts/Ours/chatgpt/ours_AP/cub-200-ours-AP-1.00-temp-150-mtokens.json'
+sun-324-ours-AP-prompts: '/path/to/code/image_prompts/Ours/chatgpt/ours_AP/sun-324-ours-AP-1.00-temp-150-mtokens.json'
+imagenet-ours-AP-prompts: '/path/to/code/image_prompts/Ours/chatgpt/ours_AP/imagenet-ours-AP-1.00-temp-150-mtokens.json'
+
+# variants of our approach: chatgpt/comparative
+food-101-ours-comp-prompts: '/path/to/code/image_prompts/Ours/chatgpt/ours_comp/food-101-ours-comp-1.00-temp-150-mtokens.json'
+ucf-101-ours-comp-prompts: '/path/to/code/image_prompts/Ours/chatgpt/ours_comp/ucf-101-ours-comp-1.00-temp-150-mtokens.json'
+cub-200-ours-comp-prompts: '/path/to/code/image_prompts/Ours/chatgpt/ours_comp/cub-200-ours-comp-1.00-temp-150-mtokens.json'
+sun-324-ours-comp-prompts: '/path/to/code/image_prompts/Ours/chatgpt/ours_comp/sun-324-ours-comp-1.00-temp-150-mtokens.json'
+imagenet-ours-comp-prompts: '/path/to/code/image_prompts/Ours/chatgpt/ours_comp/imagenet-ours-comp-1.00-temp-150-mtokens.json'
+
+# variants of our approach: chatgpt/path-based generic 
+food-101-ours-path-prompts: '/path/to/code/image_prompts/Ours/chatgpt/ours_path/food-101-ours-path-1.00-temp-150-mtokens.json'
+ucf-101-ours-path-prompts: '/path/to/code/image_prompts/Ours/chatgpt/ours_path/ucf-101-ours-path-1.00-temp-150-mtokens.json'
+cub-200-ours-path-prompts: '/path/to/code/image_prompts/Ours/chatgpt/ours_path/cub-200-ours-path-1.00-temp-150-mtokens.json'
+sun-324-ours-path-prompts: '/path/to/code/image_prompts/Ours/chatgpt/ours_path/sun-324-ours-path-1.00-temp-150-mtokens.json'
+imagenet-ours-path-prompts: '/path/to/code/image_prompts/Ours/chatgpt/ours_path/imagenet-ours-path-1.00-temp-150-mtokens.json'
+
+# our full approach: chatgpt/LP+AP+G (path-based Generic prompt)
+food-101-ours-full-prompts: '/path/to/code/image_prompts/Ours/chatgpt/ours_full/food-101-ours-full-1.00-temp-150-mtokens.json'
+ucf-101-ours-full-prompts: '/path/to/code/image_prompts/Ours/chatgpt/ours_full/ucf-101-ours-full-1.00-temp-150-mtokens.json'
+cub-200-ours-full-prompts: '/path/to/code/image_prompts/Ours/chatgpt/ours_full/cub-200-ours-full-1.00-temp-150-mtokens.json'
+sun-324-ours-full-prompts: '/path/to/code/image_prompts/Ours/chatgpt/ours_full/sun-324-ours-full-1.00-temp-150-mtokens.json'
+imagenet-ours-full-prompts: '/path/to/code/image_prompts/Ours/chatgpt/ours_full/imagenet-ours-full-1.00-temp-150-mtokens.json'
+
+# language prompts transferability - claude
+imagenet-ours-full-claude-prompts: '/path/to/code/image_prompts/Ours/claude/imagenet-ours-full-claude-1.00-temp-150-mtokens.json'
+imagenet-ours-path-claude-prompts: '/path/to/code/image_prompts/Ours/claude/imagenet-ours-path-claude-1.00-temp-150-mtokens.json'
+imagenet-ours-comp-claude-prompts: '/path/to/code/image_prompts/Ours/claude/imagenet-ours-comp-claude-1.00-temp-150-mtokens.json'
+
+# language prompts transferability - gemini
+imagenet-ours-full-gemini-prompts: '/path/to/code/image_prompts/Ours/gemini/imagenet-ours-full-gemini-1.00-temp-150-mtokens.json'
+imagenet-ours-path-gemini-prompts: '/path/to/code/image_prompts/Ours/gemini/imagenet-ours-path-gemini-1.00-temp-150-mtokens.json'
+imagenet-ours-comp-gemini-prompts: '/path/to/code/image_prompts/Ours/gemini/imagenet-ours-comp-gemini-1.00-temp-150-mtokens.json'

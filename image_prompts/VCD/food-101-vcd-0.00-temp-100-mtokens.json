@@ -1,0 +1,734 @@
+{
+    "apple pie": [
+        "apple pie, which is a pie dish.",
+        "apple pie, which is a crust.",
+        "apple pie, which has filling made of apples.",
+        "apple pie, which has sugar.",
+        "apple pie, which has cinnamon.",
+        "apple pie, which has nutmeg.",
+        "apple pie, which has butter.",
+        "apple pie, which has eggs."
+    ],
+    "baby back ribs": [
+        "baby back ribs, which is a rack of ribs.",
+        "baby back ribs, which has usually pork or beef.",
+        "baby back ribs, which has each rib has a bone with meat attached.",
+        "baby back ribs, which has the meat is usually covered in barbecue sauce."
+    ],
+    "baklava": [
+        "baklava, which is a sweet pastry.",
+        "baklava, which has made of layers of filo dough.",
+        "baklava, which has filled with chopped nuts and sweetened with syrup or honey.",
+        "baklava, which has usually cut into diamond or square shapes.",
+        "baklava, which has served as a dessert or snack."
+    ],
+    "beef carpaccio": [
+        "beef carpaccio, which has red meat.",
+        "beef carpaccio, which has thinly sliced.",
+        "beef carpaccio, which has served raw or rare.",
+        "beef carpaccio, which has garnished with herbs or spices.",
+        "beef carpaccio, which has olive oil or lemon juice."
+    ],
+    "beef tartare": [
+        "beef tartare, which has red meat.",
+        "beef tartare, which has chopped or ground.",
+        "beef tartare, which has served raw.",
+        "beef tartare, which often with egg, capers, and onions.",
+        "beef tartare, which may be garnished with herbs or spices."
+    ],
+    "beet salad": [
+        "beet salad, which is a bowl or plate of food.",
+        "beet salad, which has red and green vegetables.",
+        "beet salad, which has lettuce.",
+        "beet salad, which has other salad ingredients like croutons, cheese, or dressing.",
+        "beet salad, which is a fork or spoon."
+    ],
+    "beignets": [
+        "beignets, which has fried doughnut-shaped pastry.",
+        "beignets, which has coated with powdered sugar.",
+        "beignets, which has served hot."
+    ],
+    "bibimbap": [
+        "bibimbap, which is a bowl of rice.",
+        "bibimbap, which has topped with vegetables, meat, and/or an egg.",
+        "bibimbap, which often served with gochujang (red chili pepper paste).",
+        "bibimbap, which can be served with kimchi on the side."
+    ],
+    "bread pudding": [
+        "bread pudding, which is a dessert or sweet dish.",
+        "bread pudding, which has made with bread or a bread-like product.",
+        "bread pudding, which typically contains eggs, milk, sugar, and spices.",
+        "bread pudding, which may be baked or steamed.",
+        "bread pudding, which often served with a sauce or topping."
+    ],
+    "breakfast burrito": [
+        "breakfast burrito, which is a flour tortilla.",
+        "breakfast burrito, which has eggs.",
+        "breakfast burrito, which has cheese.",
+        "breakfast burrito, which has meat.",
+        "breakfast burrito, which has vegetables.",
+        "breakfast burrito, which has salsa.",
+        "breakfast burrito, which has hot sauce."
+    ],
+    "bruschetta": [
+        "bruschetta, which is a piece of bread.",
+        "bruschetta, which has topped with olive oil, garlic, and tomatoes.",
+        "bruschetta, which often served as an appetizer."
+    ],
+    "caesar salad": [
+        "caesar salad, which is a salad made with romaine lettuce, croutons, Parmesan cheese, and Caesar dressing."
+    ],
+    "cannoli": [
+        "cannoli, which is an Italian pastry.",
+        "cannoli, which is a tube-shaped shell.",
+        "cannoli, which has made of fried dough.",
+        "cannoli, which has filled with sweetened ricotta.",
+        "cannoli, which has chocolate chips.",
+        "cannoli, which candied fruit.",
+        "cannoli, which has nuts."
+    ],
+    "caprese salad": [
+        "caprese salad, which is a salad made of tomatoes, mozzarella, and basil.",
+        "caprese salad, which has red, white, and green colors.",
+        "caprese salad, which has sliced or diced tomatoes.",
+        "caprese salad, which has sliced or diced mozzarella.",
+        "caprese salad, which has fresh basil leaves.",
+        "caprese salad, which has olive oil.",
+        "caprese salad, which has balsamic vinegar."
+    ],
+    "carrot cake": [
+        "carrot cake, which has cake with carrots.",
+        "carrot cake, which has cream cheese frosting.",
+        "carrot cake, which often has nuts or raisins.",
+        "carrot cake, which may have a green garnish."
+    ],
+    "ceviche": [
+        "ceviche, which is a dish of seafood.",
+        "ceviche, which typically includes fish, shrimp, and/or squid.",
+        "ceviche, which has marinated in citrus juice.",
+        "ceviche, which has served with onions, peppers, and cilantro.",
+        "ceviche, which may be garnished with avocado, lime, and/or chili peppers."
+    ],
+    "cheese plate": [
+        "cheese plate, which is a plate with several different kinds of cheese.",
+        "cheese plate, which is a variety of crackers or bread.",
+        "cheese plate, which is a knife for cutting the cheese.",
+        "cheese plate, which is a spreader for spreading the cheese.",
+        "cheese plate, which is a napkin or paper towel."
+    ],
+    "cheesecake": [
+        "cheesecake, which is a cake made with cheese.",
+        "cheesecake, which has usually has a graham cracker or cookie crust.",
+        "cheesecake, which can be topped with fruit, whipped cream, or chocolate.",
+        "cheesecake, which may have a design on top made with icing or chocolate."
+    ],
+    "chicken curry": [
+        "chicken curry, which is a bowl or plate of food.",
+        "chicken curry, which has curry is usually a yellow, orange, or red color.",
+        "chicken curry, which has chunks of chicken.",
+        "chicken curry, which has rice or noodles.",
+        "chicken curry, which has vegetables.",
+        "chicken curry, which has spices."
+    ],
+    "chicken quesadilla": [
+        "chicken quesadilla, which is a flat, round tortilla.",
+        "chicken quesadilla, which has chicken.",
+        "chicken quesadilla, which has cheese.",
+        "chicken quesadilla, which has salsa.",
+        "chicken quesadilla, which has sour cream."
+    ],
+    "chicken wings": [
+        "chicken wings, which has chicken wings.",
+        "chicken wings, which has fried.",
+        "chicken wings, which has sauced.",
+        "chicken wings, which has served with celery and blue cheese dressing."
+    ],
+    "chocolate cake": [
+        "chocolate cake, which is a cake.",
+        "chocolate cake, which has chocolate flavor.",
+        "chocolate cake, which has frosting.",
+        "chocolate cake, which has decorations.",
+        "chocolate cake, which candles (optional)."
+    ],
+    "chocolate mousse": [
+        "chocolate mousse, which is a chocolate mousse is a dessert made from chocolate, eggs, and cream,.",
+        "chocolate mousse, which has it is usually served in a glass or cup,.",
+        "chocolate mousse, which has it is smooth and creamy,.",
+        "chocolate mousse, which has it may have a whipped cream topping,.",
+        "chocolate mousse, which has it may be garnished with chocolate shavings or a cherry.."
+    ],
+    "churros": [
+        "churros, which has fried-dough pastry.",
+        "churros, which has coated in sugar.",
+        "churros, which often served with chocolate sauce.",
+        "churros, which has long and thin.",
+        "churros, which has twisted or spiraled shape."
+    ],
+    "clam chowder": [
+        "clam chowder, which is a thick, creamy soup.",
+        "clam chowder, which has usually contains potatoes, onions, and celery.",
+        "clam chowder, which may be white or red.",
+        "clam chowder, which typically contains clams, bacon, and/or seafood.",
+        "clam chowder, which may be garnished with parsley, thyme, or other herbs."
+    ],
+    "club sandwich": [
+        "club sandwich, which is a sandwich with multiple layers of meat, cheese, and vegetables.",
+        "club sandwich, which has bread that is toasted or grilled.",
+        "club sandwich, which mayonnaise or another sauce.",
+        "club sandwich, which has lettuce, tomato, and onion."
+    ],
+    "crab cakes": [
+        "crab cakes, which is a cake or patty made of crab meat.",
+        "crab cakes, which has usually fried or baked.",
+        "crab cakes, which may be served with a sauce or dressing.",
+        "crab cakes, which may be garnished with vegetables or herbs."
+    ],
+    "creme brulee": [
+        "creme brulee, which is a dessert.",
+        "creme brulee, which is a round, shallow dish.",
+        "creme brulee, which is a smooth, custard-like filling.",
+        "creme brulee, which is a hard, caramelized topping.",
+        "creme brulee, which is a spoon."
+    ],
+    "croque madame": [
+        "croque madame, which is a sandwich made of bread, ham, and cheese.",
+        "croque madame, which has the bread is usually toasted or grilled.",
+        "croque madame, which has the cheese is melted.",
+        "croque madame, which is a fried or poached egg is placed on top.",
+        "croque madame, which has served hot.",
+        "croque madame, which has garnished with parsley or other herbs."
+    ],
+    "cup cakes": [
+        "cup cakes, which has small, round cake.",
+        "cup cakes, which has frosting on top.",
+        "cup cakes, which has sprinkles or other decorations on top.",
+        "cup cakes, which is a paper or plastic cupcake liner."
+    ],
+    "deviled eggs": [
+        "deviled eggs, which is a hard-boiled egg.",
+        "deviled eggs, which mayonnaise.",
+        "deviled eggs, which has mustard.",
+        "deviled eggs, which has vinegar.",
+        "deviled eggs, which has paprika.",
+        "deviled eggs, which has salt.",
+        "deviled eggs, which has pepper."
+    ],
+    "donuts": [
+        "donuts, which has round.",
+        "donuts, which has sweet.",
+        "donuts, which has white or brown.",
+        "donuts, which has glazed or frosted.",
+        "donuts, which has filled with cream.",
+        "donuts, which has sprinkled with sugar.",
+        "donuts, which is a hole in the middle."
+    ],
+    "dumplings": [
+        "dumplings, which has small, round, and filled with meat or vegetables.",
+        "dumplings, which has wrapped in a thin dough.",
+        "dumplings, which has boiled, steamed, or fried.",
+        "dumplings, which has served with a dipping sauce.",
+        "dumplings, which can be made with different fillings."
+    ],
+    "edamame": [
+        "edamame, which is a pod with small, green beans inside.",
+        "edamame, which is a stem attached to the pod.",
+        "edamame, which has leaves attached to the stem.",
+        "edamame, which is a plant with a woody stem.",
+        "edamame, which is a plant that is a member of the pea family."
+    ],
+    "eggs benedict": [
+        "eggs benedict, which is a dish composed of an English muffin, ham, a poached egg, and hollandaise sauce.",
+        "eggs benedict, which has the egg is usually cooked so that the yolk is runny.",
+        "eggs benedict, which may be garnished with parsley, paprika, or other herbs."
+    ],
+    "escargots": [
+        "escargots, which has small, snail-like creature.",
+        "escargots, which has brown, grey, or white.",
+        "escargots, which has slimy body.",
+        "escargots, which has long, spiral shell.",
+        "escargots, which has two feelers on head.",
+        "escargots, which has two pairs of tentacles."
+    ],
+    "falafel": [
+        "falafel, which is a deep-fried ball or patty.",
+        "falafel, which has made from ground chickpeas, fava beans, or both.",
+        "falafel, which has usually served in a pita or wrap.",
+        "falafel, which has topped with salads, pickles, and sauces."
+    ],
+    "filet mignon": [
+        "filet mignon, which is a cut of beef.",
+        "filet mignon, which has usually served as a steak.",
+        "filet mignon, which has tender and lean.",
+        "filet mignon, which can be grilled, pan-fried, or roasted.",
+        "filet mignon, which typically served with a sauce or vegetables.",
+        "filet mignon, which has four-limbed animal.",
+        "filet mignon, which has fur.",
+        "filet mignon, which has whiskers.",
+        "filet mignon, which is a tail.",
+        "filet mignon, which has pointy ears."
+    ],
+    "fish and chips": [
+        "fish and chips, which is a plate of food.",
+        "fish and chips, which has fried fish.",
+        "fish and chips, which has french fries.",
+        "fish and chips, which has ketchup or vinegar."
+    ],
+    "foie gras": [
+        "foie gras, which is a type of French cuisine.",
+        "foie gras, which has made from the liver of a duck or goose.",
+        "foie gras, which can be served as a pate or mousse.",
+        "foie gras, which often served with a sweet or savory sauce.",
+        "foie gras, which may be garnished with fruit, nuts, or herbs."
+    ],
+    "french fries": [
+        "french fries, which has white, brown, or yellow.",
+        "french fries, which has long, thin, and cylindrical.",
+        "french fries, which has crispy.",
+        "french fries, which has salty.",
+        "french fries, which has oily.",
+        "french fries, which has fried.",
+        "french fries, which has made from potatoes."
+    ],
+    "french onion soup": [
+        "french onion soup, which is a bowl of soup.",
+        "french onion soup, which has onions in the soup.",
+        "french onion soup, which is a bread crumb topping.",
+        "french onion soup, which has melted cheese on top.",
+        "french onion soup, which is a spoon for eating the soup."
+    ],
+    "french toast": [
+        "french toast, which has bread that has been soaked in egg and milk.",
+        "french toast, which has then fried in a pan.",
+        "french toast, which often served with butter, syrup, or fruit.",
+        "french toast, which has four-limbed animal.",
+        "french toast, which has fur.",
+        "french toast, which has whiskers.",
+        "french toast, which is a tail.",
+        "french toast, which has pointy ears.",
+        "french toast, which has big, round eyes."
+    ],
+    "fried calamari": [
+        "fried calamari, which has white.",
+        "fried calamari, which has round.",
+        "fried calamari, which has fried.",
+        "fried calamari, which has with a red sauce."
+    ],
+    "fried rice": [
+        "fried rice, which is a dish made of rice that has been stir-fried in a wok or a frying pan.",
+        "fried rice, which can be made with various ingredients like meats, vegetables, and eggs.",
+        "fried rice, which has usually has a brown or yellowish color.",
+        "fried rice, which can be served with soy sauce, chili sauce, or other condiments."
+    ],
+    "frozen yogurt": [
+        "frozen yogurt, which is a cup or cone of frozen yogurt.",
+        "frozen yogurt, which has toppings such as fruits, nuts, or candy.",
+        "frozen yogurt, which is a spoon.",
+        "frozen yogurt, which is a napkin."
+    ],
+    "garlic bread": [
+        "garlic bread, which is a loaf of bread.",
+        "garlic bread, which has with garlic cloves.",
+        "garlic bread, which is and butter or olive oil.",
+        "garlic bread, which often with parsley or other herbs.",
+        "garlic bread, which has served hot or cold."
+    ],
+    "gnocchi": [
+        "gnocchi, which has small, round, and thick.",
+        "gnocchi, which has made from potato, flour, and egg.",
+        "gnocchi, which can be boiled, baked, or fried.",
+        "gnocchi, which has served with sauce or vegetables."
+    ],
+    "greek salad": [
+        "greek salad, which is a mix of greens, such as lettuce, spinach, and arugula.",
+        "greek salad, which has cherry tomatoes.",
+        "greek salad, which has Kalamata olives.",
+        "greek salad, which has feta cheese.",
+        "greek salad, which has red onion.",
+        "greek salad, which has cucumber.",
+        "greek salad, which has green bell pepper.",
+        "greek salad, which has olive oil.",
+        "greek salad, which has red wine vinegar.",
+        "greek salad, which has oregano.",
+        "greek salad, which has salt.",
+        "greek salad, which has pepper."
+    ],
+    "grilled cheese sandwich": [
+        "grilled cheese sandwich, which has two slices of bread.",
+        "grilled cheese sandwich, which has cheese melted in between the slices of bread.",
+        "grilled cheese sandwich, which has butter on the bread.",
+        "grilled cheese sandwich, which has grill marks on the bread."
+    ],
+    "grilled salmon": [
+        "grilled salmon, which is a fish.",
+        "grilled salmon, which has pink or red-orange.",
+        "grilled salmon, which has fleshy with scales.",
+        "grilled salmon, which is a grilled or cooked appearance.",
+        "grilled salmon, which may be served with lemon, butter, or other sauces."
+    ],
+    "guacamole": [
+        "guacamole, which is a green, brown, or black color.",
+        "guacamole, which is a smooth or textured surface.",
+        "guacamole, which is a dip or spread.",
+        "guacamole, which has made from avocados, onions, tomatoes, and other ingredients.",
+        "guacamole, which often served with chips, tacos, or burritos."
+    ],
+    "gyoza": [
+        "gyoza, which is a small, round, flat dumpling.",
+        "gyoza, which has made of wheat flour dough and filled with meat and vegetables.",
+        "gyoza, which has usually served steamed, boiled, or fried.",
+        "gyoza, which can be served with dipping sauce."
+    ],
+    "hamburger": [
+        "hamburger, which is a round, flat bun.",
+        "hamburger, which is a cooked beef patty.",
+        "hamburger, which has lettuce, tomato, onion, pickles, cheese, and/or other condiments.",
+        "hamburger, which has ketchup, mustard, and/or other sauces."
+    ],
+    "hot and sour soup": [
+        "hot and sour soup, which is a bowl of soup.",
+        "hot and sour soup, which has steam coming off the soup.",
+        "hot and sour soup, which has chunks of vegetables or meat in the soup.",
+        "hot and sour soup, which is a sour and spicy smell.",
+        "hot and sour soup, which is a spoon for eating the soup."
+    ],
+    "hot dog": [
+        "hot dog, which is a long, thin, cylindrical shape.",
+        "hot dog, which is a smooth surface.",
+        "hot dog, which is a bun around it.",
+        "hot dog, which has mustard or ketchup on it."
+    ],
+    "huevos rancheros": [
+        "huevos rancheros, which is a dish typically consisting of a fried egg, a tortilla, and beans.",
+        "huevos rancheros, which can also include cheese, avocado, salsa, and sour cream.",
+        "huevos rancheros, which has the egg is usually sunny side up or over easy.",
+        "huevos rancheros, which has served with rice and beans."
+    ],
+    "hummus": [
+        "hummus, which is a smooth, thick paste.",
+        "hummus, which has made from chickpeas, tahini, olive oil, and lemon juice.",
+        "hummus, which can be flavored with garlic, cumin, paprika, or other spices.",
+        "hummus, which typically served with pita bread, vegetables, or crackers.",
+        "hummus, which can be used as a dip or spread."
+    ],
+    "ice cream": [
+        "ice cream, which is a sweet, creamy food.",
+        "ice cream, which has made from milk, cream, and sugar.",
+        "ice cream, which can be flavored with fruit, nuts, chocolate, or other ingredients.",
+        "ice cream, which has served cold.",
+        "ice cream, which can be soft or hard."
+    ],
+    "lasagna": [
+        "lasagna, which is a large, rectangular dish.",
+        "lasagna, which has multiple layers of pasta, sauce, and cheese.",
+        "lasagna, which typically red or brown in color.",
+        "lasagna, which may have meat or vegetables.",
+        "lasagna, which has served hot."
+    ],
+    "lobster bisque": [
+        "lobster bisque, which is a creamy, orange soup.",
+        "lobster bisque, which has chunks of lobster meat.",
+        "lobster bisque, which is a garnish of green onions or parsley.",
+        "lobster bisque, which is a dollop of sour cream or cr\u00e8me fraiche.",
+        "lobster bisque, which is a drizzle of olive oil.",
+        "lobster bisque, which is a sprinkle of paprika."
+    ],
+    "lobster roll sandwich": [
+        "lobster roll sandwich, which is a sandwich with a lobster tail and claw meat filling.",
+        "lobster roll sandwich, which has served on a toasted bun.",
+        "lobster roll sandwich, which mayonnaise, celery, and lemon juice often added to the filling.",
+        "lobster roll sandwich, which can be served cold or hot.",
+        "lobster roll sandwich, which has found primarily in New England."
+    ],
+    "macaroni and cheese": [
+        "macaroni and cheese, which is a bowl or dish of food.",
+        "macaroni and cheese, which has yellow, orange, or white.",
+        "macaroni and cheese, which has noodles and cheese.",
+        "macaroni and cheese, which is a fork or spoon.",
+        "macaroni and cheese, which is a napkin."
+    ],
+    "macarons": [
+        "macarons, which is a small, round, flat cookie.",
+        "macarons, which has made of two discs of almond meringue with a filling in between.",
+        "macarons, which has the filling is usually flavored with chocolate, coffee, lemon, or raspberry.",
+        "macarons, which has the cookies are often brightly colored.",
+        "macarons, which has they are usually served in pairs."
+    ],
+    "miso soup": [
+        "miso soup, which is a bowl of soup.",
+        "miso soup, which is a light brown or tan color.",
+        "miso soup, which has chunks of tofu.",
+        "miso soup, which has green onions.",
+        "miso soup, which has seaweed.",
+        "miso soup, which is a spoon."
+    ],
+    "mussels": [
+        "mussels, which has brown, grey, or black.",
+        "mussels, which is a hard, round shell.",
+        "mussels, which is a hinge to open and close the shell.",
+        "mussels, which is a foot.",
+        "mussels, which is a siphon to draw in water."
+    ],
+    "nachos": [
+        "nachos, which is a dish of tortilla chips.",
+        "nachos, which has covered in cheese.",
+        "nachos, which has with various toppings such as meat, vegetables, and sauce."
+    ],
+    "omelette": [
+        "omelette, which is a cooked egg dish.",
+        "omelette, which has usually made with eggs, milk, and butter.",
+        "omelette, which can include other ingredients like cheese, ham, or vegetables.",
+        "omelette, which typically served for breakfast or brunch.",
+        "omelette, which can be made in a variety of shapes and sizes.",
+        "omelette, which can be served with a variety of toppings."
+    ],
+    "onion rings": [
+        "onion rings, which is a deep-fried food.",
+        "onion rings, which is a ring-shaped.",
+        "onion rings, which has battered or breaded.",
+        "onion rings, which has onion as the main ingredient.",
+        "onion rings, which has served with a dipping sauce."
+    ],
+    "oysters": [
+        "oysters, which has white.",
+        "oysters, which has round.",
+        "oysters, which has flat.",
+        "oysters, which has smooth.",
+        "oysters, which has hard.",
+        "oysters, which has bivalve.",
+        "oysters, which has in a shell.",
+        "oysters, which has in water."
+    ],
+    "pad thai": [
+        "pad thai, which is a type of Asian noodle dish.",
+        "pad thai, which has noodles are usually made from rice, wheat, or egg.",
+        "pad thai, which can be stir-fried, boiled, or served in a soup.",
+        "pad thai, which often contains vegetables, protein, and a sauce.",
+        "pad thai, which may be garnished with peanuts, cilantro, lime, and bean sprouts."
+    ],
+    "paella": [
+        "paella, which is a large, flat, round dish.",
+        "paella, which typically made of metal or ceramic.",
+        "paella, which has food is cooked and served in the same dish.",
+        "paella, which typically has rice, seafood, and vegetables.",
+        "paella, which can be made in different colors, depending on the ingredients used."
+    ],
+    "pancakes": [
+        "pancakes, which is a stack of pancakes.",
+        "pancakes, which has each pancake is round and flat.",
+        "pancakes, which has pancakes are usually served with syrup, butter, and/or fruit."
+    ],
+    "panna cotta": [
+        "panna cotta, which is a dessert made with cream and gelatin.",
+        "panna cotta, which typically served in a small, round dish.",
+        "panna cotta, which can be decorated with fruit, sauce, or other toppings.",
+        "panna cotta, which has a smooth, creamy texture.",
+        "panna cotta, which can be made in a variety of flavors."
+    ],
+    "peking duck": [
+        "peking duck, which is a waterfowl with a long neck and small head.",
+        "peking duck, which is a reddish-brown plumage with a white chest and belly.",
+        "peking duck, which has webbed feet.",
+        "peking duck, which is a flat bill.",
+        "peking duck, which is a long, broad tail.",
+        "peking duck, which is a black cap on the head."
+    ],
+    "pho": [
+        "pho, which is a type of Vietnamese noodle soup.",
+        "pho, which typically made with beef or chicken broth.",
+        "pho, which has rice noodles.",
+        "pho, which has herbs and spices.",
+        "pho, which has bean sprouts.",
+        "pho, which has lime wedges.",
+        "pho, which has chili peppers.",
+        "pho, which has protein (beef, chicken, shrimp, etc.).",
+        "pho, which has served with a side of hoisin and Sriracha sauce."
+    ],
+    "pizza": [
+        "pizza, which is a round, flatbread crust.",
+        "pizza, which is a sauce, typically red.",
+        "pizza, which has toppings, such as cheese, vegetables, and meat.",
+        "pizza, which is a circumference of crust that is thicker than the rest of the pizza.",
+        "pizza, which is a diameter of about 10-12 inches."
+    ],
+    "pork chop": [
+        "pork chop, which is a piece of meat.",
+        "pork chop, which has usually pink or white.",
+        "pork chop, which is a bone in the center.",
+        "pork chop, which has fat around the edges.",
+        "pork chop, which may be grilled, baked, or fried.",
+        "pork chop, which has served with a side of vegetables or rice."
+    ],
+    "poutine": [
+        "poutine, which is a dish of french fries.",
+        "poutine, which has covered in cheese curds.",
+        "poutine, which has topped with gravy."
+    ],
+    "prime rib": [
+        "prime rib, which is a large, roasted piece of meat.",
+        "prime rib, which typically served on a platter with vegetables.",
+        "prime rib, which has the meat is usually pink or red in the center, with a layer of fat on top.",
+        "prime rib, which has the meat is surrounded by a bone.",
+        "prime rib, which has four-limbed animal.",
+        "prime rib, which typically covered in fur."
+    ],
+    "pulled pork sandwich": [
+        "pulled pork sandwich, which is a sandwich with a filling of pulled pork.",
+        "pulled pork sandwich, which has the pork is usually cooked with barbecue sauce.",
+        "pulled pork sandwich, which has the sandwich may also include coleslaw or other toppings.",
+        "pulled pork sandwich, which has the sandwich is usually served on a bun or roll."
+    ],
+    "ramen": [
+        "ramen, which is a bowl of noodles.",
+        "ramen, which is a broth.",
+        "ramen, which has vegetables.",
+        "ramen, which has meat.",
+        "ramen, which has spices."
+    ],
+    "ravioli": [
+        "ravioli, which is a small, round, pasta noodle.",
+        "ravioli, which has filled with meat, cheese, or vegetables.",
+        "ravioli, which has covered in sauce.",
+        "ravioli, which has served with a fork and knife."
+    ],
+    "red velvet cake": [
+        "red velvet cake, which has cake.",
+        "red velvet cake, which has red.",
+        "red velvet cake, which has velvet.",
+        "red velvet cake, which has frosting.",
+        "red velvet cake, which has decorations."
+    ],
+    "risotto": [
+        "risotto, which is a creamy, starchy dish.",
+        "risotto, which has made with rice.",
+        "risotto, which can be made with various ingredients like vegetables, meats, or seafood.",
+        "risotto, which often served as a main course.",
+        "risotto, which can be garnished with cheese, herbs, or lemon."
+    ],
+    "samosa": [
+        "samosa, which is a triangular or cone-shaped pastry.",
+        "samosa, which has filled with savory ingredients.",
+        "samosa, which has fried or baked.",
+        "samosa, which has served hot or cold.",
+        "samosa, which often eaten as a snack.",
+        "samosa, which has four-limbed animal.",
+        "samosa, which has fur-covered body.",
+        "samosa, which has pointed ears.",
+        "samosa, which has whiskers.",
+        "samosa, which is a long tail.",
+        "samosa, which has sharp."
+    ],
+    "sashimi": [
+        "sashimi, which has raw, sliced fish.",
+        "sashimi, which often served with soy sauce and wasabi.",
+        "sashimi, which can be made with salmon, tuna, or other fish.",
+        "sashimi, which may be garnished with ginger, daikon, or other vegetables.",
+        "sashimi, which can be served with rice."
+    ],
+    "scallops": [
+        "scallops, which is a marine invertebrate.",
+        "scallops, which has bivalve mollusc.",
+        "scallops, which has two hinged, convex shells.",
+        "scallops, which is a soft body with frills around the edge.",
+        "scallops, which is a muscular foot used for locomotion and feeding.",
+        "scallops, which has siphons for drawing in water."
+    ],
+    "seaweed salad": [
+        "seaweed salad, which is a mix of green, brown, and red seaweed.",
+        "seaweed salad, which has shredded carrots.",
+        "seaweed salad, which has sesame seeds.",
+        "seaweed salad, which has served in a bowl or on a plate.",
+        "seaweed salad, which often with soy sauce or vinegar."
+    ],
+    "shrimp and grits": [
+        "shrimp and grits, which is a bowl or plate of food.",
+        "shrimp and grits, which has shrimp.",
+        "shrimp and grits, which has grits.",
+        "shrimp and grits, which is a sauce or gravy.",
+        "shrimp and grits, which has vegetables.",
+        "shrimp and grits, which has spices."
+    ],
+    "spaghetti bolognese": [
+        "spaghetti bolognese, which is a bowl or plate of spaghetti noodles.",
+        "spaghetti bolognese, which is a red or brown meat sauce.",
+        "spaghetti bolognese, which has shredded or grated cheese on top.",
+        "spaghetti bolognese, which has green herbs."
+    ],
+    "spaghetti carbonara": [
+        "spaghetti carbonara, which is a type of pasta dish.",
+        "spaghetti carbonara, which has usually made with spaghetti.",
+        "spaghetti carbonara, which can be made with other types of pasta.",
+        "spaghetti carbonara, which is a sauce made with eggs, cheese, and bacon.",
+        "spaghetti carbonara, which can also include onion, garlic, and black pepper.",
+        "spaghetti carbonara, which has served with a sprinkle of parsley."
+    ],
+    "spring rolls": [
+        "spring rolls, which has cylindrical shape.",
+        "spring rolls, which has light brown.",
+        "spring rolls, which has translucent.",
+        "spring rolls, which has filled with vegetables.",
+        "spring rolls, which has served with dipping sauce."
+    ],
+    "steak": [
+        "steak, which has red or brown.",
+        "steak, which has meat.",
+        "steak, which is a grilled or cooked surface.",
+        "steak, which is a juicy or fatty appearance.",
+        "steak, which is a bone or gristle.",
+        "steak, which is a knife and fork."
+    ],
+    "strawberry shortcake": [
+        "strawberry shortcake, which is a cake or biscuit with strawberries and cream.",
+        "strawberry shortcake, which has red, white, and green.",
+        "strawberry shortcake, which is a shortcake or biscuit base.",
+        "strawberry shortcake, which has whipped cream or icing.",
+        "strawberry shortcake, which has fresh or frozen strawberries."
+    ],
+    "sushi": [
+        "sushi, which has Japanese dish.",
+        "sushi, which has sushi is typically made with raw fish, seafood, or vegetables.",
+        "sushi, which has sushi is often served with soy sauce, wasabi, and pickled ginger.",
+        "sushi, which has sushi is typically rolled in nori (seaweed).",
+        "sushi, which has sushi can be served in a variety of ways, including nigiri (sliced fish on top of rice), maki (rolled sushi), and temaki (hand-rolled sushi)."
+    ],
+    "tacos": [
+        "tacos, which is a soft or hard taco shell.",
+        "tacos, which has ground beef, chicken, or pork.",
+        "tacos, which has shredded lettuce.",
+        "tacos, which has diced tomatoes.",
+        "tacos, which has grated cheese.",
+        "tacos, which has sour cream.",
+        "tacos, which has salsa."
+    ],
+    "takoyaki": [
+        "takoyaki, which is a small, round ball of batter.",
+        "takoyaki, which has filled with octopus, vegetables, and/or other ingredients.",
+        "takoyaki, which has grilled or fried.",
+        "takoyaki, which has served with a sauce and/or other toppings.",
+        "takoyaki, which has on a skewer or in a small, round container."
+    ],
+    "tiramisu": [
+        "tiramisu, which is a dessert.",
+        "tiramisu, which has coffee-flavored.",
+        "tiramisu, which has layered.",
+        "tiramisu, which has made with ladyfingers.",
+        "tiramisu, which has mascarpone cheese.",
+        "tiramisu, which has cocoa powder."
+    ],
+    "tuna tartare": [
+        "tuna tartare, which is a small, round dish.",
+        "tuna tartare, which has pink or red tuna.",
+        "tuna tartare, which is avocado.",
+        "tuna tartare, which has cucumber.",
+        "tuna tartare, which has sesame seeds.",
+        "tuna tartare, which has scallions.",
+        "tuna tartare, which has soy sauce.",
+        "tuna tartare, which has wasabi."
+    ],
+    "waffles": [
+        "waffles, which is a breakfast food.",
+        "waffles, which is a round or square shape.",
+        "waffles, which is a grid pattern.",
+        "waffles, which has syrup or fruit toppings.",
+        "waffles, which has whipped cream."
+    ]
+}

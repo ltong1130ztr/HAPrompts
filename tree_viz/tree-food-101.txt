@@ -1,0 +1,119 @@
+food                                    
+-                                       breakfast food                          
+|                                       -                                       eggs benedict                           
+|                                       -                                       pancakes                                
+-                                       appetizers                              
+|                                       -                                       caesar salad                            
+|                                       -                                       cheese plate                            
+|                                       -                                       deviled eggs                            
+|                                       -                                       dumplings                               
+|                                       -                                       edamame                                 
+|                                       -                                       escargots                               
+|                                       -                                       takoyaki                                
+-                                       soups                                   
+|                                       -                                       clam chowder                            
+|                                       -                                       french onion soup                       
+|                                       -                                       hot and sour soup                       
+|                                       -                                       miso soup                               
+|                                       -                                       pho                                     
+|                                       -                                       ramen                                   
+-                                       main course food                        
+|                                       -                                       meat food                               
+|                                       |                                       -                                       baby back ribs                          
+|                                       |                                       -                                       beef carpaccio                          
+|                                       |                                       -                                       beef tartare                            
+|                                       |                                       -                                       filet mignon                            
+|                                       |                                       -                                       hamburger                               
+|                                       |                                       -                                       hot dog                                 
+|                                       |                                       -                                       lobster roll sandwich                   
+|                                       |                                       -                                       pork chop                               
+|                                       |                                       -                                       prime rib                               
+|                                       |                                       -                                       pulled pork sandwich                    
+|                                       |                                       -                                       steak                                   
+|                                       |                                       -                                       bibimbap                                
+|                                       |                                       -                                       pad thai                                
+|                                       |                                       -                                       breakfast burrito                       
+|                                       |                                       -                                       club sandwich                           
+|                                       |                                       -                                       foie gras                               
+|                                       |                                       -                                       seafood                                 
+|                                       |                                       |                                       -                                       ceviche                                 
+|                                       |                                       |                                       -                                       crab cakes                              
+|                                       |                                       |                                       -                                       fish and chips                          
+|                                       |                                       |                                       -                                       grilled salmon                          
+|                                       |                                       |                                       -                                       lobster bisque                          
+|                                       |                                       |                                       -                                       mussels                                 
+|                                       |                                       |                                       -                                       oysters                                 
+|                                       |                                       |                                       -                                       paella                                  
+|                                       |                                       |                                       -                                       scallops                                
+|                                       |                                       |                                       -                                       shrimp and grits                        
+|                                       |                                       |                                       -                                       sashimi                                 
+|                                       |                                       |                                       -                                       sushi                                   
+|                                       |                                       |                                       -                                       tuna tartare                            
+|                                       |                                       -                                       poultry food                            
+|                                       |                                       |                                       -                                       chicken curry                           
+|                                       |                                       |                                       -                                       chicken quesadilla                      
+|                                       |                                       |                                       -                                       chicken wings                           
+|                                       |                                       |                                       -                                       croque madame                           
+|                                       |                                       |                                       -                                       huevos rancheros                        
+|                                       |                                       |                                       -                                       peking duck                             
+|                                       |                                       |                                       -                                       omelette                                
+|                                       -                                       vegetarian food                         
+|                                       |                                       -                                       salad                                   
+|                                       |                                       |                                       -                                       beet salad                              
+|                                       |                                       |                                       -                                       caprese salad                           
+|                                       |                                       |                                       -                                       greek salad                             
+|                                       |                                       |                                       -                                       seaweed salad                           
+|                                       |                                       |                                       -                                       guacamole                               
+|                                       |                                       -                                       fried and baked items                   
+|                                       |                                       |                                       -                                       beignets                                
+|                                       |                                       |                                       -                                       falafel                                 
+|                                       |                                       |                                       -                                       spring rolls                            
+|                                       |                                       -                                       cheesy dish                             
+|                                       |                                       |                                       -                                       grilled cheese sandwich                 
+|                                       |                                       |                                       -                                       macaroni and cheese                     
+|                                       |                                       -                                       bruschetta                              
+|                                       |                                       -                                       gnocchi                                 
+|                                       |                                       -                                       risotto                                 
+|                                       |                                       -                                       nachos                                  
+|                                       -                                       tacos                                   
+|                                       -                                       spaghetti carbonara                     
+|                                       -                                       spaghetti bolognese                     
+|                                       -                                       pizza                                   
+|                                       -                                       lasagna                                 
+-                                       side dishes                             
+|                                       -                                       french fries                            
+|                                       -                                       french toast                            
+|                                       -                                       fried calamari                          
+|                                       -                                       garlic bread                            
+|                                       -                                       fried rice                              
+|                                       -                                       gyoza                                   
+|                                       -                                       onion rings                             
+|                                       -                                       poutine                                 
+|                                       -                                       ravioli                                 
+|                                       -                                       samosa                                  
+-                                       desserts                                
+|                                       -                                       baked goods                             
+|                                       |                                       -                                       apple pie                               
+|                                       |                                       -                                       baklava                                 
+|                                       |                                       -                                       bread pudding                           
+|                                       |                                       -                                       cannoli                                 
+|                                       |                                       -                                       carrot cake                             
+|                                       |                                       -                                       cheesecake                              
+|                                       |                                       -                                       chocolate cake                          
+|                                       |                                       -                                       cup cakes                               
+|                                       |                                       -                                       donuts                                  
+|                                       |                                       -                                       red velvet cake                         
+|                                       |                                       -                                       strawberry shortcake                    
+|                                       -                                       desserts with cream/custard             
+|                                       |                                       -                                       chocolate mousse                        
+|                                       |                                       -                                       creme brulee                            
+|                                       |                                       -                                       panna cotta                             
+|                                       |                                       -                                       tiramisu                                
+|                                       |                                       -                                       hummus                                  
+|                                       -                                       sweet treats                            
+|                                       |                                       -                                       churros                                 
+|                                       |                                       -                                       ice cream                               
+|                                       |                                       -                                       macarons                                
+|                                       |                                       -                                       waffles                                 
+|                                       |                                       -                                       frozen yogurt                           
+

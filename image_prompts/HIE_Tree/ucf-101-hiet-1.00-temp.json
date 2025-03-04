@@ -1,0 +1,2239 @@
+{
+    "apply eye makeup": [
+        [
+            "apply eye makeup, which has defined eyeliner or eyeshadow",
+            "apply eye makeup, which has mascara on eyelashes",
+            "apply eye makeup, which has shimmer or glitter on eyelids",
+            "apply eye makeup, which has false eyelashes",
+            "apply eye makeup, which has eyebrow pencil or powder",
+            "apply eye makeup, which has smudged or blended eyeshadow",
+            "apply eye makeup, which has winged eyeliner",
+            "apply eye makeup, which has colored eyeliner or eyeshadow"
+        ],
+        [
+            "apply eye makeup, which has the use of brushes or applicators near the eye area",
+            "apply eye makeup, which has the presence of eyeshadow, eyeliner, mascara, or other eye makeup products close to the eyes",
+            "apply eye makeup, which has the person's focus or attention on their eye area",
+            "apply eye makeup, which has the presence of a mirror or makeup palette in the photo",
+            "apply eye makeup, which has the person's hand position near their eye area, indicating application of eye makeup"
+        ],
+        [
+            "apply eye makeup, which has enhanced color around the eyes, such as eyeshadow or eyeliner",
+            "apply eye makeup, which has mascara on the eyelashes",
+            "apply eye makeup, which has defined eyebrows, possibly with eyebrow pencil or eyeshadow",
+            "apply eye makeup, which has shimmer or glitter on the eyelids",
+            "apply eye makeup, which has smudged or winged eyeliner for a more dramatic look"
+        ]
+    ],
+    "apply lipstick": [
+        [
+            "apply lipstick, which has small, cylindrical tube",
+            "apply lipstick, which has colorful or neutral shades",
+            "apply lipstick, which has twist or click mechanism for application",
+            "apply lipstick, which has shiny or matte finish",
+            "apply lipstick, which has brand logo or label on the packaging",
+            "apply lipstick, which has lipstick marks on the lips or tissue",
+            "apply lipstick, which has lip liner pencil nearby"
+        ],
+        [
+            "apply lipstick, which is a person holding a tube of lipstick in their hand",
+            "apply lipstick, which has the lipstick tube being opened or in the process of being applied to the lips",
+            "apply lipstick, which has the person's lips being colored or shiny from the lipstick application",
+            "apply lipstick, which has the person using a mirror or looking at their reflection while applying the lipstick"
+        ],
+        [
+            "apply lipstick, which is a person applying lipstick to their lips",
+            "apply lipstick, which has the presence of a lipstick tube or container in the photo",
+            "apply lipstick, which has the positioning of the lipstick near the person's face",
+            "apply lipstick, which has the presence of a mirror or reflection of the person applying lipstick",
+            "apply lipstick, which has the appearance of colored or glossy lips after application"
+        ]
+    ],
+    "archery": [
+        [
+            "archery, which has bow and arrows",
+            "archery, which has target",
+            "archery, which has quiver to hold arrows",
+            "archery, which is arm guard to protect the arm from the bowstring",
+            "archery, which has finger tab or glove to protect the fingers when drawing the bow",
+            "archery, which has bow sight for aiming",
+            "archery, which has stabilizer to improve accuracy",
+            "archery, which has release aid for consistent release of the bowstring"
+        ],
+        [
+            "archery, which is a person holding a bow and arrow",
+            "archery, which is a target or bullseye in the background",
+            "archery, which has protective gear such as an armguard or finger tab",
+            "archery, which is a bow with a string drawn back",
+            "archery, which is arrows in a quiver or stuck in a target"
+        ]
+    ],
+    "baby crawling": [
+        [
+            "baby crawling, which has  small size compared to adults",
+            "baby crawling, which has chubby cheeks",
+            "baby crawling, which has small hands and feet",
+            "baby crawling, which has crawling on all fours",
+            "baby crawling, which has wearing baby clothes or diapers",
+            "baby crawling, which has possibly drooling or making baby noises",
+            "baby crawling, which has exploring their surroundings with curiosity"
+        ],
+        [
+            "baby crawling, which is a baby crawling will typically be on their hands and knees, with their belly off the ground",
+            "baby crawling, which has their arms and legs will be moving in a crawling motion",
+            "baby crawling, which has they may have a determined or focused expression on their face",
+            "baby crawling, which has they will likely be dressed in infant clothing",
+            "baby crawling, which has the background of the image may show a typical indoor or baby-friendly environment such as a carpeted floor or play mat"
+        ]
+    ],
+    "balance beam": [
+        [
+            "balance beam, which has  long, narrow beam",
+            "balance beam, which has raised off the ground",
+            "balance beam, which typically made of wood or metal",
+            "balance beam, which has marked with lines or numbers for measurement",
+            "balance beam, which is used in gymnastics or physical therapy",
+            "balance beam, which often found in a gym or fitness center"
+        ],
+        [
+            "balance beam, which is a narrow, long beam typically elevated off the ground",
+            "balance beam, which has utilized in gymnastics, it is typically covered in a non-slip material like suede or leather",
+            "balance beam, which often seen with markings or lines along its surface to aid in alignment and positioning",
+            "balance beam, which typically found in a gym or sports facility, often in close proximity to other gymnastics equipment"
+        ],
+        [
+            "balance beam, which is a long, narrow beam raised off the ground",
+            "balance beam, which typically covered in padding and a non-slip surface",
+            "balance beam, which often set at a certain height",
+            "balance beam, which has usually placed in a specific area designated for balance beam routines in a gymnastics setting"
+        ]
+    ],
+    "band marching": [
+        [
+            "band marching, which has group of people walking in formation",
+            "band marching, which has wearing matching uniforms or costumes",
+            "band marching, which has carrying musical instruments",
+            "band marching, which has marching in step or playing music",
+            "band marching, which has flags or banners with the band's name or logo",
+            "band marching, which has possibly accompanied by a drum major or conductor",
+            "band marching, which has marching in a parade or on a field"
+        ],
+        [
+            "band marching, which is a group of people moving together in a line or formation, often in uniforms or matching outfits",
+            "band marching, which has instruments being played by the individuals in the group",
+            "band marching, which has marching in sync with each other, with coordinated movements and steps",
+            "band marching, which has flags or banners being carried by some members of the group",
+            "band marching, which has the presence of a leader or conductor directing the group"
+        ]
+    ],
+    "baseball pitch": [
+        [
+            "baseball pitch, which is a baseball player in a pitching stance",
+            "baseball pitch, which is a baseball in the player's hand",
+            "baseball pitch, which is a pitching mound",
+            "baseball pitch, which is a catcher behind home plate",
+            "baseball pitch, which is a batter at home plate",
+            "baseball pitch, which is a baseball field in the background",
+            "baseball pitch, which is a pitching motion being executed by the player"
+        ],
+        [
+            "baseball pitch, which has the presence of a baseball, bat, and players in baseball uniforms",
+            "baseball pitch, which has the pitcher in a wind-up or throwing motion",
+            "baseball pitch, which has the baseball field or diamond layout, including bases and outfield",
+            "baseball pitch, which has the ball mid-flight, with visible seams and rotation",
+            "baseball pitch, which has the catcher in a catching stance"
+        ],
+        [
+            "baseball pitch, which has the pitcher in the act of throwing the ball",
+            "baseball pitch, which has the ball in mid-air",
+            "baseball pitch, which has players in the field positioned for defense",
+            "baseball pitch, which is a baseball diamond or field in the background",
+            "baseball pitch, which has players wearing baseball uniforms and equipment such as gloves and hats"
+        ]
+    ],
+    "basketball": [
+        [
+            "basketball, which has round shape",
+            "basketball, which has orange color",
+            "basketball, which has textured surface",
+            "basketball, which has inflated with air",
+            "basketball, which has size similar to a human head",
+            "basketball, which has black lines or seams",
+            "basketball, which is used for sports such as basketball"
+        ],
+        [
+            "basketball, which has round shape",
+            "basketball, which has orange rubber surface with black lines",
+            "basketball, which has size of a basketball is typically around 9.7 to 9.8 inches in diameter",
+            "basketball, which has texture of the surface may have small dimples or bumps",
+            "basketball, which typically has a black or dark-colored valve where air can be pumped in or released"
+        ],
+        [
+            "basketball, which has round shape or spherical appearance",
+            "basketball, which has distinctive orange coloration",
+            "basketball, which has textured surface with grooves or lines",
+            "basketball, which has size relative to other objects in the image, such as hands or a basketball hoop",
+            "basketball, which has presence of black lines or markings on the surface, indicating a traditional basketball design"
+        ]
+    ],
+    "basketball dunk": [
+        [
+            "basketball dunk, which is a basketball hoop",
+            "basketball dunk, which is a basketball player in mid-air",
+            "basketball dunk, which has the basketball player's arm extended towards the hoop",
+            "basketball dunk, which has the basketball player's legs bent as they jump",
+            "basketball dunk, which has the basketball player's hand holding the basketball",
+            "basketball dunk, which has the basketball player's body positioned above the hoop",
+            "basketball dunk, which has the basketball player's feet off the ground"
+        ],
+        [
+            "basketball dunk, which is a player jumping high off the ground",
+            "basketball dunk, which has the basketball being held above the player's head or reaching towards the hoop",
+            "basketball dunk, which has the player's arm extended upwards towards the hoop",
+            "basketball dunk, which has the player's body position in mid-air, often with legs extended",
+            "basketball dunk, which has the rim of the basketball hoop in the background"
+        ],
+        [
+            "basketball dunk, which is a player in mid-air with one or two hands reaching up towards the basketball",
+            "basketball dunk, which has the basketball near or above the rim",
+            "basketball dunk, which has the player's body positioned above or near the hoop",
+            "basketball dunk, which has other players or objects on the court reacting to the dunk, such as jumping or reaching out",
+            "basketball dunk, which has the basketball hoop and backboard in the background"
+        ]
+    ],
+    "bench press": [
+        [
+            "bench press, which is a weightlifting equipment",
+            "bench press, which is a flat bench",
+            "bench press, which is a barbell with weights on each end",
+            "bench press, which is a rack to hold the barbell",
+            "bench press, which is adjustable height settings for the bench",
+            "bench press, which has safety catches or spotters",
+            "bench press, which is a person using the bench press",
+            "bench press, which has gym setting or weightlifting equipment around"
+        ],
+        [
+            "bench press, which is a person lying on a flat bench with a barbell above their chest",
+            "bench press, which has the person's hands gripping the barbell with their arms fully extended",
+            "bench press, which has weights on each end of the barbell",
+            "bench press, which is a bench press rack or spotter nearby",
+            "bench press, which has the person's body position as they push the barbell up and down from their chest"
+        ]
+    ],
+    "biking": [
+        [
+            "biking, which has two-wheeled vehicle",
+            "biking, which has frame made of metal or carbon fiber",
+            "biking, which has handlebars for steering",
+            "biking, which has pedals for propulsion",
+            "biking, which has wheels with tires",
+            "biking, which has gears for changing speed",
+            "biking, which has brakes for stopping",
+            "biking, which has seat for the rider",
+            "biking, which has chain for transferring power from pedals to wheels"
+        ],
+        [
+            "biking, which is a person wearing a helmet",
+            "biking, which is a person riding a two-wheeled vehicle",
+            "biking, which is a person wearing biking gear such as spandex shorts or a biking jersey",
+            "biking, which is a biking trail or track in the background",
+            "biking, which has the motion blur of a person biking at high speeds"
+        ]
+    ],
+    "billiards": [
+        [
+            "billiards, which is a rectangular or oval-shaped table",
+            "billiards, which has green felt surface",
+            "billiards, which has six pockets",
+            "billiards, which has numbered balls",
+            "billiards, which has cue sticks",
+            "billiards, which has chalk",
+            "billiards, which has triangle rack",
+            "billiards, which has overhead light fixture",
+            "billiards, which has scorekeeping board"
+        ],
+        [
+            "billiards, which is a billiards table with green felt surface and pockets",
+            "billiards, which is a cue stick and billiard balls on the table",
+            "billiards, which has rack or triangle used to arrange the balls before starting the game",
+            "billiards, which has chalk marks or residue on the table from where the cue stick was used",
+            "billiards, which has players holding a cue stick and aiming at a specific ball."
+        ],
+        [
+            "billiards, which is a green felt surface with pockets or holes for the balls",
+            "billiards, which has cue sticks with chalk marks",
+            "billiards, which is arrangement of colorful balls on the table in a specific pattern",
+            "billiards, which has reflections on the balls or table surface",
+            "billiards, which has players holding cue sticks and aiming at the balls on the table"
+        ]
+    ],
+    "blow dry hair": [
+        [
+            "blow dry hair, which has smooth and straight hair",
+            "blow dry hair, which has no visible wetness or dampness",
+            "blow dry hair, which has styled or voluminous appearance",
+            "blow dry hair, which has possibly using a blow dryer or other styling tools",
+            "blow dry hair, which has no visible hair products or residue",
+            "blow dry hair, which has shiny and sleek texture"
+        ],
+        [
+            "blow dry hair, which is a person holding a blow dryer and directing it towards their hair",
+            "blow dry hair, which has visible strands of hair being blown by the air from the blow dryer",
+            "blow dry hair, which is a person's hand holding a round brush or comb while blow drying their hair",
+            "blow dry hair, which has steam or heat visible in the image from the blow dryer",
+            "blow dry hair, which is a person with wet or damp hair before blow drying"
+        ],
+        [
+            "blow dry hair, which is a person holding a blow dryer",
+            "blow dry hair, which has the person's hair being styled with a blow dryer",
+            "blow dry hair, which has the presence of heat styling tools such as a round brush or comb",
+            "blow dry hair, which has the person's hair appearing voluminous and styled",
+            "blow dry hair, which has steam or heat waves coming from the blow dryer"
+        ]
+    ],
+    "blowing candles": [
+        [
+            "blowing candles, which has lit candles on a cake or other surface",
+            "blowing candles, which has flames on top of the candles",
+            "blowing candles, which has smoke rising from the blown-out candles",
+            "blowing candles, which is a celebratory atmosphere with decorations or party items",
+            "blowing candles, which is a person or people blowing out the candles",
+            "blowing candles, which is a cake or dessert with candles on top"
+        ],
+        [
+            "blowing candles, which has presence of a birthday cake with lit candles",
+            "blowing candles, which has the act of blowing out candles with an individual's mouth",
+            "blowing candles, which has the movement of air and smoke coming from the blown out candles",
+            "blowing candles, which has the presence of celebratory decorations or items around the candles, such as balloons or party hats."
+        ]
+    ],
+    "body weight squats": [
+        [
+            "body weight squats, which has person standing with feet shoulder-width apart",
+            "body weight squats, which has person bending their knees and lowering their hips towards the ground",
+            "body weight squats, which has person keeping their chest up and back straight",
+            "body weight squats, which has person keeping their heels on the ground",
+            "body weight squats, which has person pushing through their heels to stand back up",
+            "body weight squats, which has person repeating the movement for multiple reps"
+        ],
+        [
+            "body weight squats, which is a person bending their knees and lowering their hips while keeping their back straight",
+            "body weight squats, which has hands positioned in front of the body or on the hips",
+            "body weight squats, which has feet shoulder-width apart",
+            "body weight squats, which has full range of motion, where the knees bend to at least a 90-degree angle",
+            "body weight squats, which has engaged core muscles and proper form throughout the exercise"
+        ],
+        [
+            "body weight squats, which is a person bending their knees and lowering their hips as if sitting back into a chair",
+            "body weight squats, which has feet shoulder-width apart",
+            "body weight squats, which has hands either behind the head or extended straight out in front for balance",
+            "body weight squats, which has proper form with back straight, chest up, and knees tracking over toes",
+            "body weight squats, which has full range of motion with hips dropping below knee level",
+            "body weight squats, which has engaged core and glutes"
+        ]
+    ],
+    "bowling": [
+        [
+            "bowling, which has large, heavy ball with finger holes",
+            "bowling, which has shiny, polished surface",
+            "bowling, which has colored stripes or patterns",
+            "bowling, which has bowling pins arranged in a triangular formation",
+            "bowling, which has wooden or synthetic lane",
+            "bowling, which has scoring display",
+            "bowling, which has bowling shoes",
+            "bowling, which has bowling alley environment"
+        ],
+        [
+            "bowling, which is a large, heavy ball with finger holes",
+            "bowling, which is a smooth lane or alley with visible markings and arrows",
+            "bowling, which has pins arranged in a triangular formation at the end of the alley",
+            "bowling, which has bowling shoes worn by the player",
+            "bowling, which has scoreboard or electronic display showing the score"
+        ],
+        [
+            "bowling, which is a person holding a bowling ball in their hand",
+            "bowling, which is a person wearing bowling shoes",
+            "bowling, which is a person standing in front of a bowling lane with pins set up at the end",
+            "bowling, which is a person in the motion of swinging their arm to release the bowling ball"
+        ]
+    ],
+    "boxing punching bag": [
+        [
+            "boxing punching bag, which has cylindrical shape",
+            "boxing punching bag, which has hanging from a chain or mount",
+            "boxing punching bag, which has made of leather or synthetic material",
+            "boxing punching bag, which has filled with sand, cloth, or other materials for weight",
+            "boxing punching bag, which often red, black, or blue in color",
+            "boxing punching bag, which may have target markings or branding",
+            "boxing punching bag, which is used for boxing or martial arts training"
+        ],
+        [
+            "boxing punching bag, which is a cylindrical shape with a hanging chain or strap at the top",
+            "boxing punching bag, which is a consistent and uniform surface texture, often made of leather or heavy-duty fabric",
+            "boxing punching bag, which has the presence of straps or loops for hanging or securing the bag",
+            "boxing punching bag, which has the absence of any intricate designs or patterns typically seen on other sports equipment"
+        ],
+        [
+            "boxing punching bag, which is a cylindrical shape with a hanging loop or chain at the top",
+            "boxing punching bag, which is a smooth and sturdy surface for striking",
+            "boxing punching bag, which typically made of leather or synthetic materials",
+            "boxing punching bag, which often filled with soft padding or sand to absorb impact",
+            "boxing punching bag, which may have visible stitching or seams in the material"
+        ]
+    ],
+    "boxing speed bag": [
+        [
+            "boxing speed bag, which has cylindrical shape",
+            "boxing speed bag, which typically made of leather or synthetic material",
+            "boxing speed bag, which has hanging from a chain or mount",
+            "boxing speed bag, which has inflated with air or sand",
+            "boxing speed bag, which is used for boxing training",
+            "boxing speed bag, which often red or black in color",
+            "boxing speed bag, which may have a logo or brand name printed on it"
+        ],
+        [
+            "boxing speed bag, which has cylindrical shape",
+            "boxing speed bag, which has hanging from a ceiling or stand",
+            "boxing speed bag, which typically made of leather or synthetic material",
+            "boxing speed bag, which often filled with sand or other material for support",
+            "boxing speed bag, which is used for practicing punching and improving boxing skills"
+        ],
+        [
+            "boxing speed bag, which is a round, inflatable bag made of leather or synthetic material",
+            "boxing speed bag, which typically suspended by a metal or swivel mount",
+            "boxing speed bag, which has usually red or black in color",
+            "boxing speed bag, which has a cylindrical shape with a narrow top and wider base",
+            "boxing speed bag, which often has laces or straps at the top for hanging purposes"
+        ]
+    ],
+    "breast stroke": [
+        [
+            "breast stroke, which has swimmer in a horizontal position in the water",
+            "breast stroke, which is arms moving simultaneously in a circular motion in front of the body",
+            "breast stroke, which has legs kicking simultaneously in a frog-like motion",
+            "breast stroke, which has head above water, breathing in between strokes",
+            "breast stroke, which has body moving in a smooth, rhythmic motion through the water"
+        ],
+        [
+            "breast stroke, which has the swimmer's arms moving simultaneously in a circular motion in front of their body",
+            "breast stroke, which has the swimmer's legs kicking simultaneously in a frog-like motion",
+            "breast stroke, which has the swimmer's face in the water with a rhythmic breathing pattern",
+            "breast stroke, which has the swimmer's body position horizontal in the water with minimal splash or disturbance"
+        ],
+        [
+            "breast stroke, which has the swimmer's arms moving simultaneously in circular motions in front of their body",
+            "breast stroke, which has the swimmer's legs kicking in a frog-like motion alternating with the arm strokes",
+            "breast stroke, which has the swimmer's body positioned horizontally in the water",
+            "breast stroke, which has the swimmer's head positioned above water for breathing while performing the stroke"
+        ]
+    ],
+    "brushing teeth": [
+        [
+            "brushing teeth, which has toothbrush",
+            "brushing teeth, which has toothpaste",
+            "brushing teeth, which has running water",
+            "brushing teeth, which has person's mouth open",
+            "brushing teeth, which has toothbrush moving in a circular motion",
+            "brushing teeth, which has foam or toothpaste on the toothbrush",
+            "brushing teeth, which has sink or bathroom background"
+        ],
+        [
+            "brushing teeth, which is a person holding a toothbrush",
+            "brushing teeth, which has toothpaste visible on the toothbrush or in the person's mouth",
+            "brushing teeth, which has water running from a faucet or a cup of water nearby",
+            "brushing teeth, which is a mirror or bathroom sink in the background",
+            "brushing teeth, which has foam or bubbles around the mouth or toothbrush"
+        ],
+        [
+            "brushing teeth, which is a person holding a toothbrush",
+            "brushing teeth, which has toothpaste on the toothbrush",
+            "brushing teeth, which has open mouth with visible teeth",
+            "brushing teeth, which has water or foam around the mouth",
+            "brushing teeth, which has mirror in the background (optional, but common in bathroom settings)"
+        ]
+    ],
+    "clean and jerk": [
+        [
+            "clean and jerk, which has weightlifting barbell",
+            "clean and jerk, which has weight plates on the barbell",
+            "clean and jerk, which is athlete in a standing position with knees slightly bent",
+            "clean and jerk, which is athlete holding the barbell with hands shoulder-width apart",
+            "clean and jerk, which is athlete lifting the barbell from the ground to their shoulders in one fluid motion",
+            "clean and jerk, which is athlete then pushing the barbell overhead while dropping into a split or squat position",
+            "clean and jerk, which is athlete standing up with the barbell overhead in a locked out position"
+        ],
+        [
+            "clean and jerk, which is a person performing a clean and jerk typically exhibits a few key visual features:",
+            "clean and jerk, which has holding a barbell at shoulder height with their hands slightly wider than shoulder-width apart",
+            "clean and jerk, which has squatting down with the barbell close to their body",
+            "clean and jerk, which has explosively lifting the barbell upward, then quickly dropping underneath it to catch it at shoulder height or overhead",
+            "clean and jerk, which has standing up straight with the barbell fully lifted above their head",
+            "clean and jerk, which has completing the movement with control and stability"
+        ]
+    ],
+    "cliff diving": [
+        [
+            "cliff diving, which is a person jumping off a high cliff into water",
+            "cliff diving, which is a rocky or steep cliff face",
+            "cliff diving, which is a body of water below the cliff",
+            "cliff diving, which is a diving platform or board on the cliff",
+            "cliff diving, which has spectators watching from the shore or nearby boats",
+            "cliff diving, which has splashing water from the jump",
+            "cliff diving, which is a person wearing swimwear or diving gear"
+        ],
+        [
+            "cliff diving, which is a person jumping or diving off a cliff into water",
+            "cliff diving, which is a high rock or cliff formation in the background",
+            "cliff diving, which has water or waves below the cliff indicating the height of the dive",
+            "cliff diving, which has the person's body position and posture indicating a diving or jumping motion"
+        ],
+        [
+            "cliff diving, which is a person in mid-air jumping or diving off a cliff",
+            "cliff diving, which is a body of water below the cliff where the person is jumping",
+            "cliff diving, which has surrounding rocks or cliffs that indicate a cliff diving location",
+            "cliff diving, which has the person wearing appropriate gear or clothing for cliff diving, such as a swimsuit or wetsuit"
+        ]
+    ],
+    "cricket bowling": [
+        [
+            "cricket bowling, which is a cricket ball being held in the bowler's hand",
+            "cricket bowling, which is a bowler in a bowling action, with one foot behind the bowling crease and the other foot in front",
+            "cricket bowling, which has the bowler's arm extended back in preparation to release the ball",
+            "cricket bowling, which has the bowler's body leaning forward towards the batsman",
+            "cricket bowling, which has the presence of stumps and bails behind the batsman",
+            "cricket bowling, which has fielders positioned around the field in various positions"
+        ],
+        [
+            "cricket bowling, which has the presence of a cricket ball being held in the hand of the player",
+            "cricket bowling, which has the player in a bowling action, with one leg raised and the other on the ground",
+            "cricket bowling, which has the player wearing cricketing gear such as a helmet, pads, and gloves",
+            "cricket bowling, which has the presence of cricket stumps and a wicket keeper in the background",
+            "cricket bowling, which has the focus on the player's grip on the cricket ball and their body posture while bowling."
+        ],
+        [
+            "cricket bowling, which has the presence of a cricket ball being held in the bowler's hand",
+            "cricket bowling, which has the bowler's position with one foot behind the bowling crease and the other foot crossing the crease",
+            "cricket bowling, which has the bowler's arm extended in the process of releasing the ball",
+            "cricket bowling, which has the batsman's position and reaction to the delivery",
+            "cricket bowling, which has the presence of stumps and bails in the background indicating a cricket match is being played."
+        ]
+    ],
+    "cricket shot": [
+        [
+            "cricket shot, which is a cricket bat",
+            "cricket shot, which is a cricket ball",
+            "cricket shot, which is a player in cricket gear (helmet, pads, gloves)",
+            "cricket shot, which is a cricket pitch or field",
+            "cricket shot, which has other players in the background",
+            "cricket shot, which has stumps and bails",
+            "cricket shot, which is a fielding team in position"
+        ],
+        [
+            "cricket shot, which has the presence of a cricket bat and ball in the photo",
+            "cricket shot, which has the position of the player, likely in a batting stance or follow-through motion",
+            "cricket shot, which has the cricket field or pitch in the background",
+            "cricket shot, which has the cricket uniform or gear worn by the player",
+            "cricket shot, which has the specific movement or action of the player indicative of a cricket shot, such as swinging the bat or hitting the ball"
+        ],
+        [
+            "cricket shot, which is a player holding a cricket bat with a specific grip and stance",
+            "cricket shot, which has the ball in motion, either being bowled or struck by the bat",
+            "cricket shot, which has fielders positioned around the field in specific positions for cricket",
+            "cricket shot, which has the presence of wickets, stumps, and a cricket pitch in the background",
+            "cricket shot, which has players wearing cricket uniforms and protective gear, such as helmets and pads"
+        ]
+    ],
+    "cutting in kitchen": [
+        [
+            "cutting in kitchen, which has sharp blade",
+            "cutting in kitchen, which has handle for gripping",
+            "cutting in kitchen, which has various sizes and shapes (chef's knife, paring knife, serrated knife, etc.)",
+            "cutting in kitchen, which typically made of metal or ceramic",
+            "cutting in kitchen, which is used for cutting, slicing, chopping, and dicing food",
+            "cutting in kitchen, which may have a protective sheath or cover",
+            "cutting in kitchen, which may have visible food residue or stains from use"
+        ],
+        [
+            "cutting in kitchen, which has presence of kitchen utensils such as knives, cutting boards, and food items",
+            "cutting in kitchen, which is a person's hand holding a knife or chopping vegetables",
+            "cutting in kitchen, which is a countertop or kitchen island with food preparation items",
+            "cutting in kitchen, which is a sink or stovetop in the background, indicating a kitchen setting",
+            "cutting in kitchen, which has other cooking implements such as pots, pans, and spatulas"
+        ]
+    ],
+    "diving": [
+        [
+            "diving, which has wearing a wetsuit or swimsuit",
+            "diving, which has wearing diving gear such as a mask, snorkel, fins, and oxygen tank",
+            "diving, which has underwater environment",
+            "diving, which has bubbles coming from the diver's mouth",
+            "diving, which has swimming or floating in water",
+            "diving, which has hand gestures or signals commonly used in diving",
+            "diving, which has marine life or coral reefs in the background"
+        ],
+        [
+            "diving, which is a person wearing a wetsuit or swimsuit",
+            "diving, which is a person in a horizontal position underwater",
+            "diving, which has bubbles rising to the surface",
+            "diving, which is arms extended forward or by the sides",
+            "diving, which has distinctive underwater background such as coral, fish, or other aquatic life."
+        ],
+        [
+            "diving, which is a person wearing goggles and a snorkel or scuba gear",
+            "diving, which has bubbles indicating that the person is underwater",
+            "diving, which has water splashes around the person indicating a diving motion",
+            "diving, which has position of the body in a diving posture, with arms extended or tucked in",
+            "diving, which has presence of marine life or underwater scenery in the background"
+        ]
+    ],
+    "drumming": [
+        [
+            "drumming, which has round or cylindrical shape",
+            "drumming, which has made of wood, metal, or plastic",
+            "drumming, which has skin or membrane stretched over the top",
+            "drumming, which has drumsticks or mallets nearby",
+            "drumming, which may have decorative designs or patterns",
+            "drumming, which may have additional percussion instruments nearby",
+            "drumming, which may be part of a drum set or ensemble"
+        ],
+        [
+            "drumming, which is a person holding drumsticks and playing a drum set or percussion instrument",
+            "drumming, which has drumsticks hitting the drum or cymbal",
+            "drumming, which is a person in a rhythmic and controlled motion while drumming",
+            "drumming, which is a drum set or percussion instrument in the background"
+        ],
+        [
+            "drumming, which has the presence of drum sticks or drumming mallets in the player's hands",
+            "drumming, which has the shape and size of the drum being played (e.g. snare drum, bass drum, bongo drum)",
+            "drumming, which has the player's posture and position while playing the drum",
+            "drumming, which has the sound waves or vibrations coming from the drum in the photo, indicating active playing",
+            "drumming, which is any visible drum hardware or accessories such as cymbals, stands, or pedals"
+        ]
+    ],
+    "fencing": [
+        [
+            "fencing, which has metal or wooden posts",
+            "fencing, which has metal or wooden rails or panels",
+            "fencing, which has height varying depending on the type of fencing (e.g. privacy fence, picket fence)",
+            "fencing, which has gate or entrance",
+            "fencing, which has surrounding a property or area",
+            "fencing, which may have decorative elements such as finials or lattice work"
+        ],
+        [
+            "fencing, which has fencers wearing protective masks and clothing, such as a fencing jacket and gloves",
+            "fencing, which has fencers holding a fencing sword or foil in their hand",
+            "fencing, which has fencers in a competitive stance with one foot forward and an arm extended",
+            "fencing, which is a fencing strip or fencing arena in the background with a referee or other fencers present"
+        ]
+    ],
+    "field hockey penalty": [
+        [
+            "field hockey penalty, which has players lined up on one side of the field",
+            "field hockey penalty, which is a player from the opposing team taking the penalty shot",
+            "field hockey penalty, which is a goalkeeper in front of the goal",
+            "field hockey penalty, which is a penalty spot marked on the field",
+            "field hockey penalty, which has referees or officials overseeing the penalty",
+            "field hockey penalty, which has players from both teams watching the penalty being taken",
+            "field hockey penalty, which is a ball placed on the penalty spot"
+        ],
+        [
+            "field hockey penalty, which has players wearing field hockey uniforms and equipment such as sticks",
+            "field hockey penalty, which is a ball on the field",
+            "field hockey penalty, which is a designated penalty spot marked on the field",
+            "field hockey penalty, which has referees or officials signaling a penalty",
+            "field hockey penalty, which has players lining up for a penalty shot or penalty corner"
+        ]
+    ],
+    "floor gymnastics": [
+        [
+            "floor gymnastics, which has gymnast performing on a mat or floor",
+            "floor gymnastics, which is athletic clothing such as leotards or shorts",
+            "floor gymnastics, which has various poses and movements such as flips, jumps, and balances",
+            "floor gymnastics, which has equipment such as mats, beams, and bars in the background",
+            "floor gymnastics, which is audience or judges watching the performance",
+            "floor gymnastics, which has expressions of concentration or excitement on the gymnast's face"
+        ],
+        [
+            "floor gymnastics, which is a person performing acrobatic movements on a padded gym floor",
+            "floor gymnastics, which has stretching poses and flexibility movements",
+            "floor gymnastics, which has gymnastics attire such as leotards or athletic wear",
+            "floor gymnastics, which has gymnastics equipment such as mats or beams in the background",
+            "floor gymnastics, which is athletic and dynamic body movements typically associated with gymnastics performances."
+        ],
+        [
+            "floor gymnastics, which is a gymnast performing flips, jumps, or other floor routines",
+            "floor gymnastics, which has the absence of any apparatus such as bars, beams, or vaults in the background",
+            "floor gymnastics, which has the presence of a cushioned floor mat or spring floor for tumbling and landing",
+            "floor gymnastics, which has the gymnast wearing a leotard or appropriate attire for floor exercises",
+            "floor gymnastics, which has body positioning and movements indicative of floor routines, such as handstands, cartwheels, or choreographed dance movements."
+        ]
+    ],
+    "frisbee catch": [
+        [
+            "frisbee catch, which is a person or animal reaching out to catch a flying object",
+            "frisbee catch, which is a circular disc in mid-air",
+            "frisbee catch, which is a person or animal in a catching position with arms outstretched",
+            "frisbee catch, which is a background that suggests an outdoor setting, such as a park or beach",
+            "frisbee catch, which has motion blur indicating movement",
+            "frisbee catch, which is a look of concentration or excitement on the catcher's face"
+        ],
+        [
+            "frisbee catch, which is a person reaching out or jumping to catch a flying object",
+            "frisbee catch, which is a circular disc-like object in mid-air",
+            "frisbee catch, which has hand or hands extended towards the object",
+            "frisbee catch, which has outdoor setting, possibly a park or field",
+            "frisbee catch, which has body movement indicating coordination and agility"
+        ]
+    ],
+    "front crawl": [
+        [
+            "front crawl, which has swimmer face down in the water",
+            "front crawl, which is arms reaching forward and pulling through the water alternately",
+            "front crawl, which has legs kicking in a fluttering motion",
+            "front crawl, which has body rotating side to side",
+            "front crawl, which has head turning to breathe to the side",
+            "front crawl, which has streamlined body position",
+            "front crawl, which has continuous and smooth movement through the water"
+        ],
+        [
+            "front crawl, which has the swimmer's head looking down towards the bottom of the pool",
+            "front crawl, which has the swimmer's arms reaching forward and then pulling back through the water in an alternating motion",
+            "front crawl, which has the swimmer's legs kicking in a flutter kick motion",
+            "front crawl, which has the swimmer's body position being flat and parallel to the surface of the water"
+        ],
+        [
+            "front crawl, which is a person swimming with their face in the water and arms reaching forward alternately",
+            "front crawl, which has legs kicking in a fluttering motion",
+            "front crawl, which has body positioned horizontally in the water",
+            "front crawl, which has continuous and rhythmic movement forward",
+            "front crawl, which typically seen in competitive swimming events"
+        ]
+    ],
+    "golf swing": [
+        [
+            "golf swing, which has golfer holding a golf club",
+            "golf swing, which has golfer in a mid-swing position",
+            "golf swing, which has golf ball in motion",
+            "golf swing, which has proper stance and posture",
+            "golf swing, which has follow-through after hitting the ball",
+            "golf swing, which has golf course or driving range in the background",
+            "golf swing, which has other golfers or spectators nearby"
+        ],
+        [
+            "golf swing, which has the golfer holding a club in a specific way, with one hand placed lower on the grip and the other higher",
+            "golf swing, which has the golfer's body position, with one foot slightly ahead of the other and knees slightly bent",
+            "golf swing, which has the arc of the club as it swings back and then forward towards the ball",
+            "golf swing, which has the golfer's follow-through after the swing, with the club extending past the body",
+            "golf swing, which has the presence of a golf ball on the ground in front of the golfer's feet indicates a golf swing rather than another sport or activity."
+        ],
+        [
+            "golf swing, which has golfer holding a club with a specific grip",
+            "golf swing, which has golfer standing in a specific stance with feet shoulder-width apart",
+            "golf swing, which has golfer swinging the club in a specific trajectory",
+            "golf swing, which has golfer following through with the swing, extending arms in a specific manner",
+            "golf swing, which has ball visible in the frame, either on the ground or mid-air from impact"
+        ]
+    ],
+    "haircut": [
+        [
+            "haircut, which has varying lengths of hair",
+            "haircut, which has styled or cut hair",
+            "haircut, which has different hair colors or highlights",
+            "haircut, which has hair texture (straight, curly, wavy)",
+            "haircut, which has hair parting or styling",
+            "haircut, which has hair accessories (clips, bands, etc.)",
+            "haircut, which has visible hair salon tools or products (scissors, combs, sprays)"
+        ],
+        [
+            "haircut, which has scissors or other cutting tools visible in the image",
+            "haircut, which has hair being trimmed or styled",
+            "haircut, which has barber or stylist holding hair in their hands",
+            "haircut, which has hair falling to the ground or being swept away",
+            "haircut, which has barber or stylist using comb or brush on hair",
+            "haircut, which has client sitting in a chair with a cape around their neck"
+        ]
+    ],
+    "hammer throw": [
+        [
+            "hammer throw, which is athlete in a throwing position",
+            "hammer throw, which has holding a long handle with a heavy metal ball attached to it",
+            "hammer throw, which has spinning in a circle before releasing the hammer",
+            "hammer throw, which has wearing athletic clothing and possibly gloves",
+            "hammer throw, which has outdoor setting, often on a field or track",
+            "hammer throw, which has other athletes or officials nearby",
+            "hammer throw, which has visible trajectory of the hammer in motion"
+        ],
+        [
+            "hammer throw, which has the athlete holding a long handle with a heavy metal ball attached to it",
+            "hammer throw, which has the athlete spinning in a circle before releasing the hammer",
+            "hammer throw, which has the presence of a cage or net surrounding the throwing area to ensure safety",
+            "hammer throw, which has the athlete wearing gloves for a better grip on the handle",
+            "hammer throw, which has the ground being marked with a circle or lines indicating the throwing area"
+        ],
+        [
+            "hammer throw, which has the athlete holding a metal ball (the hammer) attached to a long wire or handle",
+            "hammer throw, which has the athlete spinning in a circle before releasing the hammer",
+            "hammer throw, which has the hammer being thrown in a high arc with the athlete's body in a dynamic and powerful position",
+            "hammer throw, which has the presence of a throwing circle or marked area for the event",
+            "hammer throw, which has other track and field equipment or personnel specific to the hammer throw event, such as officials or judges"
+        ]
+    ],
+    "hammering": [
+        [
+            "hammering, which is a person holding a hammer",
+            "hammering, which is a nail or object being struck by the hammer",
+            "hammering, which is a wooden or metal handle on the hammer",
+            "hammering, which is a metal head with a flat striking surface",
+            "hammering, which has motion blur indicating movement of the hammer",
+            "hammering, which has debris or dust flying off the object being struck"
+        ],
+        [
+            "hammering, which is a person holding a hammer or similar tool",
+            "hammering, which is a surface being struck or impacted by the tool",
+            "hammering, which has visible motion or force being exerted by the person using the tool",
+            "hammering, which has debris or material being displaced or affected by the hammering action"
+        ]
+    ],
+    "hand stand pushups": [
+        [
+            "hand stand pushups, which has person upside down with hands on the ground",
+            "hand stand pushups, which has feet in the air",
+            "hand stand pushups, which has body in a straight line",
+            "hand stand pushups, which is arms extended",
+            "hand stand pushups, which has head close to the ground",
+            "hand stand pushups, which has wall or support for balance",
+            "hand stand pushups, which is athletic clothing or workout gear"
+        ],
+        [
+            "hand stand pushups, which has the individual is inverted, with their hands flat on the ground and their feet in the air",
+            "hand stand pushups, which has the person is using their upper body strength to push themselves up and down in a vertical position",
+            "hand stand pushups, which has the body is straight and aligned from head to feet",
+            "hand stand pushups, which has the movement is controlled and deliberate, with a focus on shoulder and arm strength."
+        ],
+        [
+            "hand stand pushups, which has upside-down position with hands on the ground and feet in the air",
+            "hand stand pushups, which has straight body alignment with arms fully extended",
+            "hand stand pushups, which has head positioned between the arms",
+            "hand stand pushups, which has feet pointed towards the ceiling",
+            "hand stand pushups, which has overall balance and stability in the hand stand position"
+        ]
+    ],
+    "handstand walking": [
+        [
+            "handstand walking, which has person upside down with hands on the ground",
+            "handstand walking, which has legs in the air",
+            "handstand walking, which has body in a straight line",
+            "handstand walking, which has movement of the arms and legs in a walking motion",
+            "handstand walking, which has balance and coordination",
+            "handstand walking, which has outdoor or indoor setting",
+            "handstand walking, which is athletic clothing or bare skin",
+            "handstand walking, which has facial expression of concentration or determination"
+        ],
+        [
+            "handstand walking, which has upside-down posture with hands on the ground and feet in the air",
+            "handstand walking, which has body in a straight line from hands to feet",
+            "handstand walking, which is arms fully extended",
+            "handstand walking, which has legs extended upwards towards the ceiling",
+            "handstand walking, which has clear view of the person's face to confirm they are performing a handstand"
+        ],
+        [
+            "handstand walking, which has upside down position with hands on the ground and feet in the air",
+            "handstand walking, which has body alignment in a straight line from head to toes",
+            "handstand walking, which has balancing on hands with feet lifted off the ground",
+            "handstand walking, which is a focused and determined facial expression",
+            "handstand walking, which has potential motion blur or movement in the legs to indicate walking while in a handstand position"
+        ]
+    ],
+    "head massage": [
+        [
+            "head massage, which is a person receiving the massage",
+            "head massage, which is another person or device providing the massage",
+            "head massage, which has hands or a massage tool touching the head",
+            "head massage, which has relaxed facial expression on the person receiving the massage",
+            "head massage, which has possibly oils or lotions being used",
+            "head massage, which is a comfortable and calming environment",
+            "head massage, which has possibly a massage table or chair"
+        ],
+        [
+            "head massage, which has hands on the head or scalp of the person receiving the massage",
+            "head massage, which has specific hand movements or techniques being used, such as circular motions or finger kneading",
+            "head massage, which has relaxation or comfort expressions on the face of the person receiving the massage",
+            "head massage, which is a massage tool, such as a scalp massager or massage oil, being used",
+            "head massage, which is a relaxed or serene environment, such as a spa or massage room setting."
+        ]
+    ],
+    "high jump": [
+        [
+            "high jump, which is an athlete in mid-air, clearing a bar",
+            "high jump, which is a bar set at a certain height",
+            "high jump, which is a landing mat or pit below the bar",
+            "high jump, which is a track or runway leading up to the bar",
+            "high jump, which has spectators or judges watching the event",
+            "high jump, which is athletic attire worn by the jumper",
+            "high jump, which is a measuring stick or tape to measure the height cleared"
+        ],
+        [
+            "high jump, which is a person in mid-air with their body in a vertical position, legs extended upwards",
+            "high jump, which is a landing mat or pit visible below the person in mid-air",
+            "high jump, which has the person's arms raised or extended upwards",
+            "high jump, which has the person's body positioned diagonally or vertically in relation to the ground",
+            "high jump, which has the presence of a high jump bar or other equipment used in high jump competitions."
+        ],
+        [
+            "high jump, which is an athlete jumping over a bar suspended between two vertical posts",
+            "high jump, which has the athlete using a specific technique to clear the bar, such as the fosbury flop or the straddle technique",
+            "high jump, which has the bar height being set at a certain level, typically higher than in other track and field events",
+            "high jump, which has judges or officials standing nearby to measure and monitor the height cleared by the athlete"
+        ]
+    ],
+    "horse race": [
+        [
+            "horse race, which has horses with jockeys riding them",
+            "horse race, which is a track or course for the race",
+            "horse race, which has spectators watching the race",
+            "horse race, which has starting gates or barriers for the horses",
+            "horse race, which has race officials or staff present",
+            "horse race, which is a finish line or marker",
+            "horse race, which has racing numbers or colors on the horses",
+            "horse race, which is a sense of speed and movement in the photo"
+        ],
+        [
+            "horse race, which has jockeys wearing colorful racing silks",
+            "horse race, which has horses running in a group with jockeys riding them",
+            "horse race, which is a dirt or turf track with a crowd of spectators",
+            "horse race, which has racing gates or barriers at the starting line",
+            "horse race, which has racing numbers or saddle cloths on the horses' backs"
+        ]
+    ],
+    "horse riding": [
+        [
+            "horse riding, which is a person sitting on a horse",
+            "horse riding, which is a saddle and bridle on the horse",
+            "horse riding, which has the horse's mane and tail",
+            "horse riding, which has the horse's hooves",
+            "horse riding, which has the rider's riding attire (helmet, boots, etc.)",
+            "horse riding, which has the horse's movement or gait",
+            "horse riding, which is any equipment or accessories used for riding (whip, reins, etc.)"
+        ],
+        [
+            "horse riding, which is a person sitting on a horse with their legs on either side of the horse",
+            "horse riding, which has the presence of a saddle and bridle on the horse",
+            "horse riding, which has the movement of the horse and rider, indicating that they are in motion",
+            "horse riding, which has the posture of the rider, sitting upright with their hands on the reins",
+            "horse riding, which has the setting, such as a riding arena or outdoor trail, commonly associated with horse riding activities"
+        ]
+    ],
+    "hula hoop": [
+        [
+            "hula hoop, which has  circular shape",
+            "hula hoop, which has colorful or patterned design",
+            "hula hoop, which has lightweight and hollow",
+            "hula hoop, which has made of plastic or similar material",
+            "hula hoop, which typically held around the waist for spinning",
+            "hula hoop, which may have ridges or bumps for grip",
+            "hula hoop, which may have a small diameter for children or a larger diameter for adults"
+        ],
+        [
+            "hula hoop, which is a circular shape with a hollow center",
+            "hula hoop, which has bright and colorful designs or patterns on the hula hoop",
+            "hula hoop, which is a smooth and shiny surface",
+            "hula hoop, which is a lightweight and flexible construction suitable for spinning around the body"
+        ]
+    ],
+    "ice dancing": [
+        [
+            "ice dancing, which has skaters wearing ice skates",
+            "ice dancing, which has skaters performing intricate and synchronized movements on ice",
+            "ice dancing, which has skaters wearing costumes or outfits suitable for ice dancing",
+            "ice dancing, which has ice rink or frozen surface in the background",
+            "ice dancing, which is audience or spectators watching the performance",
+            "ice dancing, which has judges or officials present",
+            "ice dancing, which has music playing in the background",
+            "ice dancing, which has skaters in pairs or groups performing lifts, spins, and jumps"
+        ],
+        [
+            "ice dancing, which has dancers wearing skates and costumes typically worn for ice dancing",
+            "ice dancing, which has dancers performing on an ice rink with music playing in the background",
+            "ice dancing, which has dancers in elegant and synchronized movements, often holding hands or performing lifts and spins",
+            "ice dancing, which has dancers with graceful and fluid movements on the ice, showcasing their skill and precision in synchronized routines."
+        ],
+        [
+            "ice dancing, which has performers wearing figure skates instead of ski boots",
+            "ice dancing, which has performers in elegant and artistic poses, often holding hands or in close contact",
+            "ice dancing, which has smooth and polished ice surface",
+            "ice dancing, which has performers dressed in elaborate costumes with sequins or feathers",
+            "ice dancing, which has lack of poles or skis visible in the image"
+        ]
+    ],
+    "javelin throw": [
+        [
+            "javelin throw, which is athlete in a throwing position",
+            "javelin throw, which has javelin in hand",
+            "javelin throw, which is athlete in a throwing circle or runway",
+            "javelin throw, which has javelin flying through the air",
+            "javelin throw, which has spectators or judges watching",
+            "javelin throw, which is athletic attire such as shorts and a tank top",
+            "javelin throw, which has grass or track surface",
+            "javelin throw, which has other athletes in the background"
+        ],
+        [
+            "javelin throw, which is a person holding a long spear-like object (the javelin)",
+            "javelin throw, which has the person in a throwing position, either winding up or in mid-throw",
+            "javelin throw, which has the javelin flying through the air",
+            "javelin throw, which has the characteristic angle of the javelin relative to the ground",
+            "javelin throw, which has the distinct form and technique of the athlete throwing the javelin"
+        ],
+        [
+            "javelin throw, which is an athlete holding a javelin in a throwing position",
+            "javelin throw, which has the athlete positioned in a runway or field specifically used for the javelin event",
+            "javelin throw, which has the javelin flying through the air after being thrown",
+            "javelin throw, which has the athlete in a specific stance or action that is characteristic of a javelin throw, such as a wind-up or follow-through motion."
+        ]
+    ],
+    "juggling balls": [
+        [
+            "juggling balls, which has small, round objects",
+            "juggling balls, which has brightly colored",
+            "juggling balls, which typically made of rubber, leather, or plastic",
+            "juggling balls, which often seen in sets of three or more",
+            "juggling balls, which may have a textured surface for better grip",
+            "juggling balls, which may be in motion or mid-air in the photo"
+        ],
+        [
+            "juggling balls, which has round shape with bright, colorful patterns or solid colors",
+            "juggling balls, which has multiple balls being held or thrown in the air",
+            "juggling balls, which has motion blur indicating movement or tossing of the balls",
+            "juggling balls, which has hands or arms in the frame showing the act of juggling",
+            "juggling balls, which has background of a performance space or circus setting"
+        ]
+    ],
+    "jump rope": [
+        [
+            "jump rope, which has long, thin rope",
+            "jump rope, which has handles on each end of the rope",
+            "jump rope, which typically made of plastic, leather, or fabric",
+            "jump rope, which often brightly colored",
+            "jump rope, which has flexible and lightweight",
+            "jump rope, which is used for exercise or play"
+        ],
+        [
+            "jump rope, which has long, thin, flexible cord or rope",
+            "jump rope, which has handles on each end of the rope",
+            "jump rope, which often brightly colored or patterned",
+            "jump rope, which typically seen in a coiled or looped shape"
+        ]
+    ],
+    "jumping jack": [
+        [
+            "jumping jack, which is a toy or exercise equipment",
+            "jumping jack, which has human-shaped figure with movable limbs",
+            "jumping jack, which typically made of wood or plastic",
+            "jumping jack, which has strings or elastic bands attached to limbs for movement",
+            "jumping jack, which often brightly colored or painted",
+            "jumping jack, which has small in size, typically handheld",
+            "jumping jack, which is used for jumping or exercise movements"
+        ],
+        [
+            "jumping jack, which is a person with arms and legs spread wide apart while in mid-air",
+            "jumping jack, which has the person's feet leaving the ground simultaneously",
+            "jumping jack, which has the person's body being upright and not bent over",
+            "jumping jack, which has the person's hands typically reaching above the head or touching above the head"
+        ],
+        [
+            "jumping jack, which is a person with their arms and legs spread out horizontally while jumping",
+            "jumping jack, which is a person performing a repetitive vertical jump with their arms raised above their head and then lowered to their sides",
+            "jumping jack, which is a person in mid-air with their legs apart and arms extended sideways",
+            "jumping jack, which is a person landing with their feet together and arms at their sides",
+            "jumping jack, which is a person performing a cardio exercise that involves jumping and moving their arms and legs simultaneously."
+        ]
+    ],
+    "kayaking": [
+        [
+            "kayaking, which is a small, narrow watercraft",
+            "kayaking, which typically made of plastic or fiberglass",
+            "kayaking, which has paddle with two blades",
+            "kayaking, which has person sitting in the kayak",
+            "kayaking, which has life jacket or personal flotation device",
+            "kayaking, which has water or waves in the background",
+            "kayaking, which has kayak paddle strokes or splashes",
+            "kayaking, which has kayak accessories such as a spray skirt or dry bag"
+        ],
+        [
+            "kayaking, which is a person sitting in a kayak, holding a paddle",
+            "kayaking, which is a kayak, with its distinctive shape and design, visible in the water",
+            "kayaking, which has splashes of water around the kayak, indicating movement and activity",
+            "kayaking, which has wet gear or clothing worn by the kayaker",
+            "kayaking, which has surrounding scenery such as water bodies, trees, or other natural elements typically associated with kayaking locations"
+        ],
+        [
+            "kayaking, which is a person sitting in a small boat with a double-bladed paddle",
+            "kayaking, which has the characteristic shape of a kayak, with a pointed bow and stern",
+            "kayaking, which has the person wearing a life jacket or helmet",
+            "kayaking, which has water splashes or ripples around the kayak",
+            "kayaking, which has paddles in motion or raised above the water",
+            "kayaking, which has the presence of other kayaks or boats in the background."
+        ]
+    ],
+    "knitting": [
+        [
+            "knitting, which has yarn or thread",
+            "knitting, which has knitting needles or crochet hooks",
+            "knitting, which is a pattern or design being created",
+            "knitting, which has loops or stitches in various colors",
+            "knitting, which has possibly a knitting or crochet project in progress",
+            "knitting, which has possibly a person holding or working with the knitting materials"
+        ],
+        [
+            "knitting, which is a person holding knitting needles and yarn",
+            "knitting, which is a knitted fabric or project in progress",
+            "knitting, which is a pattern or design on the knitted fabric",
+            "knitting, which has the motion of the person's hands knitting",
+            "knitting, which has knitting needles and yarn in various colors and textures"
+        ]
+    ],
+    "long jump": [
+        [
+            "long jump, which is a person in mid-air, with legs extended forward",
+            "long jump, which is a sand pit or landing area",
+            "long jump, which is a runway or track leading up to the sand pit",
+            "long jump, which is a measuring tape or markers indicating the distance jumped",
+            "long jump, which has spectators or judges watching the jump",
+            "long jump, which is athletic clothing or gear such as spikes or a number bib"
+        ],
+        [
+            "long jump, which is an athlete in motion, leaping through the air with one leg extended forward and the other bent back",
+            "long jump, which is a sandpit or landing area in the background",
+            "long jump, which is a mid-air pose with arms and legs outstretched",
+            "long jump, which is a track or runway leading up to the jumping point"
+        ],
+        [
+            "long jump, which is an athlete running towards a takeoff board",
+            "long jump, which has the athlete leaping into the air with outstretched arms and legs",
+            "long jump, which has sand pit in the background where the athlete will land",
+            "long jump, which has officials or spectators watching the event",
+            "long jump, which has measuring equipment or markers near the landing spot"
+        ]
+    ],
+    "lunges": [
+        [
+            "lunges, which is a person performing a lunge exercise",
+            "lunges, which has bent knee and straight leg",
+            "lunges, which is arms extended or holding weights",
+            "lunges, which has proper form with back straight and chest up",
+            "lunges, which has gym or workout setting",
+            "lunges, which is athletic clothing",
+            "lunges, which has fitness equipment such as dumbbells or resistance bands"
+        ],
+        [
+            "lunges, which has person bending one knee and lowering their body towards the ground",
+            "lunges, which has hands on hips or holding weights",
+            "lunges, which has proper form with straight back and front knee not extending past toes",
+            "lunges, which has one leg extended behind the body",
+            "lunges, which has lower body parallel to the ground or at a 90-degree angle from the front leg"
+        ],
+        [
+            "lunges, which has one leg extended forward with the knee bent at a 90-degree angle",
+            "lunges, which has the other leg extended back with the knee almost touching the ground",
+            "lunges, which has body upright with proper alignment",
+            "lunges, which has hands on the hips for balance",
+            "lunges, which has engaged core muscles and proper form"
+        ]
+    ],
+    "military parade": [
+        [
+            "military parade, which has soldiers in uniform marching in formation",
+            "military parade, which has military vehicles such as tanks, trucks, or armored vehicles",
+            "military parade, which has flags or banners representing the military branch or country",
+            "military parade, which has military equipment such as weapons or artillery",
+            "military parade, which has spectators watching the parade",
+            "military parade, which has military band or music playing",
+            "military parade, which has military officers or leaders overseeing the parade",
+            "military parade, which has ceremonial or formal atmosphere"
+        ],
+        [
+            "military parade, which has uniformed soldiers marching in formation",
+            "military parade, which has military vehicles or equipment such as tanks or artillery",
+            "military parade, which has flags or banners with military insignia or national symbols",
+            "military parade, which is a structured and organized procession with a clear direction and purpose",
+            "military parade, which is a formal stance and disciplined posture of the participants"
+        ]
+    ],
+    "mixing": [
+        [
+            "mixing, which is a bowl or container for mixing ingredients",
+            "mixing, which is a handle or grip for holding and maneuvering the mixer",
+            "mixing, which has beaters or attachments for mixing or blending ingredients",
+            "mixing, which is a power cord or battery pack for operation",
+            "mixing, which has speed settings or controls for adjusting mixing intensity",
+            "mixing, which is a base or stand for stability during use"
+        ],
+        [
+            "mixing, which is a countertop or surface with baking ingredients (such as flour, sugar, or eggs)",
+            "mixing, which is a mixing bowl or stand mixer",
+            "mixing, which is a whisk, spatula, or other utensils used for mixing",
+            "mixing, which is a batter or dough being mixed together",
+            "mixing, which has ingredients being poured or added into the mixing bowl"
+        ]
+    ],
+    "mopping floor": [
+        [
+            "mopping floor, which is a wet or damp surface",
+            "mopping floor, which is a mop or mop bucket nearby",
+            "mopping floor, which has cleaning solution or soap visible",
+            "mopping floor, which has streaks or patterns on the floor from mopping",
+            "mopping floor, which is a shiny or reflective surface",
+            "mopping floor, which has cleaning tools such as a scrub brush or sponge nearby"
+        ],
+        [
+            "mopping floor, which is a person holding a mop or using a mop on the floor",
+            "mopping floor, which is a bucket of cleaning solution nearby",
+            "mopping floor, which has wet or shiny floor surface",
+            "mopping floor, which has cleaning products or tools such as a broom, brush, or scrubber",
+            "mopping floor, which has furniture or objects being moved out of the way to mop"
+        ]
+    ],
+    "nunchucks": [
+        [
+            "nunchucks, which has two sticks connected by a chain or rope",
+            "nunchucks, which typically made of wood or metal",
+            "nunchucks, which is used as a weapon or for martial arts training",
+            "nunchucks, which can be swung or twirled",
+            "nunchucks, which often associated with martial arts or ninja culture"
+        ],
+        [
+            "nunchucks, which has two wooden or metal sticks connected by a chain or rope",
+            "nunchucks, which is a martial arts performer or practitioner holding or using the nunchucks",
+            "nunchucks, which has fast and dynamic movements that suggest the use of a weapon or martial arts tool"
+        ]
+    ],
+    "parallel bars": [
+        [
+            "parallel bars, which has two horizontal bars set parallel to each other",
+            "parallel bars, which typically made of metal or wood",
+            "parallel bars, which is attached to a base or frame for stability",
+            "parallel bars, which is used for gymnastics or physical therapy",
+            "parallel bars, which often found in a gym or fitness center",
+            "parallel bars, which may have adjustable height or width settings"
+        ],
+        [
+            "parallel bars, which has two horizontal bars set parallel to each other at a specific height",
+            "parallel bars, which typically made of metal or wood",
+            "parallel bars, which is used in gymnastics for various exercises and routines",
+            "parallel bars, which often found in a gymnastics training facility or competition setting",
+            "parallel bars, which may have grips or padding for athletes to hold onto and perform maneuvers on"
+        ],
+        [
+            "parallel bars, which has two horizontal bars that are parallel to each other and are typically made of metal or wood",
+            "parallel bars, which has grips or handles on the bars for the gymnasts to hold onto",
+            "parallel bars, which has height of the bars, typically adjustable for different athletes",
+            "parallel bars, which has the presence of a mat or landing area underneath the bars for safety",
+            "parallel bars, which is a frame or base supporting the bars in the photo"
+        ]
+    ],
+    "pizza tossing": [
+        [
+            "pizza tossing, which has circular shape",
+            "pizza tossing, which has flat and round dough",
+            "pizza tossing, which has toppings such as cheese, tomato sauce, vegetables, and meat",
+            "pizza tossing, which has tossing motion with hands in the air",
+            "pizza tossing, which has flour or cornmeal on the surface",
+            "pizza tossing, which has pizza peel or spatula",
+            "pizza tossing, which has oven or pizza stone in the background"
+        ],
+        [
+            "pizza tossing, which is a person holding a round dough base with flour or toppings on it",
+            "pizza tossing, which is a tossing motion of the dough in the air",
+            "pizza tossing, which is a kitchen or pizzeria setting with other pizza-making ingredients and utensils",
+            "pizza tossing, which is a circular shape of the dough being thrown up in the air and caught",
+            "pizza tossing, which has potential toppings visible on the dough or nearby ingredients like cheese, tomato sauce, pepperoni, etc."
+        ]
+    ],
+    "playing cello": [
+        [
+            "playing cello, which has wooden instrument with a curved body and long neck",
+            "playing cello, which has four strings stretched across the neck and body",
+            "playing cello, which is a bridge to support the strings",
+            "playing cello, which is a tailpiece to anchor the strings",
+            "playing cello, which is a bow made of horsehair",
+            "playing cello, which is a cellist holding the instrument between their knees",
+            "playing cello, which has the cellist's fingers pressing down on the strings to create different notes"
+        ],
+        [
+            "playing cello, which has the unique shape and size of the cello, with its curved body and long neck",
+            "playing cello, which has the player holding a bow in one hand and pressing the strings with the other hand",
+            "playing cello, which has the player seated with the cello between their legs",
+            "playing cello, which has the strings and tuning pegs of the cello visible in the image"
+        ],
+        [
+            "playing cello, which has the unique shape of a cello, with its curved body and long neck",
+            "playing cello, which has the player holding the cello between their knees and playing it with a bow or fingers",
+            "playing cello, which has the distinctive sound holes on the front of the cello",
+            "playing cello, which has the visible strings and tuning pegs on the neck of the cello",
+            "playing cello, which has the player's body posture and hand position while playing, with one hand on the neck and the other holding the bow"
+        ]
+    ],
+    "playing daf": [
+        [
+            "playing daf, which has  circular frame drum",
+            "playing daf, which has goatskin or synthetic head",
+            "playing daf, which has wooden or metal frame",
+            "playing daf, which has small metal rings or chains attached to the frame",
+            "playing daf, which has played with hands or a small mallet",
+            "playing daf, which has traditional Persian instrument",
+            "playing daf, which often decorated with intricate designs or patterns"
+        ],
+        [
+            "playing daf, which is a circular frame with a stretched membrane",
+            "playing daf, which has the player holding the daf with one hand on the frame and the other hand on the membrane",
+            "playing daf, which has the player's fingers hitting or tapping the membrane to produce sound",
+            "playing daf, which has the round shape of the daf and its size compared to the player's body",
+            "playing daf, which has the presence of jingles or small metal rings around the frame of the daf"
+        ],
+        [
+            "playing daf, which is a round frame drum with a membrane stretched over it",
+            "playing daf, which has the player holding the drum horizontally and striking it with their hands or fingers",
+            "playing daf, which is a traditional persian musical instrument with a wooden frame and animal skin membrane",
+            "playing daf, which has circular shape with jingles attached to the inside of the frame, creating a distinct sound when played"
+        ]
+    ],
+    "playing dhol": [
+        [
+            "playing dhol, which is a large, cylindrical drum",
+            "playing dhol, which has made of wood or metal",
+            "playing dhol, which has two drumheads, one on each end",
+            "playing dhol, which has played with sticks or hands",
+            "playing dhol, which has intricate designs or patterns on the drum",
+            "playing dhol, which has straps or ropes for carrying or securing the drum",
+            "playing dhol, which has traditional clothing or accessories worn by the player"
+        ],
+        [
+            "playing dhol, which is a cylindrical shape with two heads, one larger than the other",
+            "playing dhol, which typically made of wood or metal with animal skin stretched over the heads",
+            "playing dhol, which often held horizontally and played with sticks or hands",
+            "playing dhol, which has distinct drumming posture and body movements while playing"
+        ],
+        [
+            "playing dhol, which is a barrel-shaped body with two heads, one larger than the other",
+            "playing dhol, which has two wooden sticks or mallets used to strike the heads of the drum",
+            "playing dhol, which has bright, colorful decorations or patterns on the drum's body",
+            "playing dhol, which has the player holding the drum between their knees or under their arm while playing",
+            "playing dhol, which is a traditional, rhythmic playing style often accompanied by dancing or other performers"
+        ]
+    ],
+    "playing flute": [
+        [
+            "playing flute, which has long, slender tube with holes for fingers",
+            "playing flute, which has metal or wooden material",
+            "playing flute, which has mouthpiece at one end",
+            "playing flute, which has keys or buttons for changing pitch",
+            "playing flute, which has sound holes along the length of the tube",
+            "playing flute, which has musician's fingers covering and uncovering holes",
+            "playing flute, which has musician's mouth positioned at the mouthpiece"
+        ],
+        [
+            "playing flute, which is a person holding a flute with their fingers placed over the holes along the length of the flute",
+            "playing flute, which has the shape of the flute, which is typically long and cylindrical with a mouthpiece at one end",
+            "playing flute, which has the presence of keys or levers on the flute for controlling pitch and tone",
+            "playing flute, which has the position of the player's fingers and hands on the flute to produce different notes"
+        ],
+        [
+            "playing flute, which has long, slender tube with finger holes along the length",
+            "playing flute, which has mouthpiece at one end",
+            "playing flute, which has conical shape",
+            "playing flute, which has metal or wood construction",
+            "playing flute, which has player blowing air into the mouthpiece and fingers covering and uncovering the holes to create different notes"
+        ]
+    ],
+    "playing guitar": [
+        [
+            "playing guitar, which has wooden body",
+            "playing guitar, which has six strings",
+            "playing guitar, which has fretboard with frets",
+            "playing guitar, which has tuning pegs",
+            "playing guitar, which has sound hole",
+            "playing guitar, which has bridge",
+            "playing guitar, which has pickguard",
+            "playing guitar, which has player's hands and fingers on the strings and frets"
+        ],
+        [
+            "playing guitar, which is a person holding a guitar in their hands",
+            "playing guitar, which has fingers positioned on the fretboard and/or strumming hand on the strings",
+            "playing guitar, which has guitar body or neck visible",
+            "playing guitar, which has strumming or picking motion",
+            "playing guitar, which has musical notes or chords displayed on a sheet or screen",
+            "playing guitar, which has stage or musical equipment in the background"
+        ],
+        [
+            "playing guitar, which has finger placement on the fretboard",
+            "playing guitar, which has movement of fingers on the strings",
+            "playing guitar, which has strumming or picking hand in motion",
+            "playing guitar, which has body posture and positioning of the player",
+            "playing guitar, which has guitar shape, style, and size",
+            "playing guitar, which has presence of a guitar strap or stand"
+        ]
+    ],
+    "playing piano": [
+        [
+            "playing piano, which is a keyboard with black and white keys",
+            "playing piano, which is a wooden or metal frame",
+            "playing piano, which has pedals at the base",
+            "playing piano, which has music sheets or books nearby",
+            "playing piano, which is a pianist's hands on the keys",
+            "playing piano, which has sound coming from the piano",
+            "playing piano, which is a bench or stool for the pianist to sit on"
+        ],
+        [
+            "playing piano, which is a person sitting in front of a piano with their hands positioned over the keys",
+            "playing piano, which has the presence of black and white keys on the piano keyboard",
+            "playing piano, which has the person's fingers pressing down on the keys",
+            "playing piano, which has the person's posture and body position suggest playing a musical instrument rather than engaging in other activities"
+        ],
+        [
+            "playing piano, which is a keyboard with black and white keys",
+            "playing piano, which has the player's hands positioned on the keys",
+            "playing piano, which is a music stand with sheet music",
+            "playing piano, which has pedals at the base of the piano",
+            "playing piano, which has distinctive shape and structure of the piano, including the lid and design of the body"
+        ]
+    ],
+    "playing sitar": [
+        [
+            "playing sitar, which has stringed musical instrument",
+            "playing sitar, which has long neck with tuning pegs",
+            "playing sitar, which has resonating chamber",
+            "playing sitar, which has bridge to support the strings",
+            "playing sitar, which has curved frets on the neck",
+            "playing sitar, which has gourd or wooden body",
+            "playing sitar, which has decorative carvings or inlays",
+            "playing sitar, which has musician's hands plucking or strumming the strings"
+        ],
+        [
+            "playing sitar, which has long neck with signature curved tuning pegs",
+            "playing sitar, which is a rounded body with strings running along the length of the neck",
+            "playing sitar, which is a fretboard with raised frets for adjusting pitch",
+            "playing sitar, which is a resonator or soundbox on the bottom of the instrument"
+        ],
+        [
+            "playing sitar, which is a curved, hollow body made of wood",
+            "playing sitar, which is a long, fretted neck with strings that run along the neck",
+            "playing sitar, which is a series of tuning pegs at the top of the neck",
+            "playing sitar, which is a large, resonating gourd at the bottom of the instrument",
+            "playing sitar, which has the player sitting cross-legged with the instrument resting on their lap and plucking or strumming the strings"
+        ]
+    ],
+    "playing tabla": [
+        [
+            "playing tabla, which is a pair of hand drums",
+            "playing tabla, which has made of wood or metal",
+            "playing tabla, which has one drum is larger (bayan) and the other is smaller (dayan)",
+            "playing tabla, which has both drums have a circular playing surface",
+            "playing tabla, which has the larger drum has a black spot in the center",
+            "playing tabla, which has the smaller drum has tuning blocks or straps",
+            "playing tabla, which often played with fingers or palms",
+            "playing tabla, which may have decorative carvings or designs"
+        ],
+        [
+            "playing tabla, which is a pair of hand drums with a distinct shape and design",
+            "playing tabla, which is a flat playing surface with a series of small black circles or spots",
+            "playing tabla, which is a small, circular opening on the side of the drum for tuning",
+            "playing tabla, which has curved metal rims or hoops around the playing surface",
+            "playing tabla, which is a unique sound produced when played with hands"
+        ],
+        [
+            "playing tabla, which has distinctive shape of the tabla drums, which consist of a smaller drum (dayan) and a larger drum (bayan)",
+            "playing tabla, which has the player holding two drumsticks, one in each hand",
+            "playing tabla, which has the player sitting cross-legged or in a specific posture while playing",
+            "playing tabla, which has the tabla drums placed on a special cushion or stand",
+            "playing tabla, which has rhythmic hand movements and gestures while playing"
+        ]
+    ],
+    "playing violin": [
+        [
+            "playing violin, which has wooden body with f-holes",
+            "playing violin, which has four strings",
+            "playing violin, which has bow",
+            "playing violin, which has chin rest",
+            "playing violin, which has tuning pegs",
+            "playing violin, which has bridge",
+            "playing violin, which has tailpiece",
+            "playing violin, which has sound post",
+            "playing violin, which has fingerboard",
+            "playing violin, which has scroll at the top of the neck"
+        ],
+        [
+            "playing violin, which has person holding a violin in playing position",
+            "playing violin, which has bow being drawn across the strings",
+            "playing violin, which has finger positioning on the fretboard or strings",
+            "playing violin, which has the shape and design of the violin, including the f-holes and scroll",
+            "playing violin, which has body language indicating musical performance, such as concentration and focus"
+        ],
+        [
+            "playing violin, which has the distinctive shape of the violin itself, including the neck, body, and f-holes",
+            "playing violin, which has the presence of a bow being used to play the strings",
+            "playing violin, which has the positioning of the musician's hands and fingers on the strings and fingerboard",
+            "playing violin, which has the movement of the musician's arms and body as they play the instrument"
+        ]
+    ],
+    "pole vault": [
+        [
+            "pole vault, which is a long, flexible pole made of fiberglass or carbon fiber",
+            "pole vault, which is a padded box or pit for landing",
+            "pole vault, which is a bar or crossbar for the athlete to clear",
+            "pole vault, which is a runway for the athlete to build speed before planting the pole",
+            "pole vault, which is a coach or spotter assisting the athlete",
+            "pole vault, which is athletic clothing and shoes for the athlete",
+            "pole vault, which has spectators or other athletes watching or participating in the event"
+        ],
+        [
+            "pole vault, which is an athlete holding a long pole while running towards a padded landing area",
+            "pole vault, which has the pole being bent as the athlete plants it in the ground and launches themselves over the bar",
+            "pole vault, which has the bar being set at a height above the landing area",
+            "pole vault, which has the athlete in mid-air, clearing the bar with their body parallel to the ground",
+            "pole vault, which has judges or spectators watching the event from the sidelines"
+        ],
+        [
+            "pole vault, which is an athlete holding a pole in hand, preparing to vault",
+            "pole vault, which is a bar set up for the athlete to clear",
+            "pole vault, which is an area of the track with a soft landing mat or pit for the athlete to land safely",
+            "pole vault, which has the athlete's body position while vaulting over the bar, such as being inverted or holding onto the pole at a certain height"
+        ]
+    ],
+    "pommel horse": [
+        [
+            "pommel horse, which has gymnastics equipment",
+            "pommel horse, which has padded top surface",
+            "pommel horse, which has two handles on each side",
+            "pommel horse, which has wooden or metal construction",
+            "pommel horse, which typically brown or black in color",
+            "pommel horse, which is used for performing gymnastic routines and exercises"
+        ],
+        [
+            "pommel horse, which is a long padded body with two handles on top",
+            "pommel horse, which is a smooth, glossy surface for gripping",
+            "pommel horse, which is a rectangular shape with a padded top surface",
+            "pommel horse, which has low to the ground with sturdy legs for support",
+            "pommel horse, which typically seen in a gym or athletic facility setting"
+        ],
+        [
+            "pommel horse, which is a narrow, elongated body with two handles or pommels on top",
+            "pommel horse, which is a padded leather surface on top for the gymnast to perform routines",
+            "pommel horse, which has usually elevated off the ground on a base or support structure",
+            "pommel horse, which typically positioned in a gymnasium or training facility specifically for gymnastics"
+        ]
+    ],
+    "pull ups": [
+        [
+            "pull ups, which is a person hanging from a horizontal bar",
+            "pull ups, which is arms extended and gripping the bar",
+            "pull ups, which has legs bent at the knees",
+            "pull ups, which has body in a vertical position",
+            "pull ups, which has gym or workout equipment in the background",
+            "pull ups, which is athletic clothing or workout attire worn by the person doing the pull ups"
+        ],
+        [
+            "pull ups, which has the person hanging from a horizontal bar with their arms extended",
+            "pull ups, which has their body in a straight line with legs crossed or bent at the knees",
+            "pull ups, which has elbows bending and pulling the body upward towards the bar",
+            "pull ups, which has the motion of the body going up and down while performing the exercise"
+        ],
+        [
+            "pull ups, which is a person hanging from a horizontal bar with their hands gripping the bar",
+            "pull ups, which has their body in a vertical position with their feet off the ground",
+            "pull ups, which has the upward movement of their body towards the bar",
+            "pull ups, which has the muscles engaged in the arms, back, and shoulders during the exercise"
+        ]
+    ],
+    "punch": [
+        [
+            "punch, which is a clenched fist",
+            "punch, which has motion blur indicating movement",
+            "punch, which has impact on a surface or object",
+            "punch, which has facial expressions of the person throwing the punch",
+            "punch, which has body positioning and stance of the person throwing the punch",
+            "punch, which has potential presence of blood or bruising",
+            "punch, which has surrounding environment or context indicating a fight or altercation"
+        ],
+        [
+            "punch, which is a person in a boxing stance or position",
+            "punch, which has the person's fist making contact with a target, such as a punching bag or another person",
+            "punch, which has motion blur indicating a fast and forceful movement",
+            "punch, which has tension and strain in the person's muscles as they deliver the punch",
+            "punch, which has facial expressions showing determination or aggression"
+        ],
+        [
+            "punch, which is a clenched fist, indicating a punch being thrown",
+            "punch, which has the motion blur of the hand or arm in the direction of the punch",
+            "punch, which has the presence of a punching bag or target being struck",
+            "punch, which has the extension of the arm and rotation of the body indicating a punch being thrown"
+        ]
+    ],
+    "push ups": [
+        [
+            "push ups, which has person in a plank position with hands shoulder-width apart",
+            "push ups, which has body in a straight line from head to heels",
+            "push ups, which is arms fully extended",
+            "push ups, which has elbows bending to lower body towards the ground",
+            "push ups, which has chest touching the ground",
+            "push ups, which has pushing back up to starting position",
+            "push ups, which has repetition of the movement in a continuous motion"
+        ],
+        [
+            "push ups, which is a person positioned face down on the ground with their hands shoulder-width apart and their body straight from head to heels",
+            "push ups, which has the person lowering their body down towards the ground by bending their arms at the elbows",
+            "push ups, which has the person pushing their body back up to the starting position by straightening their arms",
+            "push ups, which has the motion of the exercise, showing the up and down movement of the body to perform the push up"
+        ],
+        [
+            "push ups, which has person lying face down on the ground with hands shoulder-width apart and feet together",
+            "push ups, which has body straight and parallel to the ground",
+            "push ups, which is arms fully extended and shoulder-width apart",
+            "push ups, which has lowering and raising the body by bending and straightening the arms, keeping the body in a straight line from head to toe",
+            "push ups, which has repetition of the movement up and down in a controlled manner"
+        ]
+    ],
+    "rafting": [
+        [
+            "rafting, which has inflatable watercraft",
+            "rafting, which typically brightly colored",
+            "rafting, which has multiple people on board",
+            "rafting, which has paddles or oars",
+            "rafting, which has helmets and life jackets",
+            "rafting, which has water splashing around the raft",
+            "rafting, which has river or body of water in the background"
+        ],
+        [
+            "rafting, which has individuals sitting in an inflatable raft or kayak on a body of water",
+            "rafting, which has paddles or oars being used by the individuals in the raft",
+            "rafting, which has helmets or life jackets being worn by the individuals",
+            "rafting, which has splashing water around the raft indicating movement",
+            "rafting, which is a scenic background of a river, lake, or other body of water."
+        ],
+        [
+            "rafting, which has people wearing helmets and life jackets",
+            "rafting, which is a raft or inflatable boat on a body of water",
+            "rafting, which has paddles or oars being used by the participants",
+            "rafting, which has splashing water or waves around the raft",
+            "rafting, which is a scenic backdrop of a river or white-water rapids"
+        ]
+    ],
+    "rock climbing indoor": [
+        [
+            "rock climbing indoor, which has textured climbing walls with colorful holds",
+            "rock climbing indoor, which has safety mats or padding on the ground",
+            "rock climbing indoor, which has climbers wearing harnesses and helmets",
+            "rock climbing indoor, which has ropes and belay devices",
+            "rock climbing indoor, which has climbing shoes",
+            "rock climbing indoor, which has chalk bags",
+            "rock climbing indoor, which has carabiners and quickdraws",
+            "rock climbing indoor, which has route markers or tape on the walls indicating different climbing routes"
+        ],
+        [
+            "rock climbing indoor, which has the presence of climbing holds on a wall, such as colorful grips and footholds",
+            "rock climbing indoor, which has climbing ropes and harnesses visible on the climber",
+            "rock climbing indoor, which has the climber wearing specialized climbing shoes",
+            "rock climbing indoor, which has chalk marks on the climber's hands or clothing",
+            "rock climbing indoor, which has safety mats or crash pads on the ground below the climbing wall"
+        ],
+        [
+            "rock climbing indoor, which is a person wearing climbing shoes and a harness",
+            "rock climbing indoor, which is a climbing wall with colored holds and ropes",
+            "rock climbing indoor, which has safety mats or crash pads on the ground",
+            "rock climbing indoor, which has climbing chalk marks on the holds",
+            "rock climbing indoor, which is a belay device or rope in use",
+            "rock climbing indoor, which has climbing grips and footholds on the wall"
+        ]
+    ],
+    "rope climbing": [
+        [
+            "rope climbing, which is a long, cylindrical object made of fibers or strands twisted or braided together",
+            "rope climbing, which typically made of natural fibers like hemp or synthetic materials like nylon",
+            "rope climbing, which may have knots or loops for gripping or securing",
+            "rope climbing, which may be attached to a structure or anchor point",
+            "rope climbing, which may be used for climbing, pulling, or securing objects"
+        ],
+        [
+            "rope climbing, which has the presence of a vertical rope or climbing wall",
+            "rope climbing, which has the person in the photo gripping the rope with their hands and using their legs to ascend",
+            "rope climbing, which has the person wearing appropriate climbing gear such as harnesses and climbing shoes",
+            "rope climbing, which has the person's body position and movements characteristic of climbing, such as pulling themselves up using their arms and legs"
+        ],
+        [
+            "rope climbing, which is a person hanging onto a rope with their hands and feet, often seen on a vertical or inclined surface",
+            "rope climbing, which has the presence of a rope or climbing harness in the image",
+            "rope climbing, which has vertical or diagonal movement pattern indicating climbing",
+            "rope climbing, which has the use of proper climbing techniques such as hand placement and body positioning."
+        ]
+    ],
+    "rowing": [
+        [
+            "rowing, which has  long, narrow boat",
+            "rowing, which has oars or paddles",
+            "rowing, which has rowers sitting in the boat",
+            "rowing, which has water or a body of water in the background",
+            "rowing, which has rowing equipment such as life jackets or helmets",
+            "rowing, which has rowing team uniforms",
+            "rowing, which has rowing competition markers or buoys"
+        ],
+        [
+            "rowing, which is a person sitting in a boat with oars",
+            "rowing, which has the presence of water, such as a river or lake",
+            "rowing, which has the rower leaning forward and pulling the oars through the water",
+            "rowing, which has the boat moving in a straight line or a specific direction",
+            "rowing, which has other rowers or boats nearby for context"
+        ],
+        [
+            "rowing, which is a person sitting in a rowboat or scull with oars in hand",
+            "rowing, which is a rowing motion with oars extending out into the water",
+            "rowing, which is a rowboat or scull with a streamlined shape for navigating water",
+            "rowing, which has specific rowing attire such as a singlet or rowing suit",
+            "rowing, which has the presence of other rowers or a coxswain in the boat"
+        ]
+    ],
+    "salsa spin": [
+        [
+            "salsa spin, which has two dancers in close proximity",
+            "salsa spin, which has one dancer spinning or twirling the other",
+            "salsa spin, which has dynamic movement and energy",
+            "salsa spin, which has colorful and vibrant clothing",
+            "salsa spin, which is a dance floor or stage setting",
+            "salsa spin, which has facial expressions showing joy or concentration",
+            "salsa spin, which has traditional salsa dance poses and movements"
+        ],
+        [
+            "salsa spin, which is a salsa spin typically involves a couple dancing closely together, with the lead initiating the spin by guiding the follow's movements. some key features to look for in a salsa spin include:",
+            "salsa spin, which has the lead's arm extended out to the side to create momentum for the spin",
+            "salsa spin, which has the follow turning with grace and fluidity, often with a lifted or extended arm to add flair to the movement",
+            "salsa spin, which has the follow's feet positioned in a specific way to execute the spin smoothly and with control",
+            "salsa spin, which has the dancers' body language and expressions, which typically show focus, connection, and enjoyment in the movement"
+        ]
+    ],
+    "shaving beard": [
+        [
+            "shaving beard, which is a man's face",
+            "shaving beard, which has facial hair, typically stubble or a short beard",
+            "shaving beard, which is a razor or electric shaver",
+            "shaving beard, which has shaving cream or gel",
+            "shaving beard, which is a sink or mirror",
+            "shaving beard, which has possibly a towel or washcloth",
+            "shaving beard, which is a clean-shaven area on the face where the beard has been shaved"
+        ],
+        [
+            "shaving beard, which is a person holding a razor or electric shaver",
+            "shaving beard, which has foam or shaving cream on the face",
+            "shaving beard, which has scruffy or stubbly facial hair that looks like it is being shaved off",
+            "shaving beard, which has bathroom setting with a mirror and sink nearby"
+        ],
+        [
+            "shaving beard, which has presence of shaving cream or foam on the face",
+            "shaving beard, which has use of a razor or electric shaver",
+            "shaving beard, which has hand holding a razor or shaver",
+            "shaving beard, which has facial hair being removed or trimmed",
+            "shaving beard, which has close-up of the area being shaved, such as the chin or cheeks"
+        ]
+    ],
+    "shotput": [
+        [
+            "shotput, which has  heavy metal ball",
+            "shotput, which has smooth, round surface",
+            "shotput, which typically silver or metallic in color",
+            "shotput, which has size and weight can vary depending on competition regulations",
+            "shotput, which may have textured surface for better grip",
+            "shotput, which is used in track and field events like shot put competitions"
+        ],
+        [
+            "shotput, which is a round, heavy metal ball typically made of steel",
+            "shotput, which is a smooth surface with no visible seams or markings",
+            "shotput, which is a diameter of around 8.5 to 10.5 inches",
+            "shotput, which often held with a firm grip by an athlete's hand",
+            "shotput, which typically seen in a throwing motion or being held in a specific throwing position"
+        ],
+        [
+            "shotput, which is a heavy, round metal ball",
+            "shotput, which is a textured surface for grip",
+            "shotput, which is a diameter of around 7-9 inches",
+            "shotput, which is a weight of 8.8-16 pounds",
+            "shotput, which typically made of iron or brass"
+        ]
+    ],
+    "skate boarding": [
+        [
+            "skate boarding, which is a person riding a skateboard",
+            "skate boarding, which is a wooden board with wheels",
+            "skate boarding, which has the person wearing skateboarding shoes",
+            "skate boarding, which has the person performing tricks or maneuvers on the skateboard",
+            "skate boarding, which has ramps, rails, or other skateboarding obstacles in the background",
+            "skate boarding, which has skateboarding protective gear such as helmets, knee pads, and elbow pads"
+        ],
+        [
+            "skate boarding, which is a person wearing skateboarding-specific attire such as sneakers, baggy clothing, and a helmet",
+            "skate boarding, which is a skateboard in the image, either being ridden or placed nearby",
+            "skate boarding, which is a skatepark or urban environment with ramps, rails, and other skateboarding obstacles",
+            "skate boarding, which is a person performing skateboarding tricks or maneuvers such as ollies, kickflips, or grinds"
+        ]
+    ],
+    "skiing": [
+        [
+            "skiing, which has person wearing ski gear such as a helmet, goggles, jacket, pants, and gloves",
+            "skiing, which has person wearing ski boots and skis",
+            "skiing, which has snowy mountain or slope in the background",
+            "skiing, which has ski poles",
+            "skiing, which has person in a skiing position or moving down a slope",
+            "skiing, which has ski lift or other ski equipment in the background"
+        ],
+        [
+            "skiing, which is a person wearing skiing gear such as a helmet, goggles, and ski boots",
+            "skiing, which is a person holding ski poles and standing on skis",
+            "skiing, which has snow-covered mountains or slopes in the background",
+            "skiing, which is a trail of ski tracks in the snow",
+            "skiing, which has the typical body posture and movements associated with skiing, such as the forward-leaning position and carving turns"
+        ],
+        [
+            "skiing, which has the person is wearing skis on their feet",
+            "skiing, which has the person is holding ski poles",
+            "skiing, which has the background includes snow-covered slopes or mountains",
+            "skiing, which has the person is in a bent position with knees flexed, typical of skiing posture",
+            "skiing, which has the person is wearing ice skates",
+            "skiing, which has the person is on an ice rink",
+            "skiing, which has the person is wearing a costume or outfit typical of ice dancing, such as sequins or sparkles",
+            "skiing, which has the person is engaged in a dance pose or movement, rather than a skiing posture"
+        ]
+    ],
+    "skijet": [
+        [
+            "skijet, which has watercraft",
+            "skijet, which has sleek, streamlined design",
+            "skijet, which typically brightly colored",
+            "skijet, which has handlebars for steering",
+            "skijet, which has seat for the rider",
+            "skijet, which has propulsion system, such as a jet engine or propeller",
+            "skijet, which has water spray behind the skijet",
+            "skijet, which often seen in action on water"
+        ],
+        [
+            "skijet, which has sleek and streamlined body design with a seat for the rider",
+            "skijet, which has handlebars or steering mechanism for controlling the skijet",
+            "skijet, which is a propulsion system such as a jet engine or propeller",
+            "skijet, which has water spray or wake behind the skijet as it moves through the water",
+            "skijet, which is a rider wearing appropriate gear such as a helmet and life jacket"
+        ],
+        [
+            "skijet, which is a streamlined hull shape with the rider sitting or standing on the back",
+            "skijet, which is a handlebar or steering mechanism in front of the rider",
+            "skijet, which is a jet propulsion system visible at the back of the ski jet",
+            "skijet, which is a wake or spray of water trailing behind the ski jet",
+            "skijet, which has possibly a tow rope or tether connecting the ski jet to a boat or other vehicle"
+        ]
+    ],
+    "sky diving": [
+        [
+            "sky diving, which has person wearing a jumpsuit or skydiving gear",
+            "sky diving, which has parachute or wingsuit",
+            "sky diving, which is airplane or helicopter in the background",
+            "sky diving, which has clouds or sky in the background",
+            "sky diving, which has freefalling position with arms and legs spread out",
+            "sky diving, which has goggles or helmet",
+            "sky diving, which is altimeter or other skydiving equipment"
+        ],
+        [
+            "sky diving, which is a person wearing a skydiving jumpsuit or gear, including a helmet and parachute",
+            "sky diving, which is an open parachute above the person, indicating they are in mid-air",
+            "sky diving, which is a background of blue sky or clouds, suggesting they are high above the ground",
+            "sky diving, which has the position of the person, with arms and legs spread out or in a diving position, characteristic of skydiving."
+        ]
+    ],
+    "soccer juggling": [
+        [
+            "soccer juggling, which has  a person kicking a soccer ball in the air",
+            "soccer juggling, which has the soccer ball itself",
+            "soccer juggling, which has the person's feet and legs in motion",
+            "soccer juggling, which is a soccer field or other outdoor setting",
+            "soccer juggling, which has possibly other soccer players or spectators in the background",
+            "soccer juggling, which has the person's body positioning and balance as they juggle the ball"
+        ],
+        [
+            "soccer juggling, which is a person kicking a soccer ball in mid-air",
+            "soccer juggling, which is a person using their feet or knees to keep the ball from touching the ground",
+            "soccer juggling, which is a soccer ball being lifted and controlled with different parts of the body",
+            "soccer juggling, which is a person balancing and adjusting their body position to keep the ball in the air"
+        ]
+    ],
+    "soccer penalty": [
+        [
+            "soccer penalty, which has soccer field with goalposts",
+            "soccer penalty, which has players lined up for the penalty kick",
+            "soccer penalty, which has goalkeeper in the goal",
+            "soccer penalty, which has referee signaling for the penalty kick",
+            "soccer penalty, which has ball placed on the penalty spot",
+            "soccer penalty, which has tension and anticipation in the players' body language",
+            "soccer penalty, which has spectators watching from the sidelines"
+        ],
+        [
+            "soccer penalty, which is a player taking a penalty kick",
+            "soccer penalty, which has the goalkeeper in position to defend the goal",
+            "soccer penalty, which has the ball on the penalty spot",
+            "soccer penalty, which has the referee signaling for a penalty kick",
+            "soccer penalty, which has the penalty arc and goalposts in the background"
+        ],
+        [
+            "soccer penalty, which is a player standing alone in front of the goal, usually with the opposing goalkeeper",
+            "soccer penalty, which has the ball placed on a spot on the ground, typically 12 yards away from the goal line",
+            "soccer penalty, which has the referee signaling for the penalty kick to be taken",
+            "soccer penalty, which has players from both teams lining up along the edge of the penalty area",
+            "soccer penalty, which has goalkeeper positioned on the goal line, ready to defend the goal."
+        ]
+    ],
+    "still rings": [
+        [
+            "still rings, which has  metallic gymnastics apparatus",
+            "still rings, which has suspended from a ceiling or frame",
+            "still rings, which has two rings hanging parallel to each other",
+            "still rings, which typically made of steel or wood",
+            "still rings, which is used for gymnastic exercises and routines",
+            "still rings, which often seen in a gym or fitness setting"
+        ],
+        [
+            "still rings, which has two circular rings suspended from a ceiling or frame",
+            "still rings, which has gymnast performing static holds and movements on the rings",
+            "still rings, which has muscular upper body and core strength displayed by the gymnast",
+            "still rings, which typically performed in a gym or sports arena setting, with other gymnastic equipment visible in the background"
+        ],
+        [
+            "still rings, which has two large rings suspended from straps or chains",
+            "still rings, which typically made of wood or metal",
+            "still rings, which has rings are parallel to the ground and close together",
+            "still rings, which often found in a gymnastics or fitness setting",
+            "still rings, which is athlete or gymnast performing a routine or exercise on the rings"
+        ]
+    ],
+    "sumo wrestling": [
+        [
+            "sumo wrestling, which has large, overweight men wearing traditional mawashi (loincloth)",
+            "sumo wrestling, which has barefoot",
+            "sumo wrestling, which has in a circular ring called a dohyo",
+            "sumo wrestling, which has surrounded by referees and spectators",
+            "sumo wrestling, which has performing traditional rituals before the match",
+            "sumo wrestling, which has engaging in physical contact and grappling techniques",
+            "sumo wrestling, which has displaying strength and agility",
+            "sumo wrestling, which has traditional Japanese setting with banners and flags"
+        ],
+        [
+            "sumo wrestling, which has large and heavy body size of the wrestlers",
+            "sumo wrestling, which has traditional sumo wrestling outfit, including mawashi (belt) and topknot hairstyle",
+            "sumo wrestling, which has circular ring (dohyo) where the wrestlers compete",
+            "sumo wrestling, which has specific wrestling techniques and poses, such as grappling and pushing movements",
+            "sumo wrestling, which has presence of referees and spectators in traditional attire."
+        ],
+        [
+            "sumo wrestling, which has large, round bodies of the wrestlers",
+            "sumo wrestling, which has wrestlers wearing traditional mawashi (belt) around their waist",
+            "sumo wrestling, which has wrestlers engaging in close, physical contact with each other",
+            "sumo wrestling, which has traditional sumo wrestling ring (dohyo) in the background",
+            "sumo wrestling, which has wrestlers displaying specific sumo stances and movements"
+        ]
+    ],
+    "surfing": [
+        [
+            "surfing, which has person riding a surfboard on water",
+            "surfing, which has wearing a wetsuit or swimwear",
+            "surfing, which has holding onto or standing on a surfboard",
+            "surfing, which has waves in the background",
+            "surfing, which has beach or ocean setting",
+            "surfing, which has surfboard leash attached to ankle",
+            "surfing, which has possibly wearing a helmet or other protective gear"
+        ],
+        [
+            "surfing, which has the presence of a surfboard",
+            "surfing, which is a person standing or lying on a surfboard in the water",
+            "surfing, which has waves in the background",
+            "surfing, which has surfing gear such as wetsuits or rash guards",
+            "surfing, which has surfing stance or movement, such as riding a wave or paddling out to sea"
+        ],
+        [
+            "surfing, which is a person standing on a surfboard on the water",
+            "surfing, which has holding onto a surfboard",
+            "surfing, which has riding a wave",
+            "surfing, which has wearing a wetsuit or swimsuit",
+            "surfing, which has surfboard with fins underneath",
+            "surfing, which has ocean or beach background"
+        ]
+    ],
+    "swing": [
+        [
+            "swing, which has suspended seat or bench",
+            "swing, which has chains or ropes attached to a frame or tree",
+            "swing, which has backrest or support for sitting",
+            "swing, which typically made of wood, metal, or plastic",
+            "swing, which often found in playgrounds or outdoor recreational areas"
+        ],
+        [
+            "swing, which has presence of chains or ropes hanging from a frame",
+            "swing, which is a seat or platform suspended from the chains or ropes",
+            "swing, which has motion blur or movement of the swing in the photo",
+            "swing, which has surrounding playground equipment or structures that suggest a swing set",
+            "swing, which is a person or child sitting on the swing and swinging back and forth"
+        ]
+    ],
+    "table tennis shot": [
+        [
+            "table tennis shot, which is a small, round ball",
+            "table tennis shot, which is a paddle or racket",
+            "table tennis shot, which is a table with a net in the middle",
+            "table tennis shot, which has players in athletic attire",
+            "table tennis shot, which is a fast-paced, dynamic movement",
+            "table tennis shot, which is a competitive or recreational setting",
+            "table tennis shot, which is a focus on hand-eye coordination and agility"
+        ],
+        [
+            "table tennis shot, which is a person holding a table tennis paddle or racket",
+            "table tennis shot, which is a table tennis ball visible in the photo",
+            "table tennis shot, which is a table tennis table or net in the background",
+            "table tennis shot, which has the person in a ready position to hit the ball",
+            "table tennis shot, which has motion blur indicating fast movement of the ball"
+        ],
+        [
+            "table tennis shot, which is a table tennis racket",
+            "table tennis shot, which is a white or orange table tennis ball",
+            "table tennis shot, which is a player in a ready position to hit the ball",
+            "table tennis shot, which has fast movement and agility in the player's stance",
+            "table tennis shot, which is a table tennis table with a net in the background"
+        ]
+    ],
+    "tai chi": [
+        [
+            "tai chi, which has person or people practicing slow, flowing movements",
+            "tai chi, which has relaxed and focused expressions on their faces",
+            "tai chi, which has traditional Chinese clothing, such as a loose-fitting shirt and pants",
+            "tai chi, which has outdoor setting, such as a park or garden",
+            "tai chi, which has calm and peaceful atmosphere",
+            "tai chi, which has instructor guiding or demonstrating movements",
+            "tai chi, which has group of people practicing together"
+        ],
+        [
+            "tai chi, which has slow and controlled movements with fluid transitions",
+            "tai chi, which has focus on balance and posture",
+            "tai chi, which has gentle and graceful movements with a calm demeanor",
+            "tai chi, which has circular and flowing motions",
+            "tai chi, which has simultaneous coordination of upper and lower body movements"
+        ],
+        [
+            "tai chi, which has slow, deliberate movements with flowing transitions between poses",
+            "tai chi, which has focus on balance, posture, and controlled breathing",
+            "tai chi, which has soft, relaxed form with minimal strain or tension in the body",
+            "tai chi, which has non-linear movement patterns that incorporate circular and smooth motions",
+            "tai chi, which has fluid arm movements and gentle hand gestures."
+        ]
+    ],
+    "tennis swing": [
+        [
+            "tennis swing, which is a person holding a tennis racket",
+            "tennis swing, which is a tennis ball in motion",
+            "tennis swing, which is a player in a tennis court or on a tennis court surface",
+            "tennis swing, which is a player in a specific stance or position for hitting the ball",
+            "tennis swing, which is a player wearing tennis attire such as a tennis skirt or shorts, tennis shoes, and a tennis shirt",
+            "tennis swing, which is a tennis net in the background",
+            "tennis swing, which is a tennis court with lines and markings"
+        ],
+        [
+            "tennis swing, which is a person holding a tennis racket",
+            "tennis swing, which is a tennis ball in mid-air or on the court",
+            "tennis swing, which has the player's body positioning and movement characteristic of a tennis swing",
+            "tennis swing, which is a tennis court in the background",
+            "tennis swing, which has other players or a tennis net in the vicinity"
+        ],
+        [
+            "tennis swing, which is a person holding a tennis racket in their hand",
+            "tennis swing, which is a tennis ball in motion",
+            "tennis swing, which is a player in a tennis court setting",
+            "tennis swing, which has the player's body position and movement indicating a swing, such as rotating the torso or extending the arm to hit the ball"
+        ]
+    ],
+    "throw discus": [
+        [
+            "throw discus, which has  circular shape",
+            "throw discus, which has flat and smooth surface",
+            "throw discus, which has made of metal, plastic, or wood",
+            "throw discus, which has usually colored in bright colors for visibility",
+            "throw discus, which may have ridges or grooves for better grip",
+            "throw discus, which has lightweight and easy to hold",
+            "throw discus, which is used in sports such as discus throwing or ultimate frisbee"
+        ],
+        [
+            "throw discus, which has round and flat shape",
+            "throw discus, which has generally made of metal or plastic",
+            "throw discus, which typically held with one hand in a throwing position",
+            "throw discus, which often has a colored or patterned design on the surface",
+            "throw discus, which can be seen in motion in the throwing action, with the athlete winding up before release"
+        ],
+        [
+            "throw discus, which is a round, flat discus object being held in the hand of the athlete",
+            "throw discus, which has the athlete in a throwing position with their arm back ready to release the discus",
+            "throw discus, which has the discus being thrown in a spinning motion",
+            "throw discus, which has the presence of a throwing circle or field markings specific to discus throwing"
+        ]
+    ],
+    "trampoline jumping": [
+        [
+            "trampoline jumping, which is a round or rectangular frame",
+            "trampoline jumping, which is a taut, elastic surface",
+            "trampoline jumping, which is a person or people bouncing on the surface",
+            "trampoline jumping, which is a safety net or enclosure around the trampoline",
+            "trampoline jumping, which is a ladder or steps for getting on and off",
+            "trampoline jumping, which has springs or bungee cords connecting the surface to the frame",
+            "trampoline jumping, which is a padded frame and springs for safety"
+        ],
+        [
+            "trampoline jumping, which is a person mid-air with their legs tucked up or extended, indicating they are jumping on a trampoline",
+            "trampoline jumping, which is a trampoline visible in the background or underneath the person",
+            "trampoline jumping, which has the person's arms and body positioned in a way that suggests they are bouncing on a springy surface",
+            "trampoline jumping, which has the person's facial expression may indicate excitement or joy associated with jumping on a trampoline"
+        ],
+        [
+            "trampoline jumping, which is a person mid-air with their legs bent and arms up",
+            "trampoline jumping, which is a circular or rectangular trampoline in the background",
+            "trampoline jumping, which has the person is bouncing off the trampoline surface",
+            "trampoline jumping, which has the person may be wearing athletic clothes or sneakers",
+            "trampoline jumping, which has the person's body may be in a dynamic and suspended position"
+        ]
+    ],
+    "typing": [
+        [
+            "typing, which is a keyboard with keys for letters, numbers, and symbols",
+            "typing, which is a screen or monitor displaying text or a typing interface",
+            "typing, which is a mouse or trackpad for navigation",
+            "typing, which is a desk or table for the typing to sit on",
+            "typing, which has cables or wireless connections for power and data transfer",
+            "typing, which is a chair for the typing to sit in",
+            "typing, which has possibly headphones or other accessories for typing tasks"
+        ],
+        [
+            "typing, which has the person in the photo is sitting at a desk or table with a computer or typewriter in front of them",
+            "typing, which has their hands are positioned over the keyboard, typing or pressing keys",
+            "typing, which has their posture is typically upright or slightly leaning forward",
+            "typing, which has they may have a focused or concentrated expression on their face",
+            "typing, which has there may be text or words visible on the screen or paper in front of them"
+        ]
+    ],
+    "uneven bars": [
+        [
+            "uneven bars, which has  metal bars set at different heights",
+            "uneven bars, which typically made of fiberglass or wood",
+            "uneven bars, which is attached to a base or frame",
+            "uneven bars, which is used in gymnastics routines",
+            "uneven bars, which often seen in a gym or training facility",
+            "uneven bars, which typically have padding or grips for the gymnast's hands",
+            "uneven bars, which may have adjustable settings for different skill levels"
+        ],
+        [
+            "uneven bars, which has two upright parallel bars with one set higher than the other",
+            "uneven bars, which is a gymnast performing tricks or routines on the bars",
+            "uneven bars, which has chalk residue on the bars from the gymnast's hands",
+            "uneven bars, which has judges or spectators in the background watching the performance",
+            "uneven bars, which has gymnastic mats or padding underneath the bars for safety."
+        ],
+        [
+            "uneven bars, which has two parallel bars set at different heights",
+            "uneven bars, which is a metal frame supporting the bars",
+            "uneven bars, which has grips or pads on the bars for gymnasts to hold onto",
+            "uneven bars, which is a horizontal bar or rod connecting the two parallel bars",
+            "uneven bars, which is adjustable height settings for the bars",
+            "uneven bars, which has sponsor logos or branding on the equipment"
+        ]
+    ],
+    "volleyball spiking": [
+        [
+            "volleyball spiking, which has  player jumping in the air",
+            "volleyball spiking, which has player's arm extended above their head",
+            "volleyball spiking, which has ball in mid-air",
+            "volleyball spiking, which has player's hand making contact with the ball",
+            "volleyball spiking, which has net in the background",
+            "volleyball spiking, which has other players on the court",
+            "volleyball spiking, which has volleyball court markings visible"
+        ],
+        [
+            "volleyball spiking, which has player in mid-air with arms extended above their head",
+            "volleyball spiking, which has ball being hit or spiked downwards towards the ground",
+            "volleyball spiking, which has intense focus and concentration on the player's face",
+            "volleyball spiking, which has other players in the background ready to receive or defend the ball"
+        ],
+        [
+            "volleyball spiking, which is a player jumping in the air with arms raised above their head",
+            "volleyball spiking, which has ball mid-air, coming in contact with the player's hand",
+            "volleyball spiking, which has player's body position indicating explosive movement and power",
+            "volleyball spiking, which has surrounding players positioned for defense or setting up for a dig",
+            "volleyball spiking, which has net visible in the background, indicating a volleyball game is taking place"
+        ]
+    ],
+    "walking with dog": [
+        [
+            "walking with dog, which is a person walking with a dog on a leash",
+            "walking with dog, which is a dog of various breeds and sizes",
+            "walking with dog, which has outdoor setting, such as a park or sidewalk",
+            "walking with dog, which has dog accessories, such as a collar or leash",
+            "walking with dog, which has interaction between the person and the dog, such as playing or walking together",
+            "walking with dog, which has dog's tail wagging or ears perked up",
+            "walking with dog, which has dog's fur color and texture"
+        ],
+        [
+            "walking with dog, which is a person walking outdoors with a dog on a leash",
+            "walking with dog, which has the presence of a dog alongside the person, possibly showing characteristics of a specific breed",
+            "walking with dog, which is a relaxed and leisurely pace, with both the person and the dog appearing in a casual and comfortable manner",
+            "walking with dog, which has possibly a visible environment that suggests an outdoor setting, such as a park, sidewalk, or trail"
+        ]
+    ],
+    "wall pushups": [
+        [
+            "wall pushups, which has person standing facing a wall",
+            "wall pushups, which has hands placed on the wall at shoulder height",
+            "wall pushups, which has body leaning forward at an angle",
+            "wall pushups, which has feet hip-width apart",
+            "wall pushups, which has performing a pushing motion against the wall",
+            "wall pushups, which has upper body engaged and core tight",
+            "wall pushups, which has elbows bending and straightening as the pushup is performed"
+        ],
+        [
+            "wall pushups, which is a person standing facing a wall with their hands flat against the wall at shoulder height",
+            "wall pushups, which has their body forming a straight line from head to heels, with their feet hip-width apart",
+            "wall pushups, which has performing a pushup motion by bending their elbows and lowering their chest towards the wall, then pushing back up to starting position",
+            "wall pushups, which has the person's body moving as a single unit, with no arching or sagging in the back."
+        ],
+        [
+            "wall pushups, which has the person is standing in front of a wall with their hands on the wall at shoulder height",
+            "wall pushups, which has the person is leaning forward and pushing their body away from the wall using their arms",
+            "wall pushups, which has the person's body is in a straight line from head to heels",
+            "wall pushups, which has the person's feet are slightly away from the wall, with toes pointed down to the ground."
+        ]
+    ],
+    "writing on board": [
+        [
+            "writing on board, which is a flat surface with a writing surface",
+            "writing on board, which has writing utensils such as markers or chalk",
+            "writing on board, which has writing or drawings on the surface",
+            "writing on board, which has erasers or cleaning supplies nearby",
+            "writing on board, which has possibly a ledge or tray to hold writing utensils",
+            "writing on board, which has possibly a stand or mount to hold the board upright"
+        ],
+        [
+            "writing on board, which has clear and legible text or symbols on the board",
+            "writing on board, which has writing implements such as markers, chalk, or pens near the board",
+            "writing on board, which has visual context such as educational materials or diagrams on the board",
+            "writing on board, which has handwriting or drawing visible on the board",
+            "writing on board, which has size and orientation of the board, such as a traditional chalkboard or whiteboard"
+        ]
+    ],
+    "yo yo": [
+        [
+            "yo yo, which has  circular shape",
+            "yo yo, which has two discs connected by an axle",
+            "yo yo, which has string attached to the axle",
+            "yo yo, which often brightly colored or patterned",
+            "yo yo, which may have designs or logos on the discs",
+            "yo yo, which can be seen in motion, either spinning or being manipulated by the user"
+        ],
+        [
+            "yo yo, which is a circular shape with a string attached",
+            "yo yo, which typically colorful and may have designs or patterns on the surface",
+            "yo yo, which can be seen being manipulated or played with in the image",
+            "yo yo, which may have a distinctive shape or size compared to other objects in the dataset"
+        ]
+    ]
+}
