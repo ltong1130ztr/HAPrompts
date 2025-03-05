@@ -1,7 +1,7 @@
 <h1 style="text-align: center;"> Making Better Mistakes in CLIP-Based Zero-Shot Classification with Hierarchy-Aware Language Prompts</h1>
 
 
-
+[paper arXiv link](https://arxiv.org/abs/2503.02248)
 
 ## The proposed CLIP-based zero-shot classification process
 Our approach queries an LLM to generate descriptions of the classes in the downstream tasks based on the associated label hierarchies of the downstream tasks for the subsequent CLIP-based zero-shot classification.
